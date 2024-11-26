@@ -1,0 +1,85 @@
+[
+  {
+    "discom": "MSEDCL",
+    "state": "Maharashtra",
+    "source_url": "https://www.mahadiscom.in/consumer/wp-content/uploads/2018/03/Comm_Cir_175.pdf",
+    "source_title": "Maharashtra State Electricity Distribution Co. Ltd.",
+    "source_type": "pdf",
+    "last_updated": "2024-11-26 08:03:40",
+    "tariff_data": {
+      "residential_tariffs": {
+        "fixed_charges": [
+          {
+            "connection_type": "Single Phase",
+            "rate": 40,
+            "unit": "Rs/month"
+          },
+          {
+            "connection_type": "Three Phase",
+            "rate": 130,
+            "unit": "Rs/month"
+          }
+        ],
+        "energy_charges": [
+          {
+            "slab": "0-100 units",
+            "rate": 3.36,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 0,
+              "max": 100
+            }
+          },
+          {
+            "slab": "101-300 units",
+            "rate": 6.05,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 101,
+              "max": 300
+            }
+          },
+          {
+            "slab": "301-500 units",
+            "rate": 7.92,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 301,
+              "max": 500
+            }
+          },
+          {
+            "slab": "501-1000 units",
+            "rate": 8.78,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 501,
+              "max": 1000
+            }
+          },
+          {
+            "slab": "Above 1000 units",
+            "rate": 9.5,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 1001,
+              "max": null
+            }
+          }
+        ],
+        "additional_charges": [
+          {
+            "description": "Additional Fixed Charge for load above 10 kW",
+            "rate": 100,
+            "unit": "Rs/10 kW/month"
+          }
+        ],
+        "conditions": [
+          "The revised tariffs are applicable from August 01, 2012 and will continue to be in force till further orders.",
+          "In case of change in Contract Demand, the period specified in Clause (i) above will be reckoned from the month following the month in which the change of Contract Demand takes place."
+        ],
+        "effective_date": "August 01, 2012"
+      }
+    }
+  }
+]

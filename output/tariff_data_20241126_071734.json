@@ -1,0 +1,30 @@
+[
+  {
+    "discom": "MSEDCL",
+    "state": "Maharashtra",
+    "source_url": "https://www.mahadiscom.in/consumer/wp-content/uploads/2018/03/Comm_Cir_175.pdf",
+    "source_title": "Maharashtra State Electricity Distribution Co. Ltd.",
+    "source_type": "pdf",
+    "last_updated": "2024-11-26 07:17:32",
+    "tariff_data": {
+      "residential_tariffs": {
+        "fixed_charges": [],
+        "energy_charges": [],
+        "surcharges": [
+          {
+            "name": "Infrastructure Charge",
+            "rate": 0.09,
+            "unit": "Rs/kWh",
+            "description": "Additional charge for consumers in Nagpur for expenditure on shifting of electric poles/lines."
+          }
+        ],
+        "effective_date": "August 1, 2012",
+        "notes": [
+          "The revised tariffs are applicable from August 1, 2012 and will continue to be in force till further orders.",
+          "Tariffs are subject to revision and/or surcharge that may be levied by MSEDCL from time to time as per the directives of the Commission.",
+          "The Tariffs are exclusive of Electricity Duty, Tax on Sale of Electricity (ToSE) and other charges as levied by Government or other Competent Authorities and the same will be payable by the consumers in addition to the charges levied as per the Tariffs hereunder."
+        ]
+      }
+    }
+  }
+]

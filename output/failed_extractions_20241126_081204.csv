@@ -1,0 +1,17 @@
+state,discom,timestamp,error
+Maharashtra,MSEDCL,2024-11-26 08:11:23,'TariffExtractor' object has no attribute 'download_pdf'
+Delhi,BSES Rajdhani,2024-11-26 08:11:26,Failed to extract content from document
+Delhi,BSES Yamuna,2024-11-26 08:11:28,Failed to extract content from document
+Delhi,Tata Power Delhi,2024-11-26 08:11:31,'TariffExtractor' object has no attribute 'download_pdf'
+Gujarat,UGVCL,2024-11-26 08:11:33,No valid tariff document found
+Gujarat,DGVCL,2024-11-26 08:11:36,No valid tariff document found
+Gujarat,MGVCL,2024-11-26 08:11:38,No valid tariff document found
+Gujarat,PGVCL,2024-11-26 08:11:41,No valid tariff document found
+Karnataka,BESCOM,2024-11-26 08:11:44,'TariffExtractor' object has no attribute 'download_pdf'
+Karnataka,MESCOM,2024-11-26 08:11:47,No valid tariff document found
+Tamil Nadu,TANGEDCO,2024-11-26 08:11:50,No valid tariff document found
+Telangana,TSSPDCL,2024-11-26 08:11:52,'TariffExtractor' object has no attribute 'download_pdf'
+Uttar Pradesh,UPPCL,2024-11-26 08:11:55,'TariffExtractor' object has no attribute 'download_pdf'
+West Bengal,WBSEDCL,2024-11-26 08:11:57,'TariffExtractor' object has no attribute 'download_pdf'
+Rajasthan,JVVNL,2024-11-26 08:11:59,No valid tariff document found
+Punjab,PSPCL,2024-11-26 08:12:02,'TariffExtractor' object has no attribute 'download_pdf'

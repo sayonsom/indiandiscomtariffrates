@@ -1,0 +1,13 @@
+[
+  {
+    "discom": "BSES Rajdhani",
+    "state": "Delhi",
+    "error": "Failed to extract content from document",
+    "source": {
+      "url": "https://www.bsesdelhi.com/documents/55701/91985/Tariff_Schedule_2020_21.pdf/3a1aed11-0179-1be4-d73b-5ee9a9a6870b?t=1598869358543",
+      "title": "ELECTRICITY TARIFF SCHEDULE FOR FY 2020-21 – BRPL, BYPL ...",
+      "snippet": "For all categories other than domestic, fixed charges are to be levied based on billing demand per kW/kVA or part thereof. Where the Maximum Demand (MD), as ...",
+      "type": "html"
+    }
+  }
+]

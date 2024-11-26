@@ -1,0 +1,371 @@
+[
+  {
+    "discom": "MSEDCL",
+    "state": "Maharashtra",
+    "source_url": "https://www.mahadiscom.in/consumer/wp-content/uploads/2018/03/Comm_Cir_175.pdf",
+    "source_title": "Maharashtra State Electricity Distribution Co. Ltd.",
+    "source_type": "pdf",
+    "last_updated": "2024-11-26 08:13:53",
+    "tariff_data": {
+      "residential_tariffs": {
+        "fixed_charges": [
+          {
+            "connection_type": "Single Phase",
+            "rate": 40,
+            "unit": "Rs/month"
+          },
+          {
+            "connection_type": "Three Phase",
+            "rate": 130,
+            "unit": "Rs/month"
+          }
+        ],
+        "energy_charges": [
+          {
+            "slab": "0-100 units",
+            "rate": 3.36,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 0,
+              "max": 100
+            }
+          },
+          {
+            "slab": "101-300 units",
+            "rate": 6.05,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 101,
+              "max": 300
+            }
+          },
+          {
+            "slab": "301-500 units",
+            "rate": 7.92,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 301,
+              "max": 500
+            }
+          },
+          {
+            "slab": "501-1000 units",
+            "rate": 8.78,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 501,
+              "max": 1000
+            }
+          },
+          {
+            "slab": "Above 1000 units",
+            "rate": 9.5,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 1001,
+              "max": null
+            }
+          }
+        ],
+        "additional_charges": [
+          {
+            "description": "Additional Fixed Charge for load above 10 kW",
+            "rate": 100,
+            "unit": "Rs/10 kW/month"
+          }
+        ],
+        "conditions": [
+          "The revised tariffs are applicable from August 01, 2012 and will continue to be in force till further orders.",
+          "In case any consumer has consumed more than 3600 units in the previous financial year, then the consumer will not be eligible for Tariff under this category and will be charged as per appropriate category."
+        ],
+        "effective_date": "August 01, 2012"
+      }
+    }
+  },
+  {
+    "discom": "BSES Rajdhani",
+    "state": "Delhi",
+    "error": "Failed to extract content from document",
+    "source": {
+      "url": "https://www.bsesdelhi.com/documents/55701/91985/Tariff_Schedule_2020_21.pdf/3a1aed11-0179-1be4-d73b-5ee9a9a6870b?t=1598869358543",
+      "title": "ELECTRICITY TARIFF SCHEDULE FOR FY 2020-21 – BRPL, BYPL ...",
+      "snippet": "For all categories other than domestic, fixed charges are to be levied based on billing demand per kW/kVA or part thereof. Where the Maximum Demand (MD), as ...",
+      "type": "html"
+    }
+  },
+  {
+    "discom": "BSES Yamuna",
+    "state": "Delhi",
+    "error": "Failed to extract content from document",
+    "source": {
+      "url": "https://www.bsesdelhi.com/documents/55701/91985/Tariff_Schedule_2020_21.pdf/3a1aed11-0179-1be4-d73b-5ee9a9a6870b?t=1598869358543",
+      "title": "ELECTRICITY TARIFF SCHEDULE FOR FY 2020-21 – BRPL, BYPL ...",
+      "snippet": "For all categories other than domestic, fixed charges are to be levied based on billing demand per kW/kVA or part thereof. Where the Maximum Demand (MD), as ...",
+      "type": "html"
+    }
+  },
+  {
+    "discom": "Tata Power Delhi",
+    "state": "Delhi",
+    "error": "Failed to extract content from document",
+    "source": {
+      "url": "https://www.tatapower-ddl.com/Editor_UploadedDocuments/Content/Tariff_Schedule_2020-21.pdf",
+      "title": "ELECTRICITY TARIFF SCHEDULE FOR FY 2020-21 – BRPL, BYPL ...",
+      "snippet": "For all categories other than domestic, fixed charges are to be levied based on billing demand per kW/kVA or part thereof. Where the Maximum Demand (MD), as ...",
+      "type": "pdf"
+    }
+  },
+  {
+    "discom": "UGVCL",
+    "state": "Gujarat",
+    "error": "No tariff information found",
+    "searched_variations": [
+      "residential electricity tariff rates schedule",
+      "domestic consumer tariff pdf",
+      "LT-1 domestic tariff order",
+      "current electricity rates domestic consumers"
+    ]
+  },
+  {
+    "discom": "DGVCL",
+    "state": "Gujarat",
+    "error": "No tariff information found",
+    "searched_variations": [
+      "residential electricity tariff rates schedule",
+      "domestic consumer tariff pdf",
+      "LT-1 domestic tariff order",
+      "current electricity rates domestic consumers"
+    ]
+  },
+  {
+    "discom": "MGVCL",
+    "state": "Gujarat",
+    "error": "No tariff information found",
+    "searched_variations": [
+      "residential electricity tariff rates schedule",
+      "domestic consumer tariff pdf",
+      "LT-1 domestic tariff order",
+      "current electricity rates domestic consumers"
+    ]
+  },
+  {
+    "discom": "PGVCL",
+    "state": "Gujarat",
+    "error": "No tariff information found",
+    "searched_variations": [
+      "residential electricity tariff rates schedule",
+      "domestic consumer tariff pdf",
+      "LT-1 domestic tariff order",
+      "current electricity rates domestic consumers"
+    ]
+  },
+  {
+    "discom": "BESCOM",
+    "state": "Karnataka",
+    "source_url": "https://www.bescom.co.in/bescom/assets/pdfs/ConditionsofSupplyofElectricitywithIandIIAmendments.pdf",
+    "source_title": "Conditions of Supply of Electricity Of Distribution Licensees in The ...",
+    "source_type": "pdf",
+    "last_updated": "2024-11-26 08:14:28",
+    "tariff_data": {
+      "error": "Failed to extract tariff information",
+      "details": "Error code: 429 - {'error': {'message': 'Request too large for gpt-4-turbo-preview in organization org-n7UuK5isMjqibIi54zwcvVDx on tokens per min (TPM): Limit 30000, Requested 95539. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "discom": "MESCOM",
+    "state": "Karnataka",
+    "error": "No tariff information found",
+    "searched_variations": [
+      "residential electricity tariff rates schedule",
+      "domestic consumer tariff pdf",
+      "LT-1 domestic tariff order",
+      "current electricity rates domestic consumers"
+    ]
+  },
+  {
+    "discom": "TANGEDCO",
+    "state": "Tamil Nadu",
+    "error": "No tariff information found",
+    "searched_variations": [
+      "residential electricity tariff rates schedule",
+      "domestic consumer tariff pdf",
+      "LT-1 domestic tariff order",
+      "current electricity rates domestic consumers"
+    ]
+  },
+  {
+    "discom": "TSSPDCL",
+    "state": "Telangana",
+    "error": "Failed to extract content from document",
+    "source": {
+      "url": "http://www.tssouthernpower.com/resources/PDF/Tariffs/51tarifffile.pdf",
+      "title": "retail supply tariff schedule for fy 2023-24",
+      "snippet": "Fuel Surcharge/Cost Adjustment (FSA/FCA) as per Regulation No.1 of 2023. The tariffs are exclusive of Electricity Duty and is payable as per the provisions of ...",
+      "type": "pdf"
+    }
+  },
+  {
+    "discom": "UPPCL",
+    "state": "Uttar Pradesh",
+    "source_url": "https://www.uppcl.org/tariff/Tariff_09_II.pdf",
+    "source_title": "Press Note English Part II",
+    "source_type": "pdf",
+    "last_updated": "2024-11-26 08:15:04",
+    "tariff_data": {
+      "residential_tariffs": {
+        "fixed_charges": [
+          {
+            "connection_type": "Single Phase",
+            "rate": 60,
+            "unit": "Rs/kW/month"
+          }
+        ],
+        "energy_charges": [
+          {
+            "slab": "0-200 units",
+            "rate": 3.0,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 0,
+              "max": 200
+            }
+          },
+          {
+            "slab": "above 200 units",
+            "rate": 3.3,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 201,
+              "max": null
+            }
+          },
+          {
+            "slab": "0-100 units (Life Line Consumers)",
+            "rate": 1.9,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 0,
+              "max": 100
+            }
+          },
+          {
+            "slab": "101-150 units (Life Line Consumers)",
+            "rate": 2.5,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 101,
+              "max": 150
+            }
+          }
+        ],
+        "additional_charges": [
+          {
+            "description": "Fixed Charge for Life Line Consumers",
+            "rate": 50,
+            "unit": "Rs/kW/month"
+          }
+        ],
+        "conditions": [
+          "Life Line Consumers are those with a contracted load of 1.00 kW, energy consumption up to 150 kWh/Month, and with plot area & constructed area less than 500 sq. ft."
+        ],
+        "effective_date": "7 days after 15th April 2008"
+      }
+    }
+  },
+  {
+    "discom": "WBSEDCL",
+    "state": "West Bengal",
+    "source_url": "https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/pdf/Tariff_Volumn/Tariff_chart_dated_30.03.2023_for_the_year_2023-24_18_04.pdf",
+    "source_title": "Untitled",
+    "source_type": "pdf",
+    "last_updated": "2024-11-26 08:15:20",
+    "tariff_data": {
+      "error": "Failed to extract tariff information",
+      "details": "Error code: 429 - {'error': {'message': 'Request too large for gpt-4-turbo-preview in organization org-n7UuK5isMjqibIi54zwcvVDx on tokens per min (TPM): Limit 30000, Requested 36552. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+    }
+  },
+  {
+    "discom": "JVVNL",
+    "state": "Rajasthan",
+    "error": "No tariff information found",
+    "searched_variations": [
+      "residential electricity tariff rates schedule",
+      "domestic consumer tariff pdf",
+      "LT-1 domestic tariff order",
+      "current electricity rates domestic consumers"
+    ]
+  },
+  {
+    "discom": "PSPCL",
+    "state": "Punjab",
+    "source_url": "https://www.pspcl.in/pdfs/twenty-nineteen/10/TariffStructure20233107.pdf",
+    "source_title": "Tariff structure for FY 2023-24 as per Tariff order issucd try",
+    "source_type": "pdf",
+    "last_updated": "2024-11-26 08:15:37",
+    "tariff_data": {
+      "residential_tariffs": {
+        "fixed_charges": [
+          {
+            "connection_type": "Up to 2 kW",
+            "rate": 50,
+            "unit": "Rs/month"
+          },
+          {
+            "connection_type": "Above 2 kW & upto 7 kW",
+            "rate": 75,
+            "unit": "Rs/month"
+          },
+          {
+            "connection_type": "Above 7 kW & upto 50 kW",
+            "rate": 110,
+            "unit": "Rs/month"
+          },
+          {
+            "connection_type": "Above 50 kW & upto 100 kW",
+            "rate": 130,
+            "unit": "Rs/month"
+          },
+          {
+            "connection_type": "Above 100 kW",
+            "rate": 140,
+            "unit": "Rs/month"
+          }
+        ],
+        "energy_charges": [
+          {
+            "slab": "0-100 kWh",
+            "rate": 4.19,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 0,
+              "max": 100
+            }
+          },
+          {
+            "slab": "101-300 kWh",
+            "rate": 6.9,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 101,
+              "max": 300
+            }
+          },
+          {
+            "slab": "Above 300 kWh",
+            "rate": 7.75,
+            "unit": "Rs/kWh",
+            "consumption_range": {
+              "min": 301,
+              "max": null
+            }
+          }
+        ],
+        "additional_charges": [],
+        "conditions": [
+          "The revised tariffs will be applicable from 16.05.2023 to 31.03.2024."
+        ],
+        "effective_date": "16.05.2023"
+      }
+    }
+  }
+]
