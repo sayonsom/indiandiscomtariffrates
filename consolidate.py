@@ -2,6 +2,7 @@ import os
 import csv
 from tqdm import tqdm
 from openai import OpenAI
+from openai import OpenAI
 import json
 from dotenv import load_dotenv
 
@@ -16,7 +17,6 @@ client = OpenAI(api_key=api_key)
 
 # OpenAI API client setup
 api_key = os.environ.get("MY_OPENAI_KEY")
-
 # Defining column headers for the consolidated CSV
 columns = [
     "Utility_Name", "0-50 kWh", "50-100 kWh", "100-150 kWh", "150-200 kWh",
@@ -28,13 +28,14 @@ columns = [
 def analyze_tariff_file(content, utility_name):
     prompt = f"""
     The following is an analysis from a utility company named {utility_name}.
-    Extract electricity rates across the given slabs: 0-50 kWh, 50-100 kWh, 100-150 kWh, 150-200 kWh, 200-250 kWh, 250-300 kWh, 300-350 kWh, 350-400 kWh, 400-450 kWh, 450-500 kWh, and 500+ kWh.
+    Extract electricity rates across the given slabs. You will probably get in different slabs .. like 0-200, 200-500, etc ... but for sake of consistency across all files, use intelligence to break down any slab into 0-50 kWh, 50-100 kWh, 100-150 kWh, 150-200 kWh, 200-250 kWh, 250-300 kWh, 300-350 kWh, 350-400 kWh, 400-450 kWh, 450-500 kWh, and 500+ kWh.
+    If the rates are not clearly mentioned in these slabs, calculate the slab ranges off the known ranges and break them down into these blocks logically.
     Also mention if there's any EV tariff and Time of Day tariff information.
     Provide any other relevant notes in an organized manner.
 
     {content}
 
-    Output the results in the following JSON format:
+    Dont add any explanation to the output. Output should strictly have the results in the following JSON format:
     {{
         "Utility_Name": "{utility_name}",
         "0-50 kWh": "<rate>",
@@ -59,10 +60,13 @@ def analyze_tariff_file(content, utility_name):
         {"role": "system", "content": "You are a helpful assistant."},
         {"role": "user", "content": prompt}
     ],
-    max_tokens=500,
+    max_tokens=1000,
     temperature=0.2)
 
-    response_content = response.choices[0].message.content.strip()
+    try:
+        response_content = response.choices[0].message.content
+    except Exception as e:
+        breakpoint()
 
     # Debugging print to see what response is being generated
     print(f"Response for {utility_name}: {response_content}")
@@ -71,7 +75,8 @@ def analyze_tariff_file(content, utility_name):
         return json.loads(response_content)
     except json.JSONDecodeError as e:
         print(f"Failed to parse response for {utility_name}: {e}")
-        return None
+        # return empty json for failed responses 
+        return {}
 
 # Writing the consolidated CSV file
 with open(output_csv_path, mode="w", newline="") as csv_file:
@@ -92,6 +97,10 @@ with open(output_csv_path, mode="w", newline="") as csv_file:
             try:
                 tariff_data = analyze_tariff_file(content, utility_name)
                 if tariff_data:
+                    # Ensure all required columns are present
+                    for column in columns:
+                        if column not in tariff_data:
+                            tariff_data[column] = "N/A"
                     writer.writerow(tariff_data)
             except Exception as e:
                 print(f"Failed to analyze {txt_file}: {e}")
