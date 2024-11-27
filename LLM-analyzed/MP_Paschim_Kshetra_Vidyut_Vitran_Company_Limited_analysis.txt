@@ -1,0 +1,15 @@
+The electricity rates for residential customers are determined based on their monthly consumption and type of connection. Here are the relevant details:
+
+1. **Domestic Tariff (LV 1.1 and LV 1.2):**
+   - For consumers with sanctioned load not more than 100 watts and consumption not more than 30 units, there are no fixed charges, and the energy charge is 325 paise per unit.
+   - For consumption up to 50 units, the fixed charge is Rs. 64 for urban and Rs. 50 for rural areas, with an energy charge of 413 paise per unit.
+   - For 51 to 150 units, the fixed charge is Rs. 109 for urban and Rs. 90 for rural areas, with an energy charge of 505 paise per unit.
+   - For 151 to 300 units, energy charges are 645 paise per unit with a load-based fixed charge【4:2†source】.
+
+2. **Electric Vehicle (EV) Charging Stations:**
+   - The tariff for Electric Vehicle/E-Rickshaw charging installations includes a monthly fixed charge of Rs. 100 per kVA or 125 per kW of billing demand, and an energy charge of 600 paise per unit【4:0†source】.
+
+3. **Time of Day Tariffs:**
+   - The document does not explicitly mention Time of Day (ToD) tariffs for residential consumers or any specific details for such scheming. It focuses on standard tariff structures based on consumption slabs for various consumer categories, including domestic and EV charging【4:0†source】【4:3†source】【4:4†source】.
+
+These tariffs are applicable as per the regulation issued by the Madhya Pradesh Electricity Regulatory Commission for the fiscal year 2021-22【4:5†source】.

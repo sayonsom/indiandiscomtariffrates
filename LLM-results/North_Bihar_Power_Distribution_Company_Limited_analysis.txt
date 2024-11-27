@@ -1,0 +1,9 @@
+The electricity rates for residential customers are detailed in the document as follows:
+
+- DS-I Rural (Metered): Rs. 60/kW or part/month, with energy charges of Rs. 7.57/unit for the first 50 units and Rs. 8.11/unit for units above 50【4:5†source】.
+
+Regarding EV and Time of Day (ToD) tariffs:
+
+- For LT (Low Tension) Electrical Vehicle charging stations, the rate is Rs. 8.87/kVAh for all units【4:0†source】.
+
+Unfortunately, the document does not specifically mention Time of Day (ToD) tariffs. If the ToD tariffs are applicable, they would need to be explicitly referenced or further detailed in another section of the tariff documentation not included in the extracted information.

@@ -1,0 +1,52 @@
+﻿Description,Approved Charges
+Monthly Meter Rental Charges,
+Single Phase LT meter,NIL
+Three Phase LT meter,NIL
+LT Meter with MD indicator,NIL
+Tri-vector Meter,NIL
+"Note: The type of meters to be installed in consumer premises will be decided by Discom. Generally, the consumers having connected load above 50 HP will be provided with L.T.M.D meters",
+Reconnection Charges,
+LT Services,
+Single Phase LT,INR 50/-
+Three Phase LT,INR 100/-
+HT Services,INR 1000/-
+"Note: If the same consumer seeks reconnection within 12 months from the date of reconnection or disconnection, 50% will be added to above charges",
+Testing Fee for Various Metering Equipments,
+Single Phase,INR 100/-
+Three Phase,INR 300/-
+Three Phase Tri-vector Meter (0.5 Class) Industrial LT Consumer,INR 500/-
+Three Phase Tri-vector Meter (0.5 Class) 11 kV HT Consumer,INR 500/-
+Three Phase Tri-vector Meter (0.2 Class) 66 KV EHT Consumers,INR 1000/-
+Combined CT/PT Unit for 11 KV Consumer,INR 500/-
+66 KV CT/ PT Unit,INR 500/-
+Three Phase CT Block,INR 300/-
+CT Coil,INR 100/-
+Service Connection Charges,
+Single Phase LT,INR 250/-
+Three Phase LT,"INR 1,000/-"
+HT (First 500 KVA),"INR 10,000/-"
+HT (Beyond 500 KVA),"INR 1,000/- per 100 KVA or part thereof"
+Extra Length - Single Phase,INR 25/- per meter
+Extra Length - Three Phase,INR50/- per meter
+"Extra length chargeable will be beyond the permissible 30 meters, free length from existing network for new connections for all categories except agriculture. Free length in respect of new agriculture consumer is 300 meters.",
+Entire Cost of setting up HT connection would be borne by the consumer and 15% supervision charges shall be recovered by DNHPDCL on labor component only as per JERC Supply Code 2018.,
+Fees (Non-refundable) for submission of Test Report of wiring Completion,
+Single Phase Lighting / Domestic,INR 10/- Per Test Report
+Three Phase Lighting / Domestic,INR 25/- Per Test Report
+Single Phase Lighting / Non Domestic,INR 50/- Per Test Report
+Three Phase Lighting / Non Domestic,INR 100/- Per Test Report
+Three Phase LT Industries,INR 250/- Per Test Report
+Single Phase / Three phase Agriculture / Streetlight / Public Lighting & others,INR 50/- Per Test Report
+HT Industries upto 500 KVA,"INR 1,000/- Per Test Report"
+HT Industries upto 2500 KVA,"INR 5,000/- Per Test Report"
+HT Industries above 2500 KVA,"INR 10,000/- Per Test Report"
+Registration for Change of Name,
+1 Phase Domestic / commercial,
+3 Phase Domestic / commercial,200
+LT Industries,500
+HT Industries,1000
+EHV Industries,2000
+Shifting of meter,
+1 Phase Domestic / commercial,100
+3 Phase Domestic / commercial,200
+LT Industries,500

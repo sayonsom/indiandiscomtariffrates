@@ -1,0 +1,15 @@
+The electricity rates for residential customers in Daman and Diu are categorized as follows:
+
+1. For 0-50 units: INR 1.60 per kWh
+2. For 51-100 units: INR 1.60 per kWh
+3. For 101-200 units: INR 2.30 per kWh
+4. For 201-400 units: INR 2.80 per kWh
+5. For 401 and above: INR 3.40 per kWh
+6. For Life Line Consumers (up to 2x40 W bulbs only): INR 1.00 per kWh【4:0†Daman and Diu TarrifOrder.pdf】.
+
+Regarding Electric Vehicle (EV) tariffs, they are as follows:
+
+- LT Category: INR 5.10 per kVAh
+- HT Category: INR 4.90 per kVAh【4:0†Daman and Diu TarrifOrder.pdf】.
+
+There is no specific mention of Time of Day tariffs in the provided document.

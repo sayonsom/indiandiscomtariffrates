@@ -1,0 +1,13 @@
+The electricity rates for residential customers are as follows:
+
+1. **Fixed Charges**: Rs. 200 per kW per Month for metered individual residential consumers.
+2. **Energy Charge**: Rs. 8.00 per kWh. From the third year onwards, the base tariff includes an additional 10% of the applicable energy charge【4:1†source】.
+
+For Electric Vehicle (EV) charging:
+1. Consumers with existing connections across several categories, including residential, can use their existing connection to charge their EVs. If more power is needed, consumers can apply for an increase in sanctioned load.
+2. Rates for public and multi-story building EV charging include an energy charge of Rs. 6.20/kWh for LMV-1b and Rs. 5.90/kWh for HV-1b【4:1†source】【4:4†source】.
+
+For Time of Day (ToD) tariffs:
+1. ToD schedules apply for summer (April to September) and winter (October to March) with varied percentage adjustments depending on the time of day. However, rural schedule consumers getting supply up to 11 kV are entitled to a rebate on the base rate, and no ToD rate is applicable for this category【4:3†source】【4:10†source】. 
+
+If you need more detailed information on specific charges or categories, feel free to ask!

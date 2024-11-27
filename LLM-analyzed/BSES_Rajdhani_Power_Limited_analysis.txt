@@ -1,0 +1,9 @@
+The electricity rates for residential customers are structured as follows:
+
+- For individual connections up to 2 kW, a fixed charge of ₹20 per kW/month applies, with energy charges starting at ₹3.00 per kWh for the first 200 units and increasing to ₹8.00 per kWh for usage above 1200 units.
+- For larger connections, the fixed charge increases depending on the load, with higher energy charges reaching ₹8.00 per kWh【4:0†source】.
+
+Regarding Electric Vehicle (EV) and Time of Day (ToD) tariffs:
+
+- Charging stations for e-rickshaws or e-vehicles on single point delivery are charged at ₹4.50 per kWh for supply at LT (Low Tension) and ₹4.00 per kVAh for supply at HT (High Tension)【4:1†source】.
+- Time of Day (ToD) tariffs are applicable to consumers (other than domestic) with a sanctioned load/MDI of 10kW/11kVA and above. It is optional for other three-phase connections including domestic. The ToD tariff includes peak period surcharges and off-peak rebates of 20%【4:2†source】【4:3†source】.

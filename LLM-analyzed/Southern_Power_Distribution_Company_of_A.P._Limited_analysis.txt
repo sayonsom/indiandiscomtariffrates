@@ -1,0 +1,9 @@
+The electricity rates for residential customers, as well as details regarding EV and Time of Day (TOD) tariffs, for FY 2024-25 are as follows:
+
+1. **Residential Tariffs**: The residential tariffs are structured based on consumption slabs, which typically vary by the number of units consumed. The rates are usually progressive, meaning higher rates are applied for higher levels of consumption. Specific details of the rates are not provided from the excerpts, so please refer to the full document for precise figures.
+
+2. **EV Tariffs**: There is mention of specific tariffs for electric vehicles (EVs), designed to encourage the adoption of EVs by providing lower rates for charging during off-peak hours. Again, exact rates are not explicitly detailed here but should be available in the document.
+
+3. **Time of Day (TOD) Tariffs**: These tariffs allow for different rates depending on the time of day the electricity is consumed. Lower rates are generally applied during off-peak times to incentivize customers to shift their usage away from peak demand times.
+
+I recommend reviewing the full tariff schedule in the document provided for a detailed breakdown of the actual rates and any additional conditions or fees that might apply【4:0†Tariff Schedule for FY 2024-25.pdf】.

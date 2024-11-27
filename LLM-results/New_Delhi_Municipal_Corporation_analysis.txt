@@ -1,0 +1,22 @@
+The electricity rates for residential customers, along with EV and Time of Day (ToD) tariffs according to the document for FY 2020-21, are as follows:
+
+### Residential Electricity Rates:
+1. For individual domestic connections:
+   - **Up to 2 kW**: 
+     - Fixed Charges: INR 20/kW/month
+     - Energy Charges: 
+       - 0-200 units: INR 3.00/kWh
+       - 201-400 units: INR 4.50/kWh
+       - 401-800 units: INR 6.50/kWh
+       - 801-1200 units: INR 7.00/kWh
+       - Above 1200 units: INR 8.00/kWh【4:0†source】.
+
+### EV Tariffs:
+1. **Charging Stations for E-Rickshaw/E-Vehicle**:
+   - Supply at LT: INR 4.50/kWh
+   - Supply at HT: INR 4.00/kVAh【4:0†source】【4:9†source】.
+
+### Time of Day (ToD) Tariffs:
+1. ToD tariff is applicable on all consumers (other than Domestic) with a sanctioned Load/MDI of 10kW/11kVA and above. It is optional for other three-phase connections, including domestic connections. The surcharge during peak hours is 20% and a rebate during off-peak hours is also 20%【4:2†source】【4:3†source】.
+
+Please let me know if there are any other details you need!

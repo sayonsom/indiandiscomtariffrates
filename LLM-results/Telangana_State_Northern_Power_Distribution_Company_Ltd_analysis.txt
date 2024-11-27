@@ -1,0 +1,34 @@
+The electricity rates for residential customers (under the Low Tension Domestic category) for FY 2023-24 are as follows【4:8†source】:
+
+- **LT-I(A) Upto 100 units/month**:
+  - 0-50 kW: Rs. 1.95 per unit
+  - 51-100 kW: Rs. 3.10 per unit
+
+- **LT-I(B)(i) Above 100 units/month & up to 200 units/month**:
+  - 0-100 kW: Rs. 3.40 per unit
+  - 101-200 kW: Rs. 4.80 per unit
+
+- **LT-I(B)(ii) Above 200 units/month**:
+  - 0-200 kW: Rs. 5.10 per unit
+  - 201-300 kW: Rs. 7.70 per unit
+  - 301-400 kW: Rs. 9.00 per unit
+  - 401-800 kW: Rs. 9.50 per unit
+  - Above 800 units: Rs. 10.00 per unit
+
+### Electric Vehicle (EV) Tariffs
+The EV charging station rates are categorized under both LT-IX and HT-IX【4:1†source】【4:3†source】:
+
+- **LT-IX EV Charging station**:
+  - Single Phase: Rs. 65/month
+  - Three Phase: Rs. 200/month
+
+- **HT-IX EV Charging station**:
+  - Energy Charge: Rs. 6.00 per unit at 11 kV
+
+### Time of Day (TOD) Tariffs
+The Time of Day (TOD) tariffs/incentives are applicable for specific high tension (HT) categories, including EV Charging Stations【4:3†source】【4:4†source】:
+
+- **6 am to 10 am and 6 pm to 10 pm**: Plus Re. 1/unit over Retail Supply Energy Charges
+- **10 pm to 6 am**: Less Re. 1/unit off Retail Supply Energy Charges
+
+These TOD tariffs are intended to provide incentives for shifting consumption to off-peak hours, reducing stress on the power grid during peak periods.

@@ -1,0 +1,8 @@
+The electricity rates for residential customers are categorized based on consumption:
+
+1. For 0 to 30 kWh, the rate is Rs. 5.35 per kWh.
+2. From 31 to 100 kWh, the rate is Rs. 5.90 per kWh.
+3. For 101 to 250 kWh, the rate is Rs. 6.50 per kWh.
+4. For consumption greater than 250 kWh, the rate is Rs. 7.35 per kWh【4:0†Public Notice Tariff Petition for FY 2023-24.pdf】.
+
+Regarding EV (Electric Vehicle) tariffs or Time of Day tariffs, the document does not specifically mention any such tariffs. The information provided primarily focuses on general residential, industrial, and other categories of energy consumption.

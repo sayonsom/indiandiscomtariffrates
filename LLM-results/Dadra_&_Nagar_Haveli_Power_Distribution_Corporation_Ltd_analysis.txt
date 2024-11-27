@@ -1,0 +1,14 @@
+The electricity rates for residential customers are as follows:
+
+- For 0-50 units, the rate is 1.60 INR/kWh.
+- For 51-100 units, the rate is 1.60 INR/kWh.
+- For 101-200 units, the rate is 2.30 INR/kWh.
+- For 201-400 units, the rate is 2.80 INR/kWh.
+- For 401 units and above, the rate is 3.40 INR/kWh.
+
+Additionally, for Electric Vehicle (EV) charging, the rates are:
+
+- LT Category: 5.10 INR/kVAh
+- HT Category: 4.90 INR/kVAh
+
+However, there is no specific mention of "Time of Day" tariffs in the available information【4:1†TariffOrderDNHFY2017-18.pdf】.

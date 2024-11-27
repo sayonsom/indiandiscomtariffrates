@@ -1,0 +1,17 @@
+The electricity rates for residential customers, mentioned under the "Domestic Supply", are structured in a tiered manner:
+
+1. **Category I** - For consumption up to 100 units per month:
+   - 0-50 units: 200 Paisa/kWh
+   - 51-100 units: 250 Paisa/kWh
+
+2. **Category II** - For consumption more than 100 units per month and up to 800 units per month:
+   - 0-150 units: 275 Paisa/kWh
+   - 151-250 units: 525 Paisa/kWh
+   - 251-500 units: 630 Paisa/kWh
+   - 501-800 units: 710 Paisa/kWh
+
+For total consumption exceeding 800 units per month, a flat rate of 710 Paisa/kWh applies【4:1†09_D_2024.pdf】.
+
+Regarding Electric Vehicle (EV) and Time of Day tariffs:
+- The tariff for electricity supply to the EV charging stations is a single-part tariff equivalent to the cost of HT supply (Rs. 6.12/kWh) and LT supply (Rs. 6.48/kWh), with applicable off-peak/night-time concessions【4:0†09_D_2024.pdf】.
+- There is no specific mention of Time of Day tariffs in the provided document excerpts.

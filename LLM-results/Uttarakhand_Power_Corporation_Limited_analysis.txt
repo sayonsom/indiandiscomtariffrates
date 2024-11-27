@@ -1,0 +1,27 @@
+The electricity rates for residential customers by Uttarakhand Power Corporation Limited are as follows:
+
+1. **Life Line Consumers (Below Poverty Line) including Kutir Jyoti with load up to 1 kW**:
+   - Fixed Charges: Rs. 18 per connection per month
+   - Energy Charges: Rs. 1.75 per kWh
+   - Consumption: Up to 60 units per month
+
+2. **Other Domestic Consumers**:
+   - Upto 100 units per month (Upto 1 kW load): 
+     - Fixed Charges: Rs. 75 per kW
+     - Energy Charges: Rs. 3.40 per kWh
+   - 101-200 units per month (Above 1 kW and up to 4 kW):
+     - Fixed Charges: Rs. 85 per kW
+     - Energy Charges: Rs. 4.90 per kWh
+   - 201-400 units per month (Above 4 kW):
+     - Fixed Charges: Rs. 100 per kW
+     - Energy Charges: Rs. 6.70 per kWh
+   - Above 400 units per month:
+     - Energy Charges: Rs. 7.35 per kWh【4:0†Public-Notice-Tariff-and-Charges-01-04-2024.pdf】.
+
+Regarding Electric Vehicle (EV) tariffs:
+- The electricity rate for Electric Vehicle Charging Stations is Rs. 7.00 per kWh【4:4†Public-Notice-Tariff-and-Charges-01-04-2024.pdf】.
+
+Time of Day tariffs are applicable for certain categories:
+- All consumers having a load above 25 kW in non-domestic and LT & HT Industry categories are required to use ToD meters. The ToD tariff includes peak and off-peak energy charges adjusted according to the time of day【4:10†Public-Notice-Tariff-and-Charges-01-04-2024.pdf】. 
+
+These rates are effective from April 1, 2024, and are subject to further updates by the regulatory commission【4:2†Public-Notice-Tariff-and-Charges-01-04-2024.pdf】.

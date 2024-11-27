@@ -1,0 +1,15 @@
+The electricity rates for residential customers are as follows:
+
+1. **DS-I (Rural)**:
+   - Rate: Rs. 7.57 per unit for the first 50 units and Rs. 8.11 per unit above 50 units【4:2†Tariff-chart.pdf】.
+
+2. **DS-II (Urban)**:
+   - Rate: Rs. 7.57 per unit for the first 100 units and Rs. 9.10 per unit above 100 units【4:2†Tariff-chart.pdf】.
+
+Regarding Electric Vehicle (EV) tariffs and Time of Day tariffs:
+
+1. **EV Charging Stations**:
+   - **Low Tension (LT)**: Rs. 8.87 per kVAh for all units【4:1†Tariff-chart.pdf】.
+   - **High Tension (HT)**: Rs. 8.00 per kVAh for all units【4:0†Tariff-chart.pdf】.
+
+Unfortunately, I could not find specific details about Time of Day tariffs in the document provided. For more precise information, you might require other sections of the tariff plan that detail such time-based rates if they exist.

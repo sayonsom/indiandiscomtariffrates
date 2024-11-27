@@ -1,0 +1,28 @@
+The electricity rates for residential customers as per the 2020-21 tariff schedule are structured based on consumption slabs and the connection load. Here are the details:
+
+1. **Individual Domestic Connections**:
+   - **For up to 2 kW load**:
+     - 0-200 units: 3.00 Rs./kWh
+     - 201-400 units: 4.50 Rs./kWh
+     - 401-800 units: 6.50 Rs./kWh
+     - 801-1200 units: 7.00 Rs./kWh
+     - >1200 units: 8.00 Rs./kWh
+   - **Fixed Charges**:
+     - Upto 2 kW: 20 Rs./kW/month
+     - >2 kW and ≤5 kW: 50 Rs./kW/month
+     - >5 kW and ≤15 kW: 100 Rs./kW/month
+     - >15 kW and ≤25 kW: 200 Rs./kW/month
+     - >25 kW: 250 Rs./kW/month【4:0†Tariff_Schedule_2020-21.pdf】.
+
+2. **Electric Vehicle (EV) Tariffs**:
+   - Charging stations for E-Rickshaw/E-Vehicle on Single Point Delivery:
+     - Supply at LT: 4.50 Rs./kWh
+     - Supply at HT: 4.00 Rs./kVAh【4:1†Tariff_Schedule_2020-21.pdf】.
+
+3. **Time of Day (ToD) Tariffs**:
+   - The ToD tariff is applicable for all consumers (other than Domestic) whose sanctioned load/MDI (whichever is higher) is 10kW/11kVA and above.
+   - It is optional for other three-phase connections, including Domestic connections.
+   - Peak hours have a 20% surcharge and Off-peak hours a 20% rebate.
+   - Peak hours are defined as 1400–1700 & 2200 – 0100, and Off-peak hours as 0400 – 1000 from May to September【4:2†Tariff_Schedule_2020-21.pdf】. 
+
+These details outline the structured residential rates, and the availability of EV and Time of Day tariffs.

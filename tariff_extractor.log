@@ -2468,3 +2468,1440 @@ Subject:
 2024-11-26 09:31:21,963 - INFO - No tables found on page 5
 2024-11-26 09:31:21,963 - INFO - Processing page 6
 2024-11-26 09:31:21,964 - INFO - No tables found on page 6
+2024-11-27 04:09:42,719 - INFO - Searching tariff documents for BESCOM
+2024-11-27 04:09:43,444 - INFO - Attempt 1: Downloading PDF with headers from https://srtpv.bescom.org/SRTPV/document/2_BESCOM_SRTPV_tariff_OM.pdf
+2024-11-27 04:09:44,772 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpt3vzenon.pdf
+2024-11-27 04:09:44,777 - INFO - Processing page 1
+2024-11-27 04:09:44,778 - WARNING - No text found on page 1, attempting OCR...
+2024-11-27 04:09:47,300 - INFO - No tables found on page 1
+2024-11-27 04:09:47,300 - INFO - Processing page 2
+2024-11-27 04:09:47,301 - WARNING - No text found on page 2, attempting OCR...
+2024-11-27 04:09:47,973 - INFO - No tables found on page 2
+2024-11-27 04:09:47,974 - INFO - Processing page 3
+2024-11-27 04:09:47,974 - WARNING - No text found on page 3, attempting OCR...
+2024-11-27 04:09:48,550 - INFO - No tables found on page 3
+2024-11-27 04:09:48,550 - INFO - Processing page 4
+2024-11-27 04:09:48,551 - WARNING - No text found on page 4, attempting OCR...
+2024-11-27 04:09:49,103 - INFO - No tables found on page 4
+2024-11-27 04:09:49,103 - INFO - Processing page 5
+2024-11-27 04:09:49,103 - WARNING - No text found on page 5, attempting OCR...
+2024-11-27 04:09:49,520 - INFO - No tables found on page 5
+2024-11-27 04:09:49,521 - INFO - Processing page 6
+2024-11-27 04:09:49,521 - WARNING - No text found on page 6, attempting OCR...
+2024-11-27 04:09:50,018 - INFO - No tables found on page 6
+2024-11-27 04:09:58,595 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-27 04:13:20,292 - INFO - Searching tariff documents for BESCOM
+2024-11-27 04:13:20,292 - INFO - Trying search query: site:bescom.org 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:13:20,575 - INFO - Attempt 1: Downloading PDF with headers from https://srtpv.bescom.org/SRTPV/document/2_BESCOM_SRTPV_tariff_OM.pdf
+2024-11-27 04:13:21,307 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmp1imjfme2.pdf
+2024-11-27 04:13:21,308 - INFO - PDF saved to output/BESCOM/2_BESCOM_SRTPV_tariff_OM.pdf
+2024-11-27 04:13:21,313 - INFO - Processing page 1
+2024-11-27 04:13:21,314 - WARNING - No text found on page 1, attempting OCR...
+2024-11-27 04:13:22,062 - INFO - No tables found on page 1
+2024-11-27 04:13:22,063 - INFO - Processing page 2
+2024-11-27 04:13:22,063 - WARNING - No text found on page 2, attempting OCR...
+2024-11-27 04:13:22,742 - INFO - No tables found on page 2
+2024-11-27 04:13:22,742 - INFO - Processing page 3
+2024-11-27 04:13:22,743 - WARNING - No text found on page 3, attempting OCR...
+2024-11-27 04:13:23,312 - INFO - No tables found on page 3
+2024-11-27 04:13:23,312 - INFO - Processing page 4
+2024-11-27 04:13:23,313 - WARNING - No text found on page 4, attempting OCR...
+2024-11-27 04:13:23,866 - INFO - No tables found on page 4
+2024-11-27 04:13:23,866 - INFO - Processing page 5
+2024-11-27 04:13:23,867 - WARNING - No text found on page 5, attempting OCR...
+2024-11-27 04:13:24,285 - INFO - No tables found on page 5
+2024-11-27 04:13:24,285 - INFO - Processing page 6
+2024-11-27 04:13:24,286 - WARNING - No text found on page 6, attempting OCR...
+2024-11-27 04:13:24,790 - INFO - No tables found on page 6
+2024-11-27 04:13:27,714 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-27 04:13:27,722 - ERROR - Error processing BESCOM: 'type'
+2024-11-27 04:14:31,954 - INFO - Searching tariff documents for MSEDCL
+2024-11-27 04:14:31,954 - INFO - Trying search query: site:www.mahadiscom.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:14:32,301 - INFO - Attempt 1: Downloading PDF with headers from https://www.mahadiscom.in/consumer/wp-content/uploads/2020/04/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:14:33,318 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpu4rz9d0h.pdf
+2024-11-27 04:14:33,319 - INFO - PDF saved to output/MSEDCL/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:14:33,342 - INFO - Processing page 1
+2024-11-27 04:14:33,406 - INFO - No tables found on page 1
+2024-11-27 04:14:33,406 - INFO - Processing page 2
+2024-11-27 04:14:33,486 - INFO - No tables found on page 2
+2024-11-27 04:14:33,486 - INFO - Processing page 3
+2024-11-27 04:14:33,537 - INFO - No tables found on page 3
+2024-11-27 04:14:33,537 - INFO - Processing page 4
+2024-11-27 04:14:33,603 - INFO - Processing page 5
+2024-11-27 04:14:33,659 - INFO - No tables found on page 5
+2024-11-27 04:14:33,659 - INFO - Processing page 6
+2024-11-27 04:14:33,712 - INFO - No tables found on page 6
+2024-11-27 04:14:33,712 - INFO - Processing page 7
+2024-11-27 04:14:33,787 - INFO - Processing page 8
+2024-11-27 04:14:33,868 - INFO - Processing page 9
+2024-11-27 04:14:33,937 - INFO - Processing page 10
+2024-11-27 04:14:33,974 - INFO - No tables found on page 10
+2024-11-27 04:14:33,974 - INFO - Processing page 11
+2024-11-27 04:14:34,152 - INFO - No tables found on page 11
+2024-11-27 04:14:34,153 - INFO - Processing page 12
+2024-11-27 04:14:34,205 - INFO - Processing page 13
+2024-11-27 04:14:34,261 - INFO - Processing page 14
+2024-11-27 04:14:34,320 - INFO - Processing page 15
+2024-11-27 04:14:34,413 - INFO - Processing page 16
+2024-11-27 04:14:34,461 - INFO - No tables found on page 16
+2024-11-27 04:14:34,461 - INFO - Processing page 17
+2024-11-27 04:14:34,518 - INFO - Processing page 18
+2024-11-27 04:14:34,632 - INFO - Processing page 19
+2024-11-27 04:14:34,701 - INFO - Processing page 20
+2024-11-27 04:14:34,809 - INFO - Processing page 21
+2024-11-27 04:14:34,976 - INFO - Processing page 22
+2024-11-27 04:14:35,065 - INFO - Processing page 23
+2024-11-27 04:14:35,144 - INFO - Processing page 24
+2024-11-27 04:14:35,217 - INFO - Processing page 25
+2024-11-27 04:14:35,268 - INFO - Processing page 26
+2024-11-27 04:14:35,318 - INFO - Processing page 27
+2024-11-27 04:14:35,362 - INFO - Processing page 28
+2024-11-27 04:14:35,438 - INFO - Processing page 29
+2024-11-27 04:14:35,499 - INFO - Processing page 30
+2024-11-27 04:14:35,565 - INFO - Processing page 31
+2024-11-27 04:14:35,703 - INFO - Processing page 32
+2024-11-27 04:14:35,877 - INFO - Processing page 33
+2024-11-27 04:14:35,956 - INFO - Processing page 34
+2024-11-27 04:14:36,058 - INFO - No tables found on page 34
+2024-11-27 04:14:36,058 - INFO - Processing page 35
+2024-11-27 04:14:36,135 - INFO - Processing page 36
+2024-11-27 04:14:36,206 - INFO - Processing page 37
+2024-11-27 04:14:36,265 - INFO - Processing page 38
+2024-11-27 04:14:36,322 - INFO - Processing page 39
+2024-11-27 04:14:36,361 - INFO - No tables found on page 39
+2024-11-27 04:14:36,361 - INFO - Processing page 40
+2024-11-27 04:14:36,403 - INFO - Processing page 41
+2024-11-27 04:14:36,459 - INFO - Processing page 42
+2024-11-27 04:14:36,516 - INFO - Processing page 43
+2024-11-27 04:14:36,563 - INFO - Processing page 44
+2024-11-27 04:14:36,601 - INFO - Processing page 45
+2024-11-27 04:14:36,654 - INFO - Processing page 46
+2024-11-27 04:14:36,836 - INFO - Processing page 47
+2024-11-27 04:14:36,902 - INFO - Processing page 48
+2024-11-27 04:14:36,955 - INFO - Processing page 49
+2024-11-27 04:14:37,004 - INFO - Processing page 50
+2024-11-27 04:14:37,053 - INFO - Processing page 51
+2024-11-27 04:14:37,093 - INFO - Processing page 52
+2024-11-27 04:14:37,140 - INFO - Processing page 53
+2024-11-27 04:14:37,179 - INFO - Processing page 54
+2024-11-27 04:14:37,235 - INFO - Processing page 55
+2024-11-27 04:14:37,285 - INFO - Processing page 56
+2024-11-27 04:14:37,337 - INFO - Processing page 57
+2024-11-27 04:14:37,380 - INFO - Processing page 58
+2024-11-27 04:14:37,427 - INFO - Processing page 59
+2024-11-27 04:14:37,478 - INFO - Processing page 60
+2024-11-27 04:14:37,528 - INFO - Processing page 61
+2024-11-27 04:14:37,582 - INFO - Processing page 62
+2024-11-27 04:14:37,627 - INFO - Processing page 63
+2024-11-27 04:14:37,967 - INFO - No tables found on page 63
+2024-11-27 04:14:37,967 - INFO - Processing page 64
+2024-11-27 04:14:38,039 - INFO - Processing page 65
+2024-11-27 04:14:38,090 - INFO - Processing page 66
+2024-11-27 04:14:38,132 - INFO - No tables found on page 66
+2024-11-27 04:14:38,132 - INFO - Processing page 67
+2024-11-27 04:14:38,243 - INFO - No tables found on page 67
+2024-11-27 04:14:38,243 - INFO - Processing page 68
+2024-11-27 04:14:38,319 - INFO - Processing page 69
+2024-11-27 04:14:38,407 - INFO - No tables found on page 69
+2024-11-27 04:14:38,407 - INFO - Processing page 70
+2024-11-27 04:14:38,471 - INFO - No tables found on page 70
+2024-11-27 04:14:38,471 - INFO - Processing page 71
+2024-11-27 04:14:38,521 - INFO - No tables found on page 71
+2024-11-27 04:14:38,522 - INFO - Processing page 72
+2024-11-27 04:14:38,657 - INFO - No tables found on page 72
+2024-11-27 04:14:38,657 - INFO - Processing page 73
+2024-11-27 04:14:38,684 - INFO - No tables found on page 73
+2024-11-27 04:14:38,684 - INFO - Processing page 74
+2024-11-27 04:14:38,863 - INFO - Processing page 75
+2024-11-27 04:14:40,815 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-27 04:14:40,816 - INFO - Retrying request to /chat/completions in 0.414530 seconds
+2024-11-27 04:14:41,847 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-27 04:14:41,849 - INFO - Retrying request to /chat/completions in 0.899165 seconds
+2024-11-27 04:14:43,276 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-27 04:14:43,285 - ERROR - Error in GPT extraction: Error code: 429 - {'error': {'message': 'Request too large for gpt-4-turbo-preview in organization org-n7UuK5isMjqibIi54zwcvVDx on tokens per min (TPM): Limit 30000, Requested 50885. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2024-11-27 04:14:43,285 - ERROR - Error processing MSEDCL: 'type'
+2024-11-27 04:17:21,422 - INFO - Searching tariff documents for MSEDCL
+2024-11-27 04:17:21,422 - INFO - Trying search query: site:www.mahadiscom.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:17:21,894 - INFO - Attempt 1: Downloading PDF with headers from https://www.mahadiscom.in/consumer/wp-content/uploads/2020/04/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:17:22,763 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpm496yrax.pdf
+2024-11-27 04:17:22,764 - INFO - PDF saved to output/MSEDCL/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:17:22,787 - INFO - Processing page 1
+2024-11-27 04:17:22,852 - INFO - No tables found on page 1
+2024-11-27 04:17:22,852 - INFO - Processing page 2
+2024-11-27 04:17:22,931 - INFO - No tables found on page 2
+2024-11-27 04:17:22,931 - INFO - Processing page 3
+2024-11-27 04:17:22,982 - INFO - No tables found on page 3
+2024-11-27 04:17:22,982 - INFO - Processing page 4
+2024-11-27 04:17:23,047 - INFO - Processing page 5
+2024-11-27 04:17:23,102 - INFO - No tables found on page 5
+2024-11-27 04:17:23,102 - INFO - Processing page 6
+2024-11-27 04:17:23,155 - INFO - No tables found on page 6
+2024-11-27 04:17:23,155 - INFO - Processing page 7
+2024-11-27 04:17:23,229 - INFO - Processing page 8
+2024-11-27 04:17:23,311 - INFO - Processing page 9
+2024-11-27 04:17:23,379 - INFO - Processing page 10
+2024-11-27 04:17:23,415 - INFO - No tables found on page 10
+2024-11-27 04:17:23,416 - INFO - Processing page 11
+2024-11-27 04:17:23,594 - INFO - No tables found on page 11
+2024-11-27 04:17:23,594 - INFO - Processing page 12
+2024-11-27 04:17:23,646 - INFO - Processing page 13
+2024-11-27 04:17:23,703 - INFO - Processing page 14
+2024-11-27 04:17:23,763 - INFO - Processing page 15
+2024-11-27 04:17:23,860 - INFO - Processing page 16
+2024-11-27 04:17:23,911 - INFO - No tables found on page 16
+2024-11-27 04:17:23,911 - INFO - Processing page 17
+2024-11-27 04:17:23,969 - INFO - Processing page 18
+2024-11-27 04:17:24,083 - INFO - Processing page 19
+2024-11-27 04:17:24,152 - INFO - Processing page 20
+2024-11-27 04:17:42,220 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-27 04:17:42,230 - ERROR - Error processing MSEDCL: 'type'
+2024-11-27 04:20:25,785 - INFO - Searching tariff documents for MSEDCL
+2024-11-27 04:20:25,785 - INFO - Trying search query: site:www.mahadiscom.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:20:26,072 - INFO - Attempt 1: Downloading PDF with headers from https://www.mahadiscom.in/consumer/wp-content/uploads/2020/04/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:20:26,913 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpsf76jzn9.pdf
+2024-11-27 04:20:26,915 - INFO - PDF saved to output/MSEDCL/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:20:26,935 - INFO - Processing page 1
+2024-11-27 04:20:26,999 - INFO - No tables found on page 1
+2024-11-27 04:20:26,999 - INFO - Processing page 2
+2024-11-27 04:20:27,080 - INFO - No tables found on page 2
+2024-11-27 04:20:27,080 - INFO - Processing page 3
+2024-11-27 04:20:27,134 - INFO - No tables found on page 3
+2024-11-27 04:20:27,135 - INFO - Processing page 4
+2024-11-27 04:20:27,200 - INFO - Processing page 5
+2024-11-27 04:20:27,259 - INFO - No tables found on page 5
+2024-11-27 04:20:27,259 - INFO - Processing page 6
+2024-11-27 04:20:27,312 - INFO - No tables found on page 6
+2024-11-27 04:20:27,312 - INFO - Processing page 7
+2024-11-27 04:20:27,386 - INFO - Processing page 8
+2024-11-27 04:20:27,467 - INFO - Processing page 9
+2024-11-27 04:20:27,535 - INFO - Processing page 10
+2024-11-27 04:20:27,572 - INFO - No tables found on page 10
+2024-11-27 04:20:27,572 - INFO - Processing page 11
+2024-11-27 04:20:27,751 - INFO - No tables found on page 11
+2024-11-27 04:20:27,751 - INFO - Processing page 12
+2024-11-27 04:20:27,803 - INFO - Processing page 13
+2024-11-27 04:20:27,859 - INFO - Processing page 14
+2024-11-27 04:20:27,918 - INFO - Processing page 15
+2024-11-27 04:20:28,011 - INFO - Processing page 16
+2024-11-27 04:20:28,059 - INFO - No tables found on page 16
+2024-11-27 04:20:28,059 - INFO - Processing page 17
+2024-11-27 04:20:28,115 - INFO - Processing page 18
+2024-11-27 04:20:28,228 - INFO - Processing page 19
+2024-11-27 04:20:28,297 - INFO - Processing page 20
+2024-11-27 04:21:05,348 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-27 04:21:05,357 - ERROR - Invalid OpenAI response structure: ChatCompletion(id='chatcmpl-AXyg1eKsugYSqlyyAlIAuGIYvwrcf', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='{\n    "residential_tariffs": {\n        "fixed_charges": [\n            "Single Phase: Rs. 100.00 per month, Three Phase - Rs. 340.00 per month (FY 2020-21)",\n            "Single Phase: Rs. 102.00 per month, Three Phase - Rs. 340.00 per month (FY 2021-22)",\n            "Single Phase: Rs. 105.00 per month, Three Phase - Rs. 350.00 per month (FY 2022-23)",\n            "Single Phase: Rs. 107.00 per month, Three Phase - Rs. 357.00 per month (FY 2023-24)",\n            "Single Phase: Rs. 109.00 per month, Three Phase - Rs. 364.00 per month (FY 2024-25)",\n            "Additional Fixed Charge of Rs.135 per 10 kW load or part thereof above 10 kW load (FY 2020-21)",\n            "Additional Fixed Charge of Rs.140 per 10 kW load or part thereof above 10 kW load (FY 2021-22)",\n            "Additional Fixed Charge of Rs.145 per 10 kW load or part thereof above 10 kW load (FY 2022-23)",\n            "Additional Fixed Charge of Rs.155 per 10 kW load or part thereof above 10 kW load (FY 2023-24)",\n            "Additional Fixed Charge of Rs.165 per 10 kW load or part thereof above 10 kW load (FY 2024-25)",\n            "Additional Fixed Charge of Rs 10 per connection per month applicable for LT-Domestic category consumers in Urban Divisions of MSEDCL"\n        ],\n        "energy_charges": [\n            "0-100 units: Rs. 3.46/kWh, 101-300 units: Rs. 7.43/kWh, 301-500 units: Rs. 10.32/kWh, Above 500 Units: Rs. 11.71/kWh (FY 2020-21)",\n            "0-100 units: Rs. 3.44/kWh, 101-300 units: Rs. 7.34/kWh, 301-500 units: Rs. 10.36/kWh, Above 500 Units: Rs. 11.82/kWh (FY 2021-22)",\n            "0-100 units: Rs. 3.36/kWh, 101-300 units: Rs. 7.34/kWh, 301-500 units: Rs. 10.37/kWh, Above 500 Units: Rs. 11.86/kWh (FY 2022-23)",\n            "0-100 units: Rs. 3.28/kWh, 101-300 units: Rs. 7.34/kWh, 301-500 units: Rs. 10.38/kWh, Above 500 Units: Rs. 11.90/kWh (FY 2023-24)",\n            "0-100 units: Rs. 3.28/kWh, 101-300 units: Rs. 7.34/kWh, 301-500 units: Rs. 10.38/kWh, Above 500 Units: Rs. 11.90/kWh (FY 2024-25)"\n        ],\n        "additional_charges": [\n            "Wheeling Charge: Rs. 1.45/kWh (FY 2020-21)",\n            "Wheeling Charge: Rs. 1.38/kWh (FY 2021-22)",\n            "Wheeling Charge: Rs. 1.35/kWh (FY 2022-23)",\n            "Wheeling Charge: Rs. 1.30/kWh (FY 2023-24)",\n            "Wheeling Charge: Rs. 1.26/kWh (FY 2024-25)"\n        ],\n        "conditions": [\n            "Applicable for electricity used at Low/Medium Voltage for operating various appliances used for purposes such as lighting, heating, cooling, cooking, washing/cleaning, entertainment/leisure, water pumping in residential premises.",\n            "Applicable to private residential premises, Government/semi-Government residential quarters, premises used exclusively for worship, Government / Private / Co-operative Housing Colonies/complexes for common facilities, Sports Clubs or facilities / Health Clubs or facilities / Gymnasium / Swimming Pool / Community Hall of Government / Private / Co-operative Housing Colonies/complexes, Telephone booths owned/operated by Persons with Disabilities/Handicapped persons, Residential premises used by professionals like Lawyers, Doctors, Engineers, Chartered Accountants, etc., in furtherance of their professional activities, but not including Nursing Homes and Surgical Wards or Hospitals, Single-phase household Flour Mills (Ghar-ghanti) used only for captive purposes, A residential LT consumer with consumption up to 500 units per month who undertakes construction or renovation activity in his existing premises."\n        ],\n        "effective_date": "1 April, 2020"\n    }\n}', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None))], created=1732661429, model='gpt-4-turbo-2024-04-09', object='chat.completion', service_tier=None, system_fingerprint='fp_d5ba3de1dc', usage=CompletionUsage(completion_tokens=1063, prompt_tokens=19390, total_tokens=20453, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=0, rejected_prediction_tokens=0), prompt_tokens_details=PromptTokensDetails(audio_tokens=0, cached_tokens=0)))
+2024-11-27 04:21:05,358 - ERROR - Error processing MSEDCL: 'type'
+2024-11-27 04:22:30,370 - INFO - Searching tariff documents for MSEDCL
+2024-11-27 04:22:30,370 - INFO - Trying search query: site:www.mahadiscom.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:22:30,680 - INFO - Attempt 1: Downloading PDF with headers from https://www.mahadiscom.in/consumer/wp-content/uploads/2020/04/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:22:31,515 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmprj8n_d9g.pdf
+2024-11-27 04:22:31,516 - INFO - PDF saved to output/MSEDCL/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:22:31,540 - INFO - Processing page 1
+2024-11-27 04:22:31,605 - INFO - No tables found on page 1
+2024-11-27 04:22:31,605 - INFO - Processing page 2
+2024-11-27 04:22:31,684 - INFO - No tables found on page 2
+2024-11-27 04:22:31,685 - INFO - Processing page 3
+2024-11-27 04:22:31,736 - INFO - No tables found on page 3
+2024-11-27 04:22:31,736 - INFO - Processing page 4
+2024-11-27 04:22:31,801 - INFO - Processing page 5
+2024-11-27 04:22:31,857 - INFO - No tables found on page 5
+2024-11-27 04:22:31,857 - INFO - Processing page 6
+2024-11-27 04:22:31,909 - INFO - No tables found on page 6
+2024-11-27 04:22:31,909 - INFO - Processing page 7
+2024-11-27 04:22:31,983 - INFO - Processing page 8
+2024-11-27 04:22:32,065 - INFO - Processing page 9
+2024-11-27 04:22:32,133 - INFO - Processing page 10
+2024-11-27 04:22:32,169 - INFO - No tables found on page 10
+2024-11-27 04:22:32,169 - INFO - Processing page 11
+2024-11-27 04:22:32,347 - INFO - No tables found on page 11
+2024-11-27 04:22:32,347 - INFO - Processing page 12
+2024-11-27 04:22:32,399 - INFO - Processing page 13
+2024-11-27 04:22:32,455 - INFO - Processing page 14
+2024-11-27 04:22:32,515 - INFO - Processing page 15
+2024-11-27 04:22:32,607 - INFO - Processing page 16
+2024-11-27 04:22:32,655 - INFO - No tables found on page 16
+2024-11-27 04:22:32,655 - INFO - Processing page 17
+2024-11-27 04:22:32,711 - INFO - Processing page 18
+2024-11-27 04:22:32,826 - INFO - Processing page 19
+2024-11-27 04:22:32,899 - INFO - Processing page 20
+2024-11-27 04:23:12,245 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-27 04:23:12,265 - ERROR - Failed to parse OpenAI response as JSON: Expecting value: line 1 column 1 (char 0)
+2024-11-27 04:23:12,265 - ERROR - Error processing MSEDCL: 'type'
+2024-11-27 04:24:30,569 - INFO - Searching tariff documents for MSEDCL
+2024-11-27 04:24:30,569 - INFO - Trying search query: site:www.mahadiscom.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:24:30,956 - INFO - Attempt 1: Downloading PDF with headers from https://www.mahadiscom.in/consumer/wp-content/uploads/2020/04/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:24:31,725 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmp4oqvugzz.pdf
+2024-11-27 04:24:31,726 - INFO - PDF saved to output/MSEDCL/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:24:31,750 - INFO - Processing page 1
+2024-11-27 04:24:31,815 - INFO - No tables found on page 1
+2024-11-27 04:24:31,816 - INFO - Processing page 2
+2024-11-27 04:24:31,896 - INFO - No tables found on page 2
+2024-11-27 04:24:31,896 - INFO - Processing page 3
+2024-11-27 04:24:31,946 - INFO - No tables found on page 3
+2024-11-27 04:24:31,946 - INFO - Processing page 4
+2024-11-27 04:24:32,010 - INFO - Processing page 5
+2024-11-27 04:24:32,066 - INFO - No tables found on page 5
+2024-11-27 04:24:32,066 - INFO - Processing page 6
+2024-11-27 04:24:32,118 - INFO - No tables found on page 6
+2024-11-27 04:24:32,118 - INFO - Processing page 7
+2024-11-27 04:24:32,192 - INFO - Processing page 8
+2024-11-27 04:24:32,273 - INFO - Processing page 9
+2024-11-27 04:24:32,341 - INFO - Processing page 10
+2024-11-27 04:24:32,377 - INFO - No tables found on page 10
+2024-11-27 04:24:32,377 - INFO - Processing page 11
+2024-11-27 04:24:32,568 - INFO - No tables found on page 11
+2024-11-27 04:24:32,568 - INFO - Processing page 12
+2024-11-27 04:24:32,620 - INFO - Processing page 13
+2024-11-27 04:24:32,677 - INFO - Processing page 14
+2024-11-27 04:24:32,737 - INFO - Processing page 15
+2024-11-27 04:24:32,831 - INFO - Processing page 16
+2024-11-27 04:24:32,878 - INFO - No tables found on page 16
+2024-11-27 04:24:32,878 - INFO - Processing page 17
+2024-11-27 04:24:32,935 - INFO - Processing page 18
+2024-11-27 04:24:33,048 - INFO - Processing page 19
+2024-11-27 04:24:33,117 - INFO - Processing page 20
+2024-11-27 04:24:58,622 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-27 04:24:58,640 - ERROR - Failed to parse OpenAI response as JSON: Expecting value: line 1 column 1 (char 0)
+2024-11-27 04:24:58,641 - ERROR - Error processing MSEDCL: 'type'
+2024-11-27 04:26:31,219 - INFO - Searching tariff documents for MSEDCL
+2024-11-27 04:26:31,219 - INFO - Trying search query: site:www.mahadiscom.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:26:31,580 - INFO - Attempt 1: Downloading PDF with headers from https://www.mahadiscom.in/consumer/wp-content/uploads/2020/04/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:26:32,424 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmphmv49d0j.pdf
+2024-11-27 04:26:32,426 - INFO - PDF saved to output/MSEDCL/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:26:32,448 - INFO - Processing page 1
+2024-11-27 04:26:32,513 - INFO - No tables found on page 1
+2024-11-27 04:26:32,513 - INFO - Processing page 2
+2024-11-27 04:26:32,592 - INFO - No tables found on page 2
+2024-11-27 04:26:32,592 - INFO - Processing page 3
+2024-11-27 04:26:32,643 - INFO - No tables found on page 3
+2024-11-27 04:26:32,643 - INFO - Processing page 4
+2024-11-27 04:26:32,707 - INFO - Processing page 5
+2024-11-27 04:26:32,766 - INFO - No tables found on page 5
+2024-11-27 04:26:32,766 - INFO - Processing page 6
+2024-11-27 04:26:32,819 - INFO - No tables found on page 6
+2024-11-27 04:26:32,819 - INFO - Processing page 7
+2024-11-27 04:26:32,894 - INFO - Processing page 8
+2024-11-27 04:26:32,975 - INFO - Processing page 9
+2024-11-27 04:26:33,043 - INFO - Processing page 10
+2024-11-27 04:26:33,079 - INFO - No tables found on page 10
+2024-11-27 04:26:33,080 - INFO - Processing page 11
+2024-11-27 04:26:33,258 - INFO - No tables found on page 11
+2024-11-27 04:26:33,259 - INFO - Processing page 12
+2024-11-27 04:26:33,311 - INFO - Processing page 13
+2024-11-27 04:26:33,367 - INFO - Processing page 14
+2024-11-27 04:26:33,431 - INFO - Processing page 15
+2024-11-27 04:26:33,527 - INFO - Processing page 16
+2024-11-27 04:26:33,575 - INFO - No tables found on page 16
+2024-11-27 04:26:33,575 - INFO - Processing page 17
+2024-11-27 04:26:33,632 - INFO - Processing page 18
+2024-11-27 04:26:33,748 - INFO - Processing page 19
+2024-11-27 04:26:33,820 - INFO - Processing page 20
+2024-11-27 04:26:34,971 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-27 04:26:34,973 - INFO - Retrying request to /chat/completions in 0.398541 seconds
+2024-11-27 04:26:35,778 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-27 04:26:35,780 - INFO - Retrying request to /chat/completions in 0.926043 seconds
+2024-11-27 04:26:37,118 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-27 04:26:37,125 - ERROR - Error in GPT extraction: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2024-11-27 04:26:37,126 - ERROR - Error processing MSEDCL: 'type'
+2024-11-27 04:31:16,822 - INFO - Searching tariff documents for MSEDCL
+2024-11-27 04:31:16,822 - INFO - Trying search query: site:www.mahadiscom.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:31:17,598 - INFO - Attempt 1: Downloading PDF with headers from https://www.mahadiscom.in/consumer/wp-content/uploads/2020/04/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:31:18,337 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmp8sf15r_d.pdf
+2024-11-27 04:31:18,339 - INFO - PDF saved to output/MSEDCL/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:31:18,361 - INFO - Processing page 1
+2024-11-27 04:31:18,430 - INFO - No tables found on page 1
+2024-11-27 04:31:18,430 - INFO - Processing page 2
+2024-11-27 04:31:18,512 - INFO - No tables found on page 2
+2024-11-27 04:31:18,512 - INFO - Processing page 3
+2024-11-27 04:31:18,565 - INFO - No tables found on page 3
+2024-11-27 04:31:18,565 - INFO - Processing page 4
+2024-11-27 04:31:18,631 - INFO - Processing page 5
+2024-11-27 04:31:18,689 - INFO - No tables found on page 5
+2024-11-27 04:31:18,689 - INFO - Processing page 6
+2024-11-27 04:31:18,742 - INFO - No tables found on page 6
+2024-11-27 04:31:18,742 - INFO - Processing page 7
+2024-11-27 04:31:18,819 - INFO - Processing page 8
+2024-11-27 04:31:18,903 - INFO - Processing page 9
+2024-11-27 04:31:18,971 - INFO - Processing page 10
+2024-11-27 04:31:19,009 - INFO - No tables found on page 10
+2024-11-27 04:31:19,010 - INFO - Processing page 11
+2024-11-27 04:31:19,194 - INFO - No tables found on page 11
+2024-11-27 04:31:19,194 - INFO - Processing page 12
+2024-11-27 04:31:19,246 - INFO - Processing page 13
+2024-11-27 04:31:19,303 - INFO - Processing page 14
+2024-11-27 04:31:19,365 - INFO - Processing page 15
+2024-11-27 04:31:19,459 - INFO - Processing page 16
+2024-11-27 04:31:19,509 - INFO - No tables found on page 16
+2024-11-27 04:31:19,509 - INFO - Processing page 17
+2024-11-27 04:31:19,567 - INFO - Processing page 18
+2024-11-27 04:31:19,680 - INFO - Processing page 19
+2024-11-27 04:31:19,749 - INFO - Processing page 20
+2024-11-27 04:31:21,174 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-27 04:31:21,175 - INFO - Retrying request to /chat/completions in 0.406439 seconds
+2024-11-27 04:32:14,450 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-27 04:32:14,462 - ERROR - Failed to parse OpenAI response as JSON: Expecting value: line 1 column 1 (char 0)
+2024-11-27 04:32:14,462 - ERROR - Error processing MSEDCL: 'type'
+2024-11-27 04:34:45,673 - INFO - Searching tariff documents for MSEDCL
+2024-11-27 04:34:45,674 - INFO - Trying search query: site:www.mahadiscom.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:34:45,959 - INFO - Attempt 1: Downloading PDF with headers from https://www.mahadiscom.in/consumer/wp-content/uploads/2020/04/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:34:47,337 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpnf8tfjaq.pdf
+2024-11-27 04:34:47,339 - INFO - PDF saved to output/MSEDCL/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:34:47,360 - INFO - Processing page 1
+2024-11-27 04:34:47,422 - INFO - No tables found on page 1
+2024-11-27 04:34:47,422 - INFO - Processing page 2
+2024-11-27 04:34:47,502 - INFO - No tables found on page 2
+2024-11-27 04:34:47,502 - INFO - Processing page 3
+2024-11-27 04:34:47,557 - INFO - No tables found on page 3
+2024-11-27 04:34:47,557 - INFO - Processing page 4
+2024-11-27 04:34:47,623 - INFO - Processing page 5
+2024-11-27 04:34:47,679 - INFO - No tables found on page 5
+2024-11-27 04:34:47,679 - INFO - Processing page 6
+2024-11-27 04:34:47,732 - INFO - No tables found on page 6
+2024-11-27 04:34:47,732 - INFO - Processing page 7
+2024-11-27 04:34:47,805 - INFO - Processing page 8
+2024-11-27 04:34:47,887 - INFO - Processing page 9
+2024-11-27 04:34:47,955 - INFO - Processing page 10
+2024-11-27 04:34:47,992 - INFO - No tables found on page 10
+2024-11-27 04:34:47,992 - INFO - Processing page 11
+2024-11-27 04:34:48,169 - INFO - No tables found on page 11
+2024-11-27 04:34:48,169 - INFO - Processing page 12
+2024-11-27 04:34:48,221 - INFO - Processing page 13
+2024-11-27 04:34:48,277 - INFO - Processing page 14
+2024-11-27 04:34:48,336 - INFO - Processing page 15
+2024-11-27 04:34:48,428 - INFO - Processing page 16
+2024-11-27 04:34:48,476 - INFO - No tables found on page 16
+2024-11-27 04:34:48,476 - INFO - Processing page 17
+2024-11-27 04:34:48,533 - INFO - Processing page 18
+2024-11-27 04:34:48,646 - INFO - Processing page 19
+2024-11-27 04:34:48,716 - INFO - Processing page 20
+2024-11-27 04:35:37,413 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-27 04:35:37,424 - ERROR - Failed to parse OpenAI response as JSON: Expecting value: line 1 column 1 (char 0)
+2024-11-27 04:35:37,424 - ERROR - Error processing MSEDCL: 'type'
+2024-11-27 04:40:13,800 - INFO - Searching tariff documents for MSEDCL
+2024-11-27 04:40:13,801 - INFO - Trying search query: site:www.mahadiscom.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:40:14,293 - INFO - Attempt 1: Downloading PDF with headers from https://www.mahadiscom.in/consumer/wp-content/uploads/2020/04/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:40:15,369 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmppk9syn_f.pdf
+2024-11-27 04:40:15,370 - INFO - PDF saved to output/MSEDCL/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 04:40:15,389 - INFO - Processing page 1
+2024-11-27 04:40:15,458 - INFO - No tables found on page 1
+2024-11-27 04:40:15,458 - INFO - Processing page 2
+2024-11-27 04:40:15,538 - INFO - No tables found on page 2
+2024-11-27 04:40:15,539 - INFO - Processing page 3
+2024-11-27 04:40:15,589 - INFO - No tables found on page 3
+2024-11-27 04:40:15,589 - INFO - Processing page 4
+2024-11-27 04:40:15,653 - INFO - Processing page 5
+2024-11-27 04:40:15,709 - INFO - No tables found on page 5
+2024-11-27 04:40:15,709 - INFO - Processing page 6
+2024-11-27 04:40:15,761 - INFO - No tables found on page 6
+2024-11-27 04:40:15,761 - INFO - Processing page 7
+2024-11-27 04:40:15,835 - INFO - Processing page 8
+2024-11-27 04:40:15,917 - INFO - Processing page 9
+2024-11-27 04:40:15,985 - INFO - Processing page 10
+2024-11-27 04:40:16,022 - INFO - No tables found on page 10
+2024-11-27 04:40:16,022 - INFO - Processing page 11
+2024-11-27 04:40:16,201 - INFO - No tables found on page 11
+2024-11-27 04:40:16,201 - INFO - Processing page 12
+2024-11-27 04:40:16,252 - INFO - Processing page 13
+2024-11-27 04:40:16,308 - INFO - Processing page 14
+2024-11-27 04:40:16,368 - INFO - Processing page 15
+2024-11-27 04:40:16,460 - INFO - Processing page 16
+2024-11-27 04:40:16,508 - INFO - No tables found on page 16
+2024-11-27 04:40:16,508 - INFO - Processing page 17
+2024-11-27 04:40:16,566 - INFO - Processing page 18
+2024-11-27 04:40:16,679 - INFO - Processing page 19
+2024-11-27 04:40:16,747 - INFO - Processing page 20
+2024-11-27 04:40:18,162 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-27 04:40:18,164 - INFO - Retrying request to /chat/completions in 0.406744 seconds
+2024-11-27 04:40:19,107 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-27 04:40:19,109 - INFO - Retrying request to /chat/completions in 0.939496 seconds
+2024-11-27 04:41:11,128 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-27 04:41:11,151 - ERROR - Error processing MSEDCL: 'type'
+2024-11-27 04:54:43,462 - INFO - Searching tariff documents for Himachal Pradesh State Electricity Board Limited
+2024-11-27 04:54:43,462 - INFO - Trying search query: site:hpseb.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:54:43,988 - INFO - Attempt 1: Downloading PDF with headers from https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/currenttariffrates/SoT%20for%20FY2023-24.pdf
+2024-11-27 04:54:44,244 - WARNING - Download failed with headers (attempt 1/3): HTTPSConnectionPool(host='webdocuploader.hpseb.in', port=443): Max retries exceeded with url: /uploader/download2.php?link=/portal/currenttariffrates/SoT%20for%20FY2023-24.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+2024-11-27 04:54:44,245 - INFO - Attempt 1: Retrying download without headers for https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/currenttariffrates/SoT%20for%20FY2023-24.pdf
+2024-11-27 04:54:44,401 - WARNING - Download failed without headers (attempt 1/3): HTTPSConnectionPool(host='webdocuploader.hpseb.in', port=443): Max retries exceeded with url: /uploader/download2.php?link=/portal/currenttariffrates/SoT%20for%20FY2023-24.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+2024-11-27 04:54:44,402 - INFO - Retrying in 5 seconds...
+2024-11-27 04:54:49,407 - INFO - Attempt 2: Downloading PDF with headers from https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/currenttariffrates/SoT%20for%20FY2023-24.pdf
+2024-11-27 04:54:49,612 - WARNING - Download failed with headers (attempt 2/3): HTTPSConnectionPool(host='webdocuploader.hpseb.in', port=443): Max retries exceeded with url: /uploader/download2.php?link=/portal/currenttariffrates/SoT%20for%20FY2023-24.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+2024-11-27 04:54:49,613 - INFO - Attempt 2: Retrying download without headers for https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/currenttariffrates/SoT%20for%20FY2023-24.pdf
+2024-11-27 04:54:49,766 - WARNING - Download failed without headers (attempt 2/3): HTTPSConnectionPool(host='webdocuploader.hpseb.in', port=443): Max retries exceeded with url: /uploader/download2.php?link=/portal/currenttariffrates/SoT%20for%20FY2023-24.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+2024-11-27 04:54:49,767 - INFO - Retrying in 5 seconds...
+2024-11-27 04:54:54,771 - INFO - Attempt 3: Downloading PDF with headers from https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/currenttariffrates/SoT%20for%20FY2023-24.pdf
+2024-11-27 04:54:54,969 - WARNING - Download failed with headers (attempt 3/3): HTTPSConnectionPool(host='webdocuploader.hpseb.in', port=443): Max retries exceeded with url: /uploader/download2.php?link=/portal/currenttariffrates/SoT%20for%20FY2023-24.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+2024-11-27 04:54:54,969 - ERROR - Failed to download PDF after 3 attempts: https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/currenttariffrates/SoT%20for%20FY2023-24.pdf
+2024-11-27 04:54:54,969 - INFO - Searching tariff documents for Tata Power Delhi Distribution Limited
+2024-11-27 04:54:54,970 - INFO - Trying search query: site:tatapower-ddl.com 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:54:55,217 - INFO - Attempt 1: Downloading PDF with headers from https://www.tatapower-ddl.com/Editor_UploadedDocuments/Content/Tariff_Schedule_2020-21.pdf
+2024-11-27 04:54:56,084 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmppnhyj427.pdf
+2024-11-27 04:54:56,085 - INFO - PDF saved to output/Tata_Power_Delhi_Distribution_Limited/Tariff_Schedule_2020-21.pdf
+2024-11-27 04:54:56,091 - INFO - Processing page 1
+2024-11-27 04:54:56,214 - INFO - Processing page 2
+2024-11-27 04:54:56,318 - INFO - Processing page 3
+2024-11-27 04:54:56,360 - INFO - No tables found on page 3
+2024-11-27 04:54:56,361 - INFO - Processing page 4
+2024-11-27 04:54:56,397 - INFO - No tables found on page 4
+2024-11-27 04:54:56,397 - INFO - Processing page 5
+2024-11-27 04:54:56,433 - INFO - No tables found on page 5
+2024-11-27 04:54:56,434 - INFO - Processing page 6
+2024-11-27 04:54:56,471 - INFO - No tables found on page 6
+2024-11-27 04:54:56,471 - INFO - Processing page 7
+2024-11-27 04:54:56,504 - INFO - No tables found on page 7
+2024-11-27 04:54:56,505 - INFO - Processing page 8
+2024-11-27 04:54:56,544 - INFO - No tables found on page 8
+2024-11-27 04:54:56,544 - INFO - Processing page 9
+2024-11-27 04:54:56,568 - INFO - No tables found on page 9
+2024-11-27 04:54:56,568 - ERROR - Error processing Tata Power Delhi Distribution Limited: 'type'
+2024-11-27 04:54:56,568 - INFO - Searching tariff documents for BSES Rajdhani Power Limited
+2024-11-27 04:54:56,569 - INFO - Trying search query: site:bsesdelhi.com 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:54:56,807 - INFO - Attempt 1: Downloading PDF with headers from https://www.bsesdelhi.com/documents/55701/1198720035/Guidelines_and_Standards_for_EVCI_17092024.pdf
+2024-11-27 04:55:07,416 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpr_k71owp.pdf
+2024-11-27 04:55:07,418 - INFO - PDF saved to output/BSES_Rajdhani_Power_Limited/Guidelines_and_Standards_for_EVCI_17092024.pdf
+2024-11-27 04:55:07,433 - INFO - Processing page 1
+2024-11-27 04:55:07,471 - INFO - No tables found on page 1
+2024-11-27 04:55:07,471 - INFO - Processing page 2
+2024-11-27 04:55:07,502 - INFO - No tables found on page 2
+2024-11-27 04:55:07,502 - INFO - Processing page 3
+2024-11-27 04:55:07,538 - INFO - No tables found on page 3
+2024-11-27 04:55:07,538 - INFO - Processing page 4
+2024-11-27 04:55:07,566 - INFO - No tables found on page 4
+2024-11-27 04:55:07,566 - INFO - Processing page 5
+2024-11-27 04:55:07,603 - INFO - No tables found on page 5
+2024-11-27 04:55:07,603 - INFO - Processing page 6
+2024-11-27 04:55:07,632 - INFO - No tables found on page 6
+2024-11-27 04:55:07,632 - INFO - Processing page 7
+2024-11-27 04:55:07,657 - INFO - No tables found on page 7
+2024-11-27 04:55:07,657 - INFO - Processing page 8
+2024-11-27 04:55:07,686 - INFO - No tables found on page 8
+2024-11-27 04:55:07,686 - INFO - Processing page 9
+2024-11-27 04:55:07,776 - INFO - No tables found on page 9
+2024-11-27 04:55:07,776 - INFO - Processing page 10
+2024-11-27 04:55:07,805 - INFO - No tables found on page 10
+2024-11-27 04:55:07,806 - INFO - Processing page 11
+2024-11-27 04:55:07,834 - INFO - No tables found on page 11
+2024-11-27 04:55:07,834 - INFO - Processing page 12
+2024-11-27 04:55:07,864 - INFO - No tables found on page 12
+2024-11-27 04:55:07,864 - INFO - Processing page 13
+2024-11-27 04:55:07,891 - INFO - No tables found on page 13
+2024-11-27 04:55:07,891 - INFO - Processing page 14
+2024-11-27 04:55:07,910 - INFO - No tables found on page 14
+2024-11-27 04:55:07,910 - INFO - Processing page 15
+2024-11-27 04:55:07,928 - INFO - No tables found on page 15
+2024-11-27 04:55:07,928 - INFO - Processing page 16
+2024-11-27 04:55:07,949 - INFO - No tables found on page 16
+2024-11-27 04:55:07,949 - INFO - Processing page 17
+2024-11-27 04:55:07,969 - INFO - No tables found on page 17
+2024-11-27 04:55:07,969 - INFO - Processing page 18
+2024-11-27 04:55:07,987 - INFO - No tables found on page 18
+2024-11-27 04:55:07,988 - INFO - Processing page 19
+2024-11-27 04:55:08,001 - INFO - No tables found on page 19
+2024-11-27 04:55:08,001 - INFO - Processing page 20
+2024-11-27 04:55:08,019 - INFO - No tables found on page 20
+2024-11-27 04:55:08,020 - ERROR - Error processing BSES Rajdhani Power Limited: 'type'
+2024-11-27 04:55:08,020 - INFO - Searching tariff documents for BSES Yamuna Power Limited
+2024-11-27 04:55:08,020 - INFO - Trying search query: site:bsesdelhi.com 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:55:08,202 - INFO - Attempt 1: Downloading PDF with headers from https://www.bsesdelhi.com/documents/55701/1198720035/Guidelines_and_Standards_for_EVCI_17092024.pdf
+2024-11-27 04:55:18,205 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmp4lwvz94l.pdf
+2024-11-27 04:55:18,208 - INFO - PDF saved to output/BSES_Yamuna_Power_Limited/Guidelines_and_Standards_for_EVCI_17092024.pdf
+2024-11-27 04:55:18,224 - INFO - Processing page 1
+2024-11-27 04:55:18,265 - INFO - No tables found on page 1
+2024-11-27 04:55:18,265 - INFO - Processing page 2
+2024-11-27 04:55:18,297 - INFO - No tables found on page 2
+2024-11-27 04:55:18,297 - INFO - Processing page 3
+2024-11-27 04:55:18,331 - INFO - No tables found on page 3
+2024-11-27 04:55:18,331 - INFO - Processing page 4
+2024-11-27 04:55:18,359 - INFO - No tables found on page 4
+2024-11-27 04:55:18,359 - INFO - Processing page 5
+2024-11-27 04:55:18,394 - INFO - No tables found on page 5
+2024-11-27 04:55:18,394 - INFO - Processing page 6
+2024-11-27 04:55:18,422 - INFO - No tables found on page 6
+2024-11-27 04:55:18,422 - INFO - Processing page 7
+2024-11-27 04:55:18,447 - INFO - No tables found on page 7
+2024-11-27 04:55:18,447 - INFO - Processing page 8
+2024-11-27 04:55:18,556 - INFO - No tables found on page 8
+2024-11-27 04:55:18,556 - INFO - Processing page 9
+2024-11-27 04:55:18,586 - INFO - No tables found on page 9
+2024-11-27 04:55:18,586 - INFO - Processing page 10
+2024-11-27 04:55:18,617 - INFO - No tables found on page 10
+2024-11-27 04:55:18,617 - INFO - Processing page 11
+2024-11-27 04:55:18,646 - INFO - No tables found on page 11
+2024-11-27 04:55:18,646 - INFO - Processing page 12
+2024-11-27 04:55:18,674 - INFO - No tables found on page 12
+2024-11-27 04:55:18,674 - INFO - Processing page 13
+2024-11-27 04:55:18,703 - INFO - No tables found on page 13
+2024-11-27 04:55:18,703 - INFO - Processing page 14
+2024-11-27 04:55:18,724 - INFO - No tables found on page 14
+2024-11-27 04:55:18,724 - INFO - Processing page 15
+2024-11-27 04:55:18,742 - INFO - No tables found on page 15
+2024-11-27 04:55:18,743 - INFO - Processing page 16
+2024-11-27 04:55:18,764 - INFO - No tables found on page 16
+2024-11-27 04:55:18,764 - INFO - Processing page 17
+2024-11-27 04:55:18,785 - INFO - No tables found on page 17
+2024-11-27 04:55:18,785 - INFO - Processing page 18
+2024-11-27 04:55:18,804 - INFO - No tables found on page 18
+2024-11-27 04:55:18,804 - INFO - Processing page 19
+2024-11-27 04:55:18,842 - INFO - No tables found on page 19
+2024-11-27 04:55:18,842 - INFO - Processing page 20
+2024-11-27 04:55:18,862 - INFO - No tables found on page 20
+2024-11-27 04:55:18,862 - ERROR - Error processing BSES Yamuna Power Limited: 'type'
+2024-11-27 04:55:18,862 - INFO - Searching tariff documents for New Delhi Municipal Corporation
+2024-11-27 04:55:18,862 - INFO - Trying search query: site:ndmc.gov.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:55:19,054 - INFO - Attempt 1: Downloading PDF with headers from https://ndmc.gov.in/departments/Departments/Commercial/ElectricitytariffscheduleforFY2020-21-BRPLBYPLTPDDL&NDMC.pdf
+2024-11-27 04:55:19,943 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmps75_1bkb.pdf
+2024-11-27 04:55:19,945 - INFO - PDF saved to output/New_Delhi_Municipal_Corporation/ElectricitytariffscheduleforFY2020-21-BRPLBYPLTPDDL&NDMC.pdf
+2024-11-27 04:55:19,961 - INFO - Processing page 1
+2024-11-27 04:55:20,092 - INFO - Processing page 2
+2024-11-27 04:55:20,173 - INFO - Processing page 3
+2024-11-27 04:55:20,218 - INFO - No tables found on page 3
+2024-11-27 04:55:20,218 - INFO - Processing page 4
+2024-11-27 04:55:20,258 - INFO - No tables found on page 4
+2024-11-27 04:55:20,258 - INFO - Processing page 5
+2024-11-27 04:55:20,373 - INFO - No tables found on page 5
+2024-11-27 04:55:20,374 - INFO - Processing page 6
+2024-11-27 04:55:20,412 - INFO - No tables found on page 6
+2024-11-27 04:55:20,412 - INFO - Processing page 7
+2024-11-27 04:55:20,446 - INFO - No tables found on page 7
+2024-11-27 04:55:20,446 - INFO - Processing page 8
+2024-11-27 04:55:20,487 - INFO - No tables found on page 8
+2024-11-27 04:55:20,487 - INFO - Processing page 9
+2024-11-27 04:55:20,514 - INFO - No tables found on page 9
+2024-11-27 04:55:20,514 - ERROR - Error processing New Delhi Municipal Corporation: 'type'
+2024-11-27 04:55:20,514 - INFO - Searching tariff documents for Uttar Haryana Bijli Vitran Nigam
+2024-11-27 04:55:20,514 - INFO - Trying search query: site:uhbvn.org.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:55:20,718 - INFO - Attempt 1: Downloading PDF with headers from https://www.uhbvn.org.in/staticContent/documents/Tariff.pdf
+2024-11-27 04:55:29,012 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmp9m4v07qr.pdf
+2024-11-27 04:55:29,013 - INFO - PDF saved to output/Uttar_Haryana_Bijli_Vitran_Nigam/Tariff.pdf
+2024-11-27 04:55:29,018 - INFO - Processing page 1
+2024-11-27 04:55:29,020 - WARNING - No text found on page 1, attempting OCR...
+2024-11-27 04:55:30,314 - INFO - No tables found on page 1
+2024-11-27 04:55:30,314 - INFO - Processing page 2
+2024-11-27 04:55:30,315 - WARNING - No text found on page 2, attempting OCR...
+2024-11-27 04:55:31,641 - INFO - No tables found on page 2
+2024-11-27 04:55:31,641 - INFO - Processing page 3
+2024-11-27 04:55:31,642 - WARNING - No text found on page 3, attempting OCR...
+2024-11-27 04:55:32,809 - INFO - No tables found on page 3
+2024-11-27 04:55:32,809 - INFO - Processing page 4
+2024-11-27 04:55:32,810 - WARNING - No text found on page 4, attempting OCR...
+2024-11-27 04:55:33,803 - INFO - No tables found on page 4
+2024-11-27 04:55:33,803 - INFO - Processing page 5
+2024-11-27 04:55:33,805 - WARNING - No text found on page 5, attempting OCR...
+2024-11-27 04:55:35,068 - INFO - No tables found on page 5
+2024-11-27 04:55:35,068 - INFO - Processing page 6
+2024-11-27 04:55:35,069 - WARNING - No text found on page 6, attempting OCR...
+2024-11-27 04:55:36,018 - INFO - No tables found on page 6
+2024-11-27 04:55:36,018 - INFO - Processing page 7
+2024-11-27 04:55:36,019 - WARNING - No text found on page 7, attempting OCR...
+2024-11-27 04:55:37,485 - INFO - No tables found on page 7
+2024-11-27 04:55:37,486 - ERROR - Error processing Uttar Haryana Bijli Vitran Nigam: 'type'
+2024-11-27 04:55:37,486 - INFO - Searching tariff documents for Dakshin Haryana Bijli Vitran Nigam
+2024-11-27 04:55:37,486 - INFO - Trying search query: site:dhbvn.org.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:55:37,720 - INFO - Attempt 1: Downloading PDF with headers from https://dhbvn.org.in/staticContent/saleregulation/salecircular/circular2024/09_D_2024.pdf
+2024-11-27 04:55:44,795 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmp6fqyz18o.pdf
+2024-11-27 04:55:44,801 - INFO - PDF saved to output/Dakshin_Haryana_Bijli_Vitran_Nigam/09_D_2024.pdf
+2024-11-27 04:55:44,808 - INFO - Processing page 1
+2024-11-27 04:55:44,885 - INFO - No tables found on page 1
+2024-11-27 04:55:44,885 - INFO - Processing page 2
+2024-11-27 04:55:44,922 - INFO - No tables found on page 2
+2024-11-27 04:55:44,922 - INFO - Processing page 3
+2024-11-27 04:55:44,958 - INFO - No tables found on page 3
+2024-11-27 04:55:44,959 - INFO - Processing page 4
+2024-11-27 04:55:45,014 - INFO - No tables found on page 4
+2024-11-27 04:55:45,014 - INFO - Processing page 5
+2024-11-27 04:55:45,068 - INFO - No tables found on page 5
+2024-11-27 04:55:45,068 - INFO - Processing page 6
+2024-11-27 04:55:45,103 - INFO - No tables found on page 6
+2024-11-27 04:55:45,104 - ERROR - Error processing Dakshin Haryana Bijli Vitran Nigam: 'type'
+2024-11-27 04:55:45,104 - INFO - Searching tariff documents for Uttarakhand Power Corporation Limited
+2024-11-27 04:55:45,104 - INFO - Trying search query: site:upcl.org 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:55:45,329 - INFO - Attempt 1: Downloading PDF with headers from https://www.upcl.org/wp-content/uploads/2024/04/Public-Notice-Tariff-and-Charges-01-04-2024.pdf
+2024-11-27 04:55:45,825 - WARNING - Failed to parse headers (url=https://www.upcl.org:443/wp-content/uploads/2024/04/Public-Notice-Tariff-and-Charges-01-04-2024.pdf): [MissingHeaderBodySeparatorDefect()], unparsed data: 'Strict-Transport-Security : max-age=63115200\r\n\r\n'
+Traceback (most recent call last):
+  File "/Users/sayon/PycharmProjects/indianutilityrates/venv_indianutilityrates/lib/python3.13/site-packages/urllib3/connection.py", line 510, in getresponse
+    assert_header_parsing(httplib_response.msg)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sayon/PycharmProjects/indianutilityrates/venv_indianutilityrates/lib/python3.13/site-packages/urllib3/util/response.py", line 88, in assert_header_parsing
+    raise HeaderParsingError(defects=defects, unparsed_data=unparsed_data)
+urllib3.exceptions.HeaderParsingError: [MissingHeaderBodySeparatorDefect()], unparsed data: 'Strict-Transport-Security : max-age=63115200\r\n\r\n'
+2024-11-27 04:56:11,004 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmps_bgkcj8.pdf
+2024-11-27 04:56:11,012 - INFO - PDF saved to output/Uttarakhand_Power_Corporation_Limited/Public-Notice-Tariff-and-Charges-01-04-2024.pdf
+2024-11-27 04:56:11,018 - INFO - Processing page 1
+2024-11-27 04:56:11,117 - INFO - No tables found on page 1
+2024-11-27 04:56:11,117 - INFO - Processing page 2
+2024-11-27 04:56:11,185 - INFO - No tables found on page 2
+2024-11-27 04:56:11,185 - INFO - Processing page 3
+2024-11-27 04:56:11,253 - INFO - No tables found on page 3
+2024-11-27 04:56:11,253 - INFO - Processing page 4
+2024-11-27 04:56:11,422 - INFO - No tables found on page 4
+2024-11-27 04:56:11,422 - INFO - Processing page 5
+2024-11-27 04:56:11,499 - INFO - No tables found on page 5
+2024-11-27 04:56:11,499 - INFO - Processing page 6
+2024-11-27 04:56:11,527 - INFO - No tables found on page 6
+2024-11-27 04:56:11,527 - INFO - Processing page 7
+2024-11-27 04:56:11,571 - INFO - No tables found on page 7
+2024-11-27 04:56:11,571 - INFO - Processing page 8
+2024-11-27 04:56:11,615 - INFO - No tables found on page 8
+2024-11-27 04:56:11,615 - INFO - Processing page 9
+2024-11-27 04:56:11,630 - INFO - No tables found on page 9
+2024-11-27 04:56:11,631 - INFO - Processing page 10
+2024-11-27 04:56:11,660 - INFO - No tables found on page 10
+2024-11-27 04:56:11,661 - ERROR - Error processing Uttarakhand Power Corporation Limited: 'type'
+2024-11-27 04:56:11,661 - INFO - Searching tariff documents for Punjab State Power Corporation Limited
+2024-11-27 04:56:11,661 - INFO - Trying search query: site:pspcl.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:11,952 - INFO - Attempt 1: Downloading PDF with headers from https://docs.pspcl.in/docs/cecommercial2420240614200653433.pdf
+2024-11-27 04:56:13,878 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpkkvgl2ta.pdf
+2024-11-27 04:56:13,881 - INFO - PDF saved to output/Punjab_State_Power_Corporation_Limited/cecommercial2420240614200653433.pdf
+2024-11-27 04:56:13,906 - INFO - Processing page 1
+2024-11-27 04:56:13,907 - WARNING - No text found on page 1, attempting OCR...
+2024-11-27 04:56:14,506 - INFO - No tables found on page 1
+2024-11-27 04:56:14,507 - INFO - Processing page 2
+2024-11-27 04:56:14,508 - WARNING - No text found on page 2, attempting OCR...
+2024-11-27 04:56:15,165 - INFO - No tables found on page 2
+2024-11-27 04:56:15,165 - INFO - Processing page 3
+2024-11-27 04:56:15,209 - INFO - No tables found on page 3
+2024-11-27 04:56:15,209 - INFO - Processing page 4
+2024-11-27 04:56:15,253 - INFO - No tables found on page 4
+2024-11-27 04:56:15,253 - INFO - Processing page 5
+2024-11-27 04:56:15,293 - INFO - No tables found on page 5
+2024-11-27 04:56:15,293 - INFO - Processing page 6
+2024-11-27 04:56:15,354 - INFO - Processing page 7
+2024-11-27 04:56:15,399 - INFO - No tables found on page 7
+2024-11-27 04:56:15,399 - INFO - Processing page 8
+2024-11-27 04:56:15,445 - INFO - No tables found on page 8
+2024-11-27 04:56:15,445 - INFO - Processing page 9
+2024-11-27 04:56:15,493 - INFO - No tables found on page 9
+2024-11-27 04:56:15,493 - INFO - Processing page 10
+2024-11-27 04:56:15,607 - INFO - No tables found on page 10
+2024-11-27 04:56:15,607 - INFO - Processing page 11
+2024-11-27 04:56:15,635 - INFO - No tables found on page 11
+2024-11-27 04:56:15,635 - INFO - Processing page 12
+2024-11-27 04:56:15,728 - INFO - Processing page 13
+2024-11-27 04:56:15,781 - INFO - Processing page 14
+2024-11-27 04:56:15,842 - INFO - Processing page 15
+2024-11-27 04:56:15,898 - INFO - Processing page 16
+2024-11-27 04:56:15,969 - INFO - Processing page 17
+2024-11-27 04:56:16,021 - INFO - Processing page 18
+2024-11-27 04:56:16,069 - INFO - No tables found on page 18
+2024-11-27 04:56:16,069 - INFO - Processing page 19
+2024-11-27 04:56:16,132 - INFO - Processing page 20
+2024-11-27 04:56:16,235 - INFO - No tables found on page 20
+2024-11-27 04:56:16,236 - ERROR - Error processing Punjab State Power Corporation Limited: 'type'
+2024-11-27 04:56:16,236 - INFO - Searching tariff documents for Purvanchal Vidyut Vitran Nigam Ltd.
+2024-11-27 04:56:16,236 - INFO - Trying search query: site:puvvnl.up.nic.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:16,415 - INFO - Trying search query: site:puvvnl.up.nic.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 04:56:16,962 - INFO - Searching tariff documents for Paschimanchal Vidyut Vitran Nigam Limited
+2024-11-27 04:56:16,964 - INFO - Trying search query: site:pvvnl.up.nic.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:17,132 - INFO - Trying search query: site:pvvnl.up.nic.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 04:56:17,306 - INFO - Searching tariff documents for Madhyanchal Vidyut Vitran Nigam Limited
+2024-11-27 04:56:17,308 - INFO - Trying search query: site:mvvnl.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:17,544 - INFO - Attempt 1: Downloading PDF with headers from https://mvvnl.in/site/writereaddata/siteContent/202410161749029070RATE-SCHEDULE%20English_FY_161024.pdf
+2024-11-27 04:56:18,361 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpxergfi3l.pdf
+2024-11-27 04:56:18,362 - INFO - PDF saved to output/Madhyanchal_Vidyut_Vitran_Nigam_Limited/202410161749029070RATE-SCHEDULE%20English_FY_161024.pdf
+2024-11-27 04:56:18,377 - INFO - Processing page 1
+2024-11-27 04:56:18,527 - INFO - Processing page 2
+2024-11-27 04:56:18,638 - INFO - Processing page 3
+2024-11-27 04:56:18,748 - INFO - Processing page 4
+2024-11-27 04:56:18,833 - INFO - Processing page 5
+2024-11-27 04:56:18,940 - INFO - Processing page 6
+2024-11-27 04:56:18,988 - ERROR - Error processing Madhyanchal Vidyut Vitran Nigam Limited: 'type'
+2024-11-27 04:56:18,988 - INFO - Searching tariff documents for Dhakshinachal Vidyut Vitran Nigam Limited
+2024-11-27 04:56:18,988 - INFO - Trying search query: site:dvvnl.org 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:19,321 - INFO - Attempt 1: Downloading PDF with headers from https://www.dvvnl.org/UploadFiles/tariffPlan/Public%20Notice%20English_FY2023-24.pdf
+2024-11-27 04:56:20,102 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpuibvxidl.pdf
+2024-11-27 04:56:20,104 - INFO - PDF saved to output/Dhakshinachal_Vidyut_Vitran_Nigam_Limited/Public%20Notice%20English_FY2023-24.pdf
+2024-11-27 04:56:20,120 - INFO - Processing page 1
+2024-11-27 04:56:20,242 - INFO - Processing page 2
+2024-11-27 04:56:20,480 - INFO - Processing page 3
+2024-11-27 04:56:20,613 - INFO - Processing page 4
+2024-11-27 04:56:20,707 - INFO - Processing page 5
+2024-11-27 04:56:20,817 - INFO - Processing page 6
+2024-11-27 04:56:20,879 - ERROR - Error processing Dhakshinachal Vidyut Vitran Nigam Limited: 'type'
+2024-11-27 04:56:20,879 - INFO - Searching tariff documents for Electricity Department, UT of Chandigarh
+2024-11-27 04:56:20,879 - INFO - Trying search query: site:chdengineering.gov.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:21,072 - INFO - Attempt 1: Downloading PDF with headers from https://chdengineering.gov.in/electricity-dept/sites/electricity-dept/files/2024-05/2024-06/petition%20chandigarh_1077-.pdf
+2024-11-27 04:56:22,412 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpsm8zklp2.pdf
+2024-11-27 04:56:22,419 - INFO - PDF saved to output/Electricity_Department,_UT_of_Chandigarh/petition%20chandigarh_1077-.pdf
+2024-11-27 04:56:22,474 - INFO - Processing page 1
+2024-11-27 04:56:22,492 - INFO - No tables found on page 1
+2024-11-27 04:56:22,492 - INFO - Processing page 2
+2024-11-27 04:56:22,546 - INFO - No tables found on page 2
+2024-11-27 04:56:22,546 - INFO - Processing page 3
+2024-11-27 04:56:22,573 - INFO - No tables found on page 3
+2024-11-27 04:56:22,573 - INFO - Processing page 4
+2024-11-27 04:56:22,684 - INFO - No tables found on page 4
+2024-11-27 04:56:22,684 - INFO - Processing page 5
+2024-11-27 04:56:22,823 - INFO - No tables found on page 5
+2024-11-27 04:56:22,823 - INFO - Processing page 6
+2024-11-27 04:56:22,950 - INFO - No tables found on page 6
+2024-11-27 04:56:22,950 - INFO - Processing page 7
+2024-11-27 04:56:23,055 - INFO - No tables found on page 7
+2024-11-27 04:56:23,055 - INFO - Processing page 8
+2024-11-27 04:56:23,137 - INFO - Processing page 9
+2024-11-27 04:56:23,159 - INFO - Processing page 10
+2024-11-27 04:56:23,200 - INFO - No tables found on page 10
+2024-11-27 04:56:23,200 - INFO - Processing page 11
+2024-11-27 04:56:23,239 - INFO - No tables found on page 11
+2024-11-27 04:56:23,239 - INFO - Processing page 12
+2024-11-27 04:56:23,277 - INFO - No tables found on page 12
+2024-11-27 04:56:23,277 - INFO - Processing page 13
+2024-11-27 04:56:23,318 - INFO - No tables found on page 13
+2024-11-27 04:56:23,318 - INFO - Processing page 14
+2024-11-27 04:56:23,356 - INFO - No tables found on page 14
+2024-11-27 04:56:23,356 - INFO - Processing page 15
+2024-11-27 04:56:23,399 - INFO - No tables found on page 15
+2024-11-27 04:56:23,399 - INFO - Processing page 16
+2024-11-27 04:56:23,440 - INFO - No tables found on page 16
+2024-11-27 04:56:23,440 - INFO - Processing page 17
+2024-11-27 04:56:23,463 - INFO - No tables found on page 17
+2024-11-27 04:56:23,463 - INFO - Processing page 18
+2024-11-27 04:56:23,560 - INFO - No tables found on page 18
+2024-11-27 04:56:23,561 - INFO - Processing page 19
+2024-11-27 04:56:23,623 - INFO - Processing page 20
+2024-11-27 04:56:23,729 - ERROR - Error processing Electricity Department, UT of Chandigarh: 'type'
+2024-11-27 04:56:23,729 - INFO - Searching tariff documents for Power Development Department
+2024-11-27 04:56:23,729 - INFO - Trying search query: site:jkpdd.gov.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:23,891 - INFO - Trying search query: site:jkpdd.gov.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 04:56:24,047 - INFO - Searching tariff documents for Manipur State Power Distribution Company Ltd
+2024-11-27 04:56:24,048 - INFO - Trying search query: site:mspdcl.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:24,229 - INFO - Trying search query: site:mspdcl.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 04:56:24,388 - INFO - Searching tariff documents for Department of Power, Arunachal Pradesh
+2024-11-27 04:56:24,391 - INFO - Trying search query: site:power.arunachal.gov.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:24,593 - INFO - Attempt 1: Downloading PDF with headers from https://power.arunachal.gov.in/wp-content/uploads/2018/06/12_sep.pdf
+2024-11-27 04:56:26,248 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpa057pc7s.pdf
+2024-11-27 04:56:26,251 - INFO - PDF saved to output/Department_of_Power,_Arunachal_Pradesh/12_sep.pdf
+2024-11-27 04:56:26,266 - INFO - Processing page 1
+2024-11-27 04:56:26,268 - WARNING - No text found on page 1, attempting OCR...
+2024-11-27 04:56:26,853 - INFO - No tables found on page 1
+2024-11-27 04:56:26,854 - INFO - Processing page 2
+2024-11-27 04:56:26,854 - WARNING - No text found on page 2, attempting OCR...
+2024-11-27 04:56:27,112 - INFO - No tables found on page 2
+2024-11-27 04:56:27,113 - INFO - Processing page 3
+2024-11-27 04:56:27,113 - WARNING - No text found on page 3, attempting OCR...
+2024-11-27 04:56:27,282 - INFO - No tables found on page 3
+2024-11-27 04:56:27,282 - INFO - Processing page 4
+2024-11-27 04:56:27,283 - WARNING - No text found on page 4, attempting OCR...
+2024-11-27 04:56:27,397 - INFO - No tables found on page 4
+2024-11-27 04:56:27,397 - INFO - Processing page 5
+2024-11-27 04:56:27,397 - WARNING - No text found on page 5, attempting OCR...
+2024-11-27 04:56:28,008 - INFO - No tables found on page 5
+2024-11-27 04:56:28,008 - INFO - Processing page 6
+2024-11-27 04:56:28,009 - WARNING - No text found on page 6, attempting OCR...
+2024-11-27 04:56:28,604 - INFO - No tables found on page 6
+2024-11-27 04:56:28,604 - INFO - Processing page 7
+2024-11-27 04:56:28,604 - WARNING - No text found on page 7, attempting OCR...
+2024-11-27 04:56:29,170 - INFO - No tables found on page 7
+2024-11-27 04:56:29,170 - INFO - Processing page 8
+2024-11-27 04:56:29,171 - WARNING - No text found on page 8, attempting OCR...
+2024-11-27 04:56:29,701 - INFO - No tables found on page 8
+2024-11-27 04:56:29,701 - INFO - Processing page 9
+2024-11-27 04:56:29,702 - WARNING - No text found on page 9, attempting OCR...
+2024-11-27 04:56:30,232 - INFO - No tables found on page 9
+2024-11-27 04:56:30,232 - INFO - Processing page 10
+2024-11-27 04:56:30,233 - WARNING - No text found on page 10, attempting OCR...
+2024-11-27 04:56:30,681 - INFO - No tables found on page 10
+2024-11-27 04:56:30,681 - INFO - Processing page 11
+2024-11-27 04:56:30,682 - WARNING - No text found on page 11, attempting OCR...
+2024-11-27 04:56:31,057 - INFO - No tables found on page 11
+2024-11-27 04:56:31,057 - INFO - Processing page 12
+2024-11-27 04:56:31,058 - WARNING - No text found on page 12, attempting OCR...
+2024-11-27 04:56:31,430 - INFO - No tables found on page 12
+2024-11-27 04:56:31,430 - INFO - Processing page 13
+2024-11-27 04:56:31,431 - WARNING - No text found on page 13, attempting OCR...
+2024-11-27 04:56:31,865 - INFO - No tables found on page 13
+2024-11-27 04:56:31,866 - INFO - Processing page 14
+2024-11-27 04:56:31,866 - WARNING - No text found on page 14, attempting OCR...
+2024-11-27 04:56:32,270 - INFO - No tables found on page 14
+2024-11-27 04:56:32,270 - INFO - Processing page 15
+2024-11-27 04:56:32,271 - WARNING - No text found on page 15, attempting OCR...
+2024-11-27 04:56:32,836 - INFO - No tables found on page 15
+2024-11-27 04:56:32,836 - INFO - Processing page 16
+2024-11-27 04:56:32,837 - WARNING - No text found on page 16, attempting OCR...
+2024-11-27 04:56:32,959 - INFO - No tables found on page 16
+2024-11-27 04:56:32,959 - INFO - Processing page 17
+2024-11-27 04:56:32,960 - WARNING - No text found on page 17, attempting OCR...
+2024-11-27 04:56:33,490 - INFO - No tables found on page 17
+2024-11-27 04:56:33,490 - INFO - Processing page 18
+2024-11-27 04:56:33,491 - WARNING - No text found on page 18, attempting OCR...
+2024-11-27 04:56:34,031 - INFO - No tables found on page 18
+2024-11-27 04:56:34,031 - INFO - Processing page 19
+2024-11-27 04:56:34,032 - WARNING - No text found on page 19, attempting OCR...
+2024-11-27 04:56:34,547 - INFO - No tables found on page 19
+2024-11-27 04:56:34,547 - INFO - Processing page 20
+2024-11-27 04:56:34,548 - WARNING - No text found on page 20, attempting OCR...
+2024-11-27 04:56:34,831 - INFO - No tables found on page 20
+2024-11-27 04:56:34,832 - ERROR - Error processing Department of Power, Arunachal Pradesh: 'type'
+2024-11-27 04:56:34,832 - INFO - Searching tariff documents for Department of Power, Nagaland
+2024-11-27 04:56:34,832 - INFO - Trying search query: site:power.nagaland.gov.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:35,000 - INFO - Trying search query: site:power.nagaland.gov.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 04:56:35,153 - INFO - Searching tariff documents for Sikkim Power Development Corporation Limited
+2024-11-27 04:56:35,154 - INFO - Trying search query: site:spdcl.sikkim.gov.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:35,343 - INFO - Trying search query: site:spdcl.sikkim.gov.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 04:56:35,507 - INFO - Searching tariff documents for Meghalaya Energy Distribution Corporation Limited
+2024-11-27 04:56:35,508 - INFO - Trying search query: site:meecl.nic.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:35,702 - INFO - Trying search query: site:meecl.nic.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 04:56:35,909 - INFO - Searching tariff documents for Power & Electricity Department, Government of Mizoram
+2024-11-27 04:56:35,910 - INFO - Trying search query: site:power.mizoram.gov.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:36,114 - INFO - Attempt 1: Downloading PDF with headers from https://power.mizoram.gov.in/uploads/attachments/2024/09/e1184ff93be7abc4b0dd54bd7fa0734d/electricity-rights-of-consumers-amendment-rules-2024.pdf
+2024-11-27 04:56:39,230 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpf60ru9hp.pdf
+2024-11-27 04:56:39,233 - INFO - PDF saved to output/Power_&_Electricity_Department,_Government_of_Mizoram/electricity-rights-of-consumers-amendment-rules-2024.pdf
+2024-11-27 04:56:39,243 - INFO - Processing page 1
+2024-11-27 04:56:39,245 - WARNING - No text found on page 1, attempting OCR...
+2024-11-27 04:56:40,227 - INFO - No tables found on page 1
+2024-11-27 04:56:40,227 - INFO - Processing page 2
+2024-11-27 04:56:40,228 - WARNING - No text found on page 2, attempting OCR...
+2024-11-27 04:56:41,203 - INFO - No tables found on page 2
+2024-11-27 04:56:41,203 - INFO - Processing page 3
+2024-11-27 04:56:41,204 - WARNING - No text found on page 3, attempting OCR...
+2024-11-27 04:56:41,856 - INFO - No tables found on page 3
+2024-11-27 04:56:41,856 - INFO - Processing page 4
+2024-11-27 04:56:41,857 - WARNING - No text found on page 4, attempting OCR...
+2024-11-27 04:56:42,986 - INFO - No tables found on page 4
+2024-11-27 04:56:42,987 - INFO - Processing page 5
+2024-11-27 04:56:42,987 - WARNING - No text found on page 5, attempting OCR...
+2024-11-27 04:56:43,846 - INFO - No tables found on page 5
+2024-11-27 04:56:43,846 - INFO - Processing page 6
+2024-11-27 04:56:43,847 - WARNING - No text found on page 6, attempting OCR...
+2024-11-27 04:56:44,685 - INFO - No tables found on page 6
+2024-11-27 04:56:44,685 - INFO - Processing page 7
+2024-11-27 04:56:44,686 - WARNING - No text found on page 7, attempting OCR...
+2024-11-27 04:56:45,503 - INFO - No tables found on page 7
+2024-11-27 04:56:45,503 - INFO - Processing page 8
+2024-11-27 04:56:45,504 - WARNING - No text found on page 8, attempting OCR...
+2024-11-27 04:56:46,228 - INFO - No tables found on page 8
+2024-11-27 04:56:46,228 - INFO - Processing page 9
+2024-11-27 04:56:46,228 - WARNING - No text found on page 9, attempting OCR...
+2024-11-27 04:56:46,716 - INFO - No tables found on page 9
+2024-11-27 04:56:46,716 - INFO - Processing page 10
+2024-11-27 04:56:46,716 - WARNING - No text found on page 10, attempting OCR...
+2024-11-27 04:56:47,050 - INFO - No tables found on page 10
+2024-11-27 04:56:47,051 - ERROR - Error processing Power & Electricity Department, Government of Mizoram: 'type'
+2024-11-27 04:56:47,051 - INFO - Searching tariff documents for North Bihar Power Distribution Company Limited
+2024-11-27 04:56:47,051 - INFO - Trying search query: site:nbpdcl.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:47,238 - INFO - Trying search query: site:nbpdcl.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 04:56:47,399 - INFO - Searching tariff documents for South Bihar Power Distribution Company Limited
+2024-11-27 04:56:47,400 - INFO - Trying search query: site:sbpdcl.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:47,560 - INFO - Trying search query: site:sbpdcl.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 04:56:47,732 - INFO - Searching tariff documents for Assam Power Distribution Company Limited
+2024-11-27 04:56:47,733 - INFO - Trying search query: site:apdcl.org 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:47,955 - INFO - Attempt 1: Downloading PDF with headers from https://www.apdcl.org/website/docs/acts_and_rules/Tariff_notification_Feb23.pdf
+2024-11-27 04:56:48,314 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmp8awt1bef.pdf
+2024-11-27 04:56:48,315 - INFO - PDF saved to output/Assam_Power_Distribution_Company_Limited/Tariff_notification_Feb23.pdf
+2024-11-27 04:56:48,323 - INFO - Processing page 1
+2024-11-27 04:56:48,614 - INFO - Processing page 2
+2024-11-27 04:56:48,701 - ERROR - Error processing Assam Power Distribution Company Limited: 'type'
+2024-11-27 04:56:48,701 - INFO - Searching tariff documents for Tripura State Electricity Corporation Limited
+2024-11-27 04:56:48,702 - INFO - Trying search query: site:tsecl.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 04:56:48,915 - INFO - Attempt 1: Downloading PDF with headers from https://www.tsecl.in/PDF/Tariff_Schedule_for_FY_2024-25.pdf
+2024-11-27 04:57:49,031 - WARNING - Download failed with headers (attempt 1/3): HTTPSConnectionPool(host='www.tsecl.in', port=443): Max retries exceeded with url: /PDF/Tariff_Schedule_for_FY_2024-25.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10924b750>, 'Connection to www.tsecl.in timed out. (connect timeout=60)'))
+2024-11-27 04:57:49,032 - INFO - Attempt 1: Retrying download without headers for https://www.tsecl.in/PDF/Tariff_Schedule_for_FY_2024-25.pdf
+2024-11-27 04:58:49,041 - WARNING - Download failed without headers (attempt 1/3): HTTPSConnectionPool(host='www.tsecl.in', port=443): Max retries exceeded with url: /PDF/Tariff_Schedule_for_FY_2024-25.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1092b1e50>, 'Connection to www.tsecl.in timed out. (connect timeout=60)'))
+2024-11-27 04:58:49,042 - INFO - Retrying in 5 seconds...
+2024-11-27 04:58:54,047 - INFO - Attempt 2: Downloading PDF with headers from https://www.tsecl.in/PDF/Tariff_Schedule_for_FY_2024-25.pdf
+2024-11-27 04:59:54,057 - WARNING - Download failed with headers (attempt 2/3): HTTPSConnectionPool(host='www.tsecl.in', port=443): Max retries exceeded with url: /PDF/Tariff_Schedule_for_FY_2024-25.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1092b1a90>, 'Connection to www.tsecl.in timed out. (connect timeout=60)'))
+2024-11-27 04:59:54,058 - INFO - Attempt 2: Retrying download without headers for https://www.tsecl.in/PDF/Tariff_Schedule_for_FY_2024-25.pdf
+2024-11-27 05:00:54,065 - WARNING - Download failed without headers (attempt 2/3): HTTPSConnectionPool(host='www.tsecl.in', port=443): Max retries exceeded with url: /PDF/Tariff_Schedule_for_FY_2024-25.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1092b20d0>, 'Connection to www.tsecl.in timed out. (connect timeout=60)'))
+2024-11-27 05:00:54,067 - INFO - Retrying in 5 seconds...
+2024-11-27 05:00:59,073 - INFO - Attempt 3: Downloading PDF with headers from https://www.tsecl.in/PDF/Tariff_Schedule_for_FY_2024-25.pdf
+2024-11-27 05:01:59,090 - WARNING - Download failed with headers (attempt 3/3): HTTPSConnectionPool(host='www.tsecl.in', port=443): Max retries exceeded with url: /PDF/Tariff_Schedule_for_FY_2024-25.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1092b1450>, 'Connection to www.tsecl.in timed out. (connect timeout=60)'))
+2024-11-27 05:01:59,091 - ERROR - Failed to download PDF after 3 attempts: https://www.tsecl.in/PDF/Tariff_Schedule_for_FY_2024-25.pdf
+2024-11-27 05:01:59,091 - INFO - Searching tariff documents for Kerala State Electricity Board Limited
+2024-11-27 05:01:59,092 - INFO - Trying search query: site:kseb.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:01:59,519 - INFO - Attempt 1: Downloading PDF with headers from https://kseb.in/uploads/Downloadtemsuppy/Tariff%20Revision%20Circular%202023-24-1700134451843511849.pdf
+2024-11-27 05:02:01,756 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpwvb4i65q.pdf
+2024-11-27 05:02:01,758 - INFO - PDF saved to output/Kerala_State_Electricity_Board_Limited/Tariff%20Revision%20Circular%202023-24-1700134451843511849.pdf
+2024-11-27 05:02:01,794 - INFO - Processing page 1
+2024-11-27 05:02:01,872 - INFO - Processing page 2
+2024-11-27 05:02:01,873 - WARNING - No text found on page 2, attempting OCR...
+2024-11-27 05:02:02,623 - INFO - No tables found on page 2
+2024-11-27 05:02:02,623 - INFO - Processing page 3
+2024-11-27 05:02:02,633 - INFO - No tables found on page 3
+2024-11-27 05:02:02,633 - INFO - Processing page 4
+2024-11-27 05:02:02,688 - INFO - No tables found on page 4
+2024-11-27 05:02:02,688 - INFO - Processing page 5
+2024-11-27 05:02:02,773 - INFO - Processing page 6
+2024-11-27 05:02:02,842 - INFO - Processing page 7
+2024-11-27 05:02:03,049 - INFO - Processing page 8
+2024-11-27 05:02:03,116 - INFO - Processing page 9
+2024-11-27 05:02:03,185 - INFO - Processing page 10
+2024-11-27 05:02:03,254 - INFO - Processing page 11
+2024-11-27 05:02:03,299 - INFO - Processing page 12
+2024-11-27 05:02:03,362 - INFO - Processing page 13
+2024-11-27 05:02:03,430 - INFO - Processing page 14
+2024-11-27 05:02:03,504 - INFO - Processing page 15
+2024-11-27 05:02:03,601 - INFO - Processing page 16
+2024-11-27 05:02:03,659 - INFO - Processing page 17
+2024-11-27 05:02:03,713 - INFO - Processing page 18
+2024-11-27 05:02:03,860 - INFO - Processing page 19
+2024-11-27 05:02:03,944 - INFO - Processing page 20
+2024-11-27 05:02:04,017 - ERROR - Error processing Kerala State Electricity Board Limited: 'type'
+2024-11-27 05:02:04,017 - INFO - Searching tariff documents for Chamundeshwari Electricity Supply Corporation Limited
+2024-11-27 05:02:04,017 - INFO - Trying search query: site:cescmysore.org 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:02:04,187 - INFO - Attempt 1: Downloading PDF with headers from https://srtpv.cescmysore.org/CESCSRTPV/document/KERCSRTPVtariff2024.pdf
+2024-11-27 05:02:05,519 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmp39qy3bnq.pdf
+2024-11-27 05:02:05,521 - INFO - PDF saved to output/Chamundeshwari_Electricity_Supply_Corporation_Limited/KERCSRTPVtariff2024.pdf
+2024-11-27 05:02:05,562 - INFO - Processing page 1
+2024-11-27 05:02:05,612 - INFO - No tables found on page 1
+2024-11-27 05:02:05,612 - INFO - Processing page 2
+2024-11-27 05:02:05,656 - INFO - No tables found on page 2
+2024-11-27 05:02:05,656 - INFO - Processing page 3
+2024-11-27 05:02:05,690 - INFO - No tables found on page 3
+2024-11-27 05:02:05,690 - INFO - Processing page 4
+2024-11-27 05:02:05,722 - INFO - No tables found on page 4
+2024-11-27 05:02:05,722 - INFO - Processing page 5
+2024-11-27 05:02:05,756 - INFO - No tables found on page 5
+2024-11-27 05:02:05,756 - INFO - Processing page 6
+2024-11-27 05:02:05,795 - INFO - Processing page 7
+2024-11-27 05:02:05,835 - INFO - No tables found on page 7
+2024-11-27 05:02:05,835 - INFO - Processing page 8
+2024-11-27 05:02:05,880 - INFO - Processing page 9
+2024-11-27 05:02:05,917 - INFO - No tables found on page 9
+2024-11-27 05:02:05,917 - INFO - Processing page 10
+2024-11-27 05:02:05,951 - INFO - No tables found on page 10
+2024-11-27 05:02:05,951 - INFO - Processing page 11
+2024-11-27 05:02:06,018 - INFO - Processing page 12
+2024-11-27 05:02:06,046 - INFO - No tables found on page 12
+2024-11-27 05:02:06,046 - INFO - Processing page 13
+2024-11-27 05:02:06,180 - INFO - No tables found on page 13
+2024-11-27 05:02:06,180 - INFO - Processing page 14
+2024-11-27 05:02:06,210 - INFO - No tables found on page 14
+2024-11-27 05:02:06,210 - INFO - Processing page 15
+2024-11-27 05:02:06,239 - INFO - No tables found on page 15
+2024-11-27 05:02:06,239 - INFO - Processing page 16
+2024-11-27 05:02:06,271 - INFO - No tables found on page 16
+2024-11-27 05:02:06,271 - INFO - Processing page 17
+2024-11-27 05:02:06,303 - INFO - No tables found on page 17
+2024-11-27 05:02:06,303 - INFO - Processing page 18
+2024-11-27 05:02:06,334 - INFO - No tables found on page 18
+2024-11-27 05:02:06,334 - INFO - Processing page 19
+2024-11-27 05:02:06,362 - INFO - No tables found on page 19
+2024-11-27 05:02:06,363 - INFO - Processing page 20
+2024-11-27 05:02:06,390 - INFO - No tables found on page 20
+2024-11-27 05:02:06,390 - ERROR - Error processing Chamundeshwari Electricity Supply Corporation Limited: 'type'
+2024-11-27 05:02:06,390 - INFO - Searching tariff documents for Gulbarga Electricity Supply Company Limited
+2024-11-27 05:02:06,390 - INFO - Trying search query: site:gescom.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:02:06,543 - INFO - Trying search query: site:gescom.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:02:06,698 - INFO - Searching tariff documents for Bangalore Electricity Supply Company Limited
+2024-11-27 05:02:06,699 - INFO - Trying search query: site:bescom.org 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:02:06,868 - INFO - Attempt 1: Downloading PDF with headers from https://srtpv.bescom.org/SRTPV/document/2_BESCOM_SRTPV_tariff_OM.pdf
+2024-11-27 05:02:08,812 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpqks78n8g.pdf
+2024-11-27 05:02:08,814 - INFO - PDF saved to output/Bangalore_Electricity_Supply_Company_Limited/2_BESCOM_SRTPV_tariff_OM.pdf
+2024-11-27 05:02:08,822 - INFO - Processing page 1
+2024-11-27 05:02:08,825 - WARNING - No text found on page 1, attempting OCR...
+2024-11-27 05:02:09,653 - INFO - No tables found on page 1
+2024-11-27 05:02:09,653 - INFO - Processing page 2
+2024-11-27 05:02:09,653 - WARNING - No text found on page 2, attempting OCR...
+2024-11-27 05:02:10,378 - INFO - No tables found on page 2
+2024-11-27 05:02:10,379 - INFO - Processing page 3
+2024-11-27 05:02:10,379 - WARNING - No text found on page 3, attempting OCR...
+2024-11-27 05:02:10,955 - INFO - No tables found on page 3
+2024-11-27 05:02:10,955 - INFO - Processing page 4
+2024-11-27 05:02:10,956 - WARNING - No text found on page 4, attempting OCR...
+2024-11-27 05:02:11,532 - INFO - No tables found on page 4
+2024-11-27 05:02:11,533 - INFO - Processing page 5
+2024-11-27 05:02:11,533 - WARNING - No text found on page 5, attempting OCR...
+2024-11-27 05:02:11,959 - INFO - No tables found on page 5
+2024-11-27 05:02:11,959 - INFO - Processing page 6
+2024-11-27 05:02:11,960 - WARNING - No text found on page 6, attempting OCR...
+2024-11-27 05:02:12,479 - INFO - No tables found on page 6
+2024-11-27 05:02:12,480 - ERROR - Error processing Bangalore Electricity Supply Company Limited: 'type'
+2024-11-27 05:02:12,480 - INFO - Searching tariff documents for Mangalore Electricity Supply Company Limited
+2024-11-27 05:02:12,480 - INFO - Trying search query: site:mescom.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:02:12,643 - INFO - Trying search query: site:mescom.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:02:12,823 - INFO - Searching tariff documents for Hubli Electricity Supply Company Limited
+2024-11-27 05:02:12,824 - INFO - Trying search query: site:hescom.co.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:02:13,006 - INFO - Attempt 1: Downloading PDF with headers from https://www.hescom.co.in/hescom/assets/pdfs/Schedule%20of%20charges%20for%20New%20Connection.pdf
+2024-11-27 05:02:13,589 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpoo6xjthx.pdf
+2024-11-27 05:02:13,589 - INFO - PDF saved to output/Hubli_Electricity_Supply_Company_Limited/Schedule%20of%20charges%20for%20New%20Connection.pdf
+2024-11-27 05:02:13,615 - INFO - Processing page 1
+2024-11-27 05:02:13,725 - INFO - Processing page 2
+2024-11-27 05:02:13,800 - INFO - Processing page 3
+2024-11-27 05:02:13,882 - INFO - Processing page 4
+2024-11-27 05:02:13,954 - INFO - Processing page 5
+2024-11-27 05:02:14,062 - INFO - Processing page 6
+2024-11-27 05:02:14,139 - INFO - Processing page 7
+2024-11-27 05:02:14,228 - ERROR - Error processing Hubli Electricity Supply Company Limited: 'type'
+2024-11-27 05:02:14,229 - INFO - Searching tariff documents for Telangana State Southern Power Distribution Company Ltd
+2024-11-27 05:02:14,229 - INFO - Trying search query: site:tssouthernpower.com 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:02:14,451 - INFO - Attempt 1: Downloading PDF with headers from http://www.tssouthernpower.com/resources/PDF/Tariffs/51tarifffile.pdf
+2024-11-27 05:02:16,522 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpfcq5whsu.pdf
+2024-11-27 05:02:16,524 - INFO - PDF saved to output/Telangana_State_Southern_Power_Distribution_Company_Ltd/51tarifffile.pdf
+2024-11-27 05:02:16,531 - INFO - Processing page 1
+2024-11-27 05:02:16,533 - WARNING - No text found on page 1, attempting OCR...
+2024-11-27 05:02:17,248 - INFO - No tables found on page 1
+2024-11-27 05:02:17,248 - INFO - Processing page 2
+2024-11-27 05:02:17,249 - WARNING - No text found on page 2, attempting OCR...
+2024-11-27 05:02:17,945 - INFO - No tables found on page 2
+2024-11-27 05:02:17,945 - INFO - Processing page 3
+2024-11-27 05:02:17,946 - WARNING - No text found on page 3, attempting OCR...
+2024-11-27 05:02:18,571 - INFO - No tables found on page 3
+2024-11-27 05:02:18,572 - INFO - Processing page 4
+2024-11-27 05:02:18,572 - WARNING - No text found on page 4, attempting OCR...
+2024-11-27 05:02:19,279 - INFO - No tables found on page 4
+2024-11-27 05:02:19,279 - INFO - Processing page 5
+2024-11-27 05:02:19,280 - WARNING - No text found on page 5, attempting OCR...
+2024-11-27 05:02:20,026 - INFO - No tables found on page 5
+2024-11-27 05:02:20,026 - INFO - Processing page 6
+2024-11-27 05:02:20,027 - WARNING - No text found on page 6, attempting OCR...
+2024-11-27 05:02:20,637 - INFO - No tables found on page 6
+2024-11-27 05:02:20,637 - INFO - Processing page 7
+2024-11-27 05:02:20,638 - WARNING - No text found on page 7, attempting OCR...
+2024-11-27 05:02:21,303 - INFO - No tables found on page 7
+2024-11-27 05:02:21,303 - INFO - Processing page 8
+2024-11-27 05:02:21,303 - WARNING - No text found on page 8, attempting OCR...
+2024-11-27 05:02:22,011 - INFO - No tables found on page 8
+2024-11-27 05:02:22,011 - INFO - Processing page 9
+2024-11-27 05:02:22,011 - WARNING - No text found on page 9, attempting OCR...
+2024-11-27 05:02:22,475 - INFO - No tables found on page 9
+2024-11-27 05:02:22,475 - INFO - Processing page 10
+2024-11-27 05:02:22,476 - WARNING - No text found on page 10, attempting OCR...
+2024-11-27 05:02:22,970 - INFO - No tables found on page 10
+2024-11-27 05:02:22,971 - ERROR - Error processing Telangana State Southern Power Distribution Company Ltd: 'type'
+2024-11-27 05:02:22,971 - INFO - Searching tariff documents for Telangana State Northern Power Distribution Company Ltd
+2024-11-27 05:02:22,971 - INFO - Trying search query: site:tsnpdcl.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:02:23,124 - INFO - Trying search query: site:tsnpdcl.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:02:23,268 - INFO - Searching tariff documents for Electricity Department, UT of Lakshadweep
+2024-11-27 05:02:23,269 - INFO - Trying search query: site:lakshadweep.gov.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:02:23,440 - INFO - Trying search query: site:lakshadweep.gov.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:02:23,605 - INFO - Searching tariff documents for Electricity Department, UT of Puducherry
+2024-11-27 05:02:23,606 - INFO - Trying search query: site:electricity.py.gov.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:02:23,822 - INFO - Attempt 1: Downloading PDF with headers from https://electricity.py.gov.in/sites/default/files/Tariff%20Petition%20for%20FY%2024-25.pdf
+2024-11-27 05:02:24,184 - WARNING - Download failed with headers (attempt 1/3): HTTPSConnectionPool(host='electricity.py.gov.in', port=443): Max retries exceeded with url: /sites/default/files/Tariff%20Petition%20for%20FY%2024-25.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+2024-11-27 05:02:24,185 - INFO - Attempt 1: Retrying download without headers for https://electricity.py.gov.in/sites/default/files/Tariff%20Petition%20for%20FY%2024-25.pdf
+2024-11-27 05:02:24,278 - WARNING - Download failed without headers (attempt 1/3): HTTPSConnectionPool(host='electricity.py.gov.in', port=443): Max retries exceeded with url: /sites/default/files/Tariff%20Petition%20for%20FY%2024-25.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+2024-11-27 05:02:24,279 - INFO - Retrying in 5 seconds...
+2024-11-27 05:02:29,282 - INFO - Attempt 2: Downloading PDF with headers from https://electricity.py.gov.in/sites/default/files/Tariff%20Petition%20for%20FY%2024-25.pdf
+2024-11-27 05:02:29,407 - WARNING - Download failed with headers (attempt 2/3): HTTPSConnectionPool(host='electricity.py.gov.in', port=443): Max retries exceeded with url: /sites/default/files/Tariff%20Petition%20for%20FY%2024-25.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+2024-11-27 05:02:29,407 - INFO - Attempt 2: Retrying download without headers for https://electricity.py.gov.in/sites/default/files/Tariff%20Petition%20for%20FY%2024-25.pdf
+2024-11-27 05:02:29,522 - WARNING - Download failed without headers (attempt 2/3): HTTPSConnectionPool(host='electricity.py.gov.in', port=443): Max retries exceeded with url: /sites/default/files/Tariff%20Petition%20for%20FY%2024-25.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+2024-11-27 05:02:29,523 - INFO - Retrying in 5 seconds...
+2024-11-27 05:02:34,527 - INFO - Attempt 3: Downloading PDF with headers from https://electricity.py.gov.in/sites/default/files/Tariff%20Petition%20for%20FY%2024-25.pdf
+2024-11-27 05:02:34,895 - WARNING - Download failed with headers (attempt 3/3): HTTPSConnectionPool(host='electricity.py.gov.in', port=443): Max retries exceeded with url: /sites/default/files/Tariff%20Petition%20for%20FY%2024-25.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+2024-11-27 05:02:34,895 - ERROR - Failed to download PDF after 3 attempts: https://electricity.py.gov.in/sites/default/files/Tariff%20Petition%20for%20FY%2024-25.pdf
+2024-11-27 05:02:34,895 - INFO - Searching tariff documents for Electricity Department, UT of Andaman & Nicobar
+2024-11-27 05:02:34,896 - INFO - Trying search query: site:electricity.andaman.gov.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:02:35,073 - INFO - Trying search query: site:electricity.andaman.gov.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:02:35,212 - INFO - Searching tariff documents for Southern Power Distribution Company of A.P. Limited
+2024-11-27 05:02:35,212 - INFO - Trying search query: site:apspdcl.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:02:35,543 - INFO - Attempt 1: Downloading PDF with headers from https://www.apspdcl.in/regulatory/Tariff%20Schedule%20for%20FY%202024-25.pdf
+2024-11-27 05:02:42,349 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpok3arqj8.pdf
+2024-11-27 05:02:42,351 - INFO - PDF saved to output/Southern_Power_Distribution_Company_of_A.P._Limited/Tariff%20Schedule%20for%20FY%202024-25.pdf
+2024-11-27 05:02:42,369 - INFO - Processing page 1
+2024-11-27 05:02:43,328 - WARNING - No text found on page 1, attempting OCR...
+2024-11-27 05:02:44,038 - INFO - No tables found on page 1
+2024-11-27 05:02:44,039 - INFO - Processing page 2
+2024-11-27 05:02:44,952 - WARNING - No text found on page 2, attempting OCR...
+2024-11-27 05:02:45,250 - INFO - Processing page 3
+2024-11-27 05:02:46,486 - WARNING - No text found on page 3, attempting OCR...
+2024-11-27 05:02:46,735 - INFO - Processing page 4
+2024-11-27 05:02:47,740 - WARNING - No text found on page 4, attempting OCR...
+2024-11-27 05:02:48,541 - INFO - No tables found on page 4
+2024-11-27 05:02:48,541 - INFO - Processing page 5
+2024-11-27 05:02:49,708 - WARNING - No text found on page 5, attempting OCR...
+2024-11-27 05:02:50,581 - INFO - No tables found on page 5
+2024-11-27 05:02:50,582 - INFO - Processing page 6
+2024-11-27 05:02:51,922 - WARNING - No text found on page 6, attempting OCR...
+2024-11-27 05:02:52,715 - INFO - No tables found on page 6
+2024-11-27 05:02:52,716 - INFO - Processing page 7
+2024-11-27 05:02:53,682 - WARNING - No text found on page 7, attempting OCR...
+2024-11-27 05:02:54,386 - INFO - Processing page 8
+2024-11-27 05:02:55,629 - WARNING - No text found on page 8, attempting OCR...
+2024-11-27 05:02:56,313 - INFO - No tables found on page 8
+2024-11-27 05:02:56,314 - INFO - Processing page 9
+2024-11-27 05:02:57,218 - WARNING - No text found on page 9, attempting OCR...
+2024-11-27 05:02:57,832 - INFO - No tables found on page 9
+2024-11-27 05:02:57,832 - INFO - Processing page 10
+2024-11-27 05:02:58,748 - WARNING - No text found on page 10, attempting OCR...
+2024-11-27 05:02:59,289 - INFO - No tables found on page 10
+2024-11-27 05:02:59,289 - INFO - Processing page 11
+2024-11-27 05:03:00,370 - WARNING - No text found on page 11, attempting OCR...
+2024-11-27 05:03:01,003 - INFO - No tables found on page 11
+2024-11-27 05:03:01,003 - INFO - Processing page 12
+2024-11-27 05:03:02,161 - WARNING - No text found on page 12, attempting OCR...
+2024-11-27 05:03:02,938 - INFO - No tables found on page 12
+2024-11-27 05:03:02,938 - INFO - Processing page 13
+2024-11-27 05:03:03,820 - WARNING - No text found on page 13, attempting OCR...
+2024-11-27 05:03:04,443 - INFO - Processing page 14
+2024-11-27 05:03:05,658 - WARNING - No text found on page 14, attempting OCR...
+2024-11-27 05:03:06,415 - INFO - Processing page 15
+2024-11-27 05:03:07,242 - WARNING - No text found on page 15, attempting OCR...
+2024-11-27 05:03:07,897 - INFO - Processing page 16
+2024-11-27 05:03:08,971 - WARNING - No text found on page 16, attempting OCR...
+2024-11-27 05:03:09,687 - INFO - Processing page 17
+2024-11-27 05:03:10,384 - WARNING - No text found on page 17, attempting OCR...
+2024-11-27 05:03:10,897 - INFO - No tables found on page 17
+2024-11-27 05:03:10,897 - INFO - Processing page 18
+2024-11-27 05:03:12,091 - WARNING - No text found on page 18, attempting OCR...
+2024-11-27 05:03:12,785 - INFO - Processing page 19
+2024-11-27 05:03:13,732 - WARNING - No text found on page 19, attempting OCR...
+2024-11-27 05:03:14,329 - INFO - No tables found on page 19
+2024-11-27 05:03:14,329 - INFO - Processing page 20
+2024-11-27 05:03:15,938 - WARNING - No text found on page 20, attempting OCR...
+2024-11-27 05:03:16,959 - INFO - No tables found on page 20
+2024-11-27 05:03:16,960 - ERROR - Error processing Southern Power Distribution Company of A.P. Limited: 'type'
+2024-11-27 05:03:16,960 - INFO - Searching tariff documents for Andhra Pradesh Eastern Power Distribution Company Ltd
+2024-11-27 05:03:16,962 - INFO - Trying search query: site:apepdcl.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:03:17,118 - INFO - Trying search query: site:apepdcl.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:03:17,277 - INFO - Searching tariff documents for Tamil Nadu Generation & Distribution Corporation Limited
+2024-11-27 05:03:17,279 - INFO - Trying search query: site:tangedco.gov.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:03:17,475 - INFO - Trying search query: site:tangedco.gov.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:03:17,619 - INFO - Searching tariff documents for Uttar Gujarat Vij Company Limited
+2024-11-27 05:03:17,620 - INFO - Trying search query: site:ugvcl.com 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:03:17,784 - INFO - Trying search query: site:ugvcl.com 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:03:17,924 - INFO - Searching tariff documents for Madhya Gujarat Vij Company Limited
+2024-11-27 05:03:17,925 - INFO - Trying search query: site:mgvcl.com 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:03:18,096 - INFO - Attempt 1: Downloading PDF with headers from https://mgvcl.com/Upload/REDRESSAL%20FORUM/Q1_2024-25/Shri%20Manubhai%20Katariya%20Vadodara%20040524.pdf
+2024-11-27 05:03:18,411 - WARNING - Download failed with headers (attempt 1/3): HTTPSConnectionPool(host='mgvcl.com', port=443): Max retries exceeded with url: /Upload/REDRESSAL%20FORUM/Q1_2024-25/Shri%20Manubhai%20Katariya%20Vadodara%20040524.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+2024-11-27 05:03:18,411 - INFO - Attempt 1: Retrying download without headers for https://mgvcl.com/Upload/REDRESSAL%20FORUM/Q1_2024-25/Shri%20Manubhai%20Katariya%20Vadodara%20040524.pdf
+2024-11-27 05:03:18,629 - WARNING - Download failed without headers (attempt 1/3): HTTPSConnectionPool(host='mgvcl.com', port=443): Max retries exceeded with url: /Upload/REDRESSAL%20FORUM/Q1_2024-25/Shri%20Manubhai%20Katariya%20Vadodara%20040524.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+2024-11-27 05:03:18,630 - INFO - Retrying in 5 seconds...
+2024-11-27 05:03:23,634 - INFO - Attempt 2: Downloading PDF with headers from https://mgvcl.com/Upload/REDRESSAL%20FORUM/Q1_2024-25/Shri%20Manubhai%20Katariya%20Vadodara%20040524.pdf
+2024-11-27 05:03:23,867 - WARNING - Download failed with headers (attempt 2/3): HTTPSConnectionPool(host='mgvcl.com', port=443): Max retries exceeded with url: /Upload/REDRESSAL%20FORUM/Q1_2024-25/Shri%20Manubhai%20Katariya%20Vadodara%20040524.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+2024-11-27 05:03:23,867 - INFO - Attempt 2: Retrying download without headers for https://mgvcl.com/Upload/REDRESSAL%20FORUM/Q1_2024-25/Shri%20Manubhai%20Katariya%20Vadodara%20040524.pdf
+2024-11-27 05:03:24,080 - WARNING - Download failed without headers (attempt 2/3): HTTPSConnectionPool(host='mgvcl.com', port=443): Max retries exceeded with url: /Upload/REDRESSAL%20FORUM/Q1_2024-25/Shri%20Manubhai%20Katariya%20Vadodara%20040524.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+2024-11-27 05:03:24,081 - INFO - Retrying in 5 seconds...
+2024-11-27 05:03:29,083 - INFO - Attempt 3: Downloading PDF with headers from https://mgvcl.com/Upload/REDRESSAL%20FORUM/Q1_2024-25/Shri%20Manubhai%20Katariya%20Vadodara%20040524.pdf
+2024-11-27 05:03:29,307 - WARNING - Download failed with headers (attempt 3/3): HTTPSConnectionPool(host='mgvcl.com', port=443): Max retries exceeded with url: /Upload/REDRESSAL%20FORUM/Q1_2024-25/Shri%20Manubhai%20Katariya%20Vadodara%20040524.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')))
+2024-11-27 05:03:29,309 - ERROR - Failed to download PDF after 3 attempts: https://mgvcl.com/Upload/REDRESSAL%20FORUM/Q1_2024-25/Shri%20Manubhai%20Katariya%20Vadodara%20040524.pdf
+2024-11-27 05:03:29,309 - INFO - Searching tariff documents for Paschim Gujarat Vij Company Limited
+2024-11-27 05:03:29,310 - INFO - Trying search query: site:pgvcl.com 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:03:29,469 - INFO - Trying search query: site:pgvcl.com 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:03:29,613 - INFO - Searching tariff documents for Dakshin Gujarat Vij Company Limited
+2024-11-27 05:03:29,613 - INFO - Trying search query: site:dgvcl.com 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:03:29,787 - INFO - Trying search query: site:dgvcl.com 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:03:29,935 - INFO - Searching tariff documents for Electricity Department, Government of Goa
+2024-11-27 05:03:29,936 - INFO - Trying search query: site:electricity.goa.gov.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:03:30,117 - INFO - Trying search query: site:electricity.goa.gov.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:03:30,284 - INFO - Searching tariff documents for Madhya Pradesh Madhya Kshetra Vidyut Vitran Company Limited
+2024-11-27 05:03:30,285 - INFO - Trying search query: site:mpcz.co.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:03:30,440 - INFO - Trying search query: site:mpcz.co.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:03:30,603 - INFO - Searching tariff documents for MP Paschim Kshetra Vidyut Vitran Company Limited
+2024-11-27 05:03:30,603 - INFO - Trying search query: site:mpwz.co.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:03:30,789 - INFO - Attempt 1: Downloading PDF with headers from https://www.mpwz.co.in/assets/img/pdf/Public_Notice_for_Tariif_Order_for_FY_2021-22_-English.pdf
+2024-11-27 05:04:32,703 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpg2bx_lhq.pdf
+2024-11-27 05:04:32,706 - INFO - PDF saved to output/MP_Paschim_Kshetra_Vidyut_Vitran_Company_Limited/Public_Notice_for_Tariif_Order_for_FY_2021-22_-English.pdf
+2024-11-27 05:04:32,725 - INFO - Processing page 1
+2024-11-27 05:04:32,828 - INFO - Processing page 2
+2024-11-27 05:04:33,735 - INFO - Processing page 3
+2024-11-27 05:04:33,795 - INFO - Processing page 4
+2024-11-27 05:04:33,866 - INFO - Processing page 5
+2024-11-27 05:04:33,926 - INFO - Processing page 6
+2024-11-27 05:04:33,991 - INFO - Processing page 7
+2024-11-27 05:04:34,044 - INFO - Processing page 8
+2024-11-27 05:04:34,081 - ERROR - Error processing MP Paschim Kshetra Vidyut Vitran Company Limited: 'type'
+2024-11-27 05:04:34,081 - INFO - Searching tariff documents for MP Poorv Kshetra Vidyut Vitran Company Limited
+2024-11-27 05:04:34,082 - INFO - Trying search query: site:mpez.co.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:34,299 - INFO - Attempt 1: Downloading PDF with headers from https://mpez.co.in/media/mpercord/TariffOrder_2024-25.pdf
+2024-11-27 05:04:36,110 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmptam5y72l.pdf
+2024-11-27 05:04:36,112 - INFO - PDF saved to output/MP_Poorv_Kshetra_Vidyut_Vitran_Company_Limited/TariffOrder_2024-25.pdf
+2024-11-27 05:04:36,226 - INFO - Processing page 1
+2024-11-27 05:04:36,253 - INFO - No tables found on page 1
+2024-11-27 05:04:36,253 - INFO - Processing page 2
+2024-11-27 05:04:36,329 - INFO - No tables found on page 2
+2024-11-27 05:04:36,329 - INFO - Processing page 3
+2024-11-27 05:04:36,341 - INFO - No tables found on page 3
+2024-11-27 05:04:36,341 - INFO - Processing page 4
+2024-11-27 05:04:36,444 - INFO - No tables found on page 4
+2024-11-27 05:04:36,444 - INFO - Processing page 5
+2024-11-27 05:04:36,618 - INFO - No tables found on page 5
+2024-11-27 05:04:36,618 - INFO - Processing page 6
+2024-11-27 05:04:36,661 - INFO - No tables found on page 6
+2024-11-27 05:04:36,661 - INFO - Processing page 7
+2024-11-27 05:04:36,732 - INFO - Processing page 8
+2024-11-27 05:04:36,800 - INFO - Processing page 9
+2024-11-27 05:04:36,833 - INFO - Processing page 10
+2024-11-27 05:04:36,887 - INFO - No tables found on page 10
+2024-11-27 05:04:36,887 - INFO - Processing page 11
+2024-11-27 05:04:36,942 - INFO - Processing page 12
+2024-11-27 05:04:37,009 - INFO - Processing page 13
+2024-11-27 05:04:37,140 - INFO - Processing page 14
+2024-11-27 05:04:37,204 - INFO - Processing page 15
+2024-11-27 05:04:37,347 - INFO - Processing page 16
+2024-11-27 05:04:37,479 - INFO - Processing page 17
+2024-11-27 05:04:37,539 - INFO - No tables found on page 17
+2024-11-27 05:04:37,539 - INFO - Processing page 18
+2024-11-27 05:04:37,575 - INFO - No tables found on page 18
+2024-11-27 05:04:37,575 - INFO - Processing page 19
+2024-11-27 05:04:37,624 - INFO - No tables found on page 19
+2024-11-27 05:04:37,625 - INFO - Processing page 20
+2024-11-27 05:04:37,723 - ERROR - Error processing MP Poorv Kshetra Vidyut Vitran Company Limited: 'type'
+2024-11-27 05:04:37,723 - INFO - Searching tariff documents for Jaipur Vidyut Vitran Nigam Limited
+2024-11-27 05:04:37,723 - INFO - Trying search query: site:energy.rajasthan.gov.in/jvvnl 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:37,872 - INFO - Trying search query: site:energy.rajasthan.gov.in/jvvnl 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:04:38,022 - INFO - Searching tariff documents for Ajmer Vidyut Vitran Nigam Limited
+2024-11-27 05:04:38,023 - INFO - Trying search query: site:energy.rajasthan.gov.in/avvnl 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:38,188 - INFO - Trying search query: site:energy.rajasthan.gov.in/avvnl 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:04:38,373 - INFO - Searching tariff documents for Jodhpur Vidyut vitran Nigam Limited
+2024-11-27 05:04:38,374 - INFO - Trying search query: site:energy.rajasthan.gov.in/jdvvnl 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:38,533 - INFO - Trying search query: site:energy.rajasthan.gov.in/jdvvnl 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:04:38,686 - INFO - Searching tariff documents for Maharashtra State Electricity Distribution Co. Ltd.
+2024-11-27 05:04:38,688 - INFO - Trying search query: site:mahadiscom.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:38,996 - INFO - Attempt 1: Downloading PDF with headers from https://www.mahadiscom.in/consumer/wp-content/uploads/2020/04/Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 05:04:40,259 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpb12b_jfj.pdf
+2024-11-27 05:04:40,261 - INFO - PDF saved to output/Maharashtra_State_Electricity_Distribution_Co._Ltd./Commercial_Circular_for_MYT_Order-3.pdf
+2024-11-27 05:04:40,298 - INFO - Processing page 1
+2024-11-27 05:04:40,479 - INFO - No tables found on page 1
+2024-11-27 05:04:40,479 - INFO - Processing page 2
+2024-11-27 05:04:40,531 - INFO - No tables found on page 2
+2024-11-27 05:04:40,531 - INFO - Processing page 3
+2024-11-27 05:04:40,581 - INFO - No tables found on page 3
+2024-11-27 05:04:40,581 - INFO - Processing page 4
+2024-11-27 05:04:40,645 - INFO - Processing page 5
+2024-11-27 05:04:40,700 - INFO - No tables found on page 5
+2024-11-27 05:04:40,700 - INFO - Processing page 6
+2024-11-27 05:04:40,752 - INFO - No tables found on page 6
+2024-11-27 05:04:40,752 - INFO - Processing page 7
+2024-11-27 05:04:40,825 - INFO - Processing page 8
+2024-11-27 05:04:40,909 - INFO - Processing page 9
+2024-11-27 05:04:41,024 - INFO - Processing page 10
+2024-11-27 05:04:41,061 - INFO - No tables found on page 10
+2024-11-27 05:04:41,061 - INFO - Processing page 11
+2024-11-27 05:04:41,183 - INFO - No tables found on page 11
+2024-11-27 05:04:41,183 - INFO - Processing page 12
+2024-11-27 05:04:41,234 - INFO - Processing page 13
+2024-11-27 05:04:41,289 - INFO - Processing page 14
+2024-11-27 05:04:41,349 - INFO - Processing page 15
+2024-11-27 05:04:41,443 - INFO - Processing page 16
+2024-11-27 05:04:41,491 - INFO - No tables found on page 16
+2024-11-27 05:04:41,491 - INFO - Processing page 17
+2024-11-27 05:04:41,549 - INFO - Processing page 18
+2024-11-27 05:04:41,663 - INFO - Processing page 19
+2024-11-27 05:04:41,794 - INFO - Processing page 20
+2024-11-27 05:04:41,900 - ERROR - Error processing Maharashtra State Electricity Distribution Co. Ltd.: 'type'
+2024-11-27 05:04:41,900 - INFO - Searching tariff documents for Brihmanmumbai Electric Supply Company
+2024-11-27 05:04:41,900 - INFO - Trying search query: site:bestundertaking.com 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:42,096 - INFO - Attempt 1: Downloading PDF with headers from https://www.bestundertaking.com/pdf/Retail%20Electricity%20Tariff%20Schedule%20(English).pdf
+2024-11-27 05:04:43,366 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpayhphs7l.pdf
+2024-11-27 05:04:43,368 - INFO - PDF saved to output/Brihmanmumbai_Electric_Supply_Company/Retail%20Electricity%20Tariff%20Schedule%20(English).pdf
+2024-11-27 05:04:43,382 - INFO - Processing page 1
+2024-11-27 05:04:43,445 - INFO - No tables found on page 1
+2024-11-27 05:04:43,445 - INFO - Processing page 2
+2024-11-27 05:04:43,507 - INFO - Processing page 3
+2024-11-27 05:04:43,568 - INFO - Processing page 4
+2024-11-27 05:04:43,629 - INFO - Processing page 5
+2024-11-27 05:04:43,688 - INFO - Processing page 6
+2024-11-27 05:04:43,748 - INFO - Processing page 7
+2024-11-27 05:04:43,777 - INFO - No tables found on page 7
+2024-11-27 05:04:43,777 - ERROR - Error processing Brihmanmumbai Electric Supply Company: 'type'
+2024-11-27 05:04:43,777 - INFO - Searching tariff documents for Chhattisgarh State Power Distribution Company Ltd.
+2024-11-27 05:04:43,777 - INFO - Trying search query: site:cspdcl.co.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:44,009 - INFO - Attempt 1: Downloading PDF with headers from https://www.cspdcl.co.in/cseb/Files/Tariff%20Schedule%202024-25.pdf
+2024-11-27 05:04:44,738 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpzfazytvf.pdf
+2024-11-27 05:04:44,739 - INFO - PDF saved to output/Chhattisgarh_State_Power_Distribution_Company_Ltd./Tariff%20Schedule%202024-25.pdf
+2024-11-27 05:04:44,770 - INFO - Processing page 1
+2024-11-27 05:04:44,822 - INFO - No tables found on page 1
+2024-11-27 05:04:44,822 - INFO - Processing page 2
+2024-11-27 05:04:44,895 - INFO - Processing page 3
+2024-11-27 05:04:44,941 - INFO - Processing page 4
+2024-11-27 05:04:45,112 - INFO - No tables found on page 4
+2024-11-27 05:04:45,112 - INFO - Processing page 5
+2024-11-27 05:04:45,148 - INFO - Processing page 6
+2024-11-27 05:04:45,189 - INFO - Processing page 7
+2024-11-27 05:04:45,226 - INFO - Processing page 8
+2024-11-27 05:04:45,261 - INFO - Processing page 9
+2024-11-27 05:04:45,297 - INFO - No tables found on page 9
+2024-11-27 05:04:45,297 - INFO - Processing page 10
+2024-11-27 05:04:45,332 - INFO - No tables found on page 10
+2024-11-27 05:04:45,332 - INFO - Processing page 11
+2024-11-27 05:04:45,368 - INFO - No tables found on page 11
+2024-11-27 05:04:45,368 - INFO - Processing page 12
+2024-11-27 05:04:45,404 - INFO - No tables found on page 12
+2024-11-27 05:04:45,404 - INFO - Processing page 13
+2024-11-27 05:04:45,435 - INFO - No tables found on page 13
+2024-11-27 05:04:45,435 - INFO - Processing page 14
+2024-11-27 05:04:45,465 - INFO - No tables found on page 14
+2024-11-27 05:04:45,465 - INFO - Processing page 15
+2024-11-27 05:04:45,491 - INFO - No tables found on page 15
+2024-11-27 05:04:45,491 - INFO - Processing page 16
+2024-11-27 05:04:45,526 - INFO - No tables found on page 16
+2024-11-27 05:04:45,527 - INFO - Processing page 17
+2024-11-27 05:04:45,558 - INFO - Processing page 18
+2024-11-27 05:04:45,592 - INFO - Processing page 19
+2024-11-27 05:04:45,678 - INFO - Processing page 20
+2024-11-27 05:04:45,725 - ERROR - Error processing Chhattisgarh State Power Distribution Company Ltd.: 'type'
+2024-11-27 05:04:45,726 - INFO - Searching tariff documents for Dadra & Nagar Haveli Power Distribution Corporation Ltd
+2024-11-27 05:04:45,726 - INFO - Trying search query: site:electricity.dnh.gov.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:45,905 - INFO - Trying search query: site:electricity.dnh.gov.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:04:46,055 - INFO - Searching tariff documents for Electricity Department, UT of Daman & Diu
+2024-11-27 05:04:46,056 - INFO - Trying search query: site:electricity.daman.gov.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:46,211 - INFO - Trying search query: site:electricity.daman.gov.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:04:46,360 - INFO - Searching tariff documents for West Bengal State Electricity Distribution Company Limited
+2024-11-27 05:04:46,361 - INFO - Trying search query: site:wbsedcl.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:46,632 - INFO - Attempt 1: Downloading PDF with headers from https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/pdf/Tariff_Volumn/Tariff_chart_dated_06.03.2024_for_the_year_2024-25_12_03_1_27_03.pdf
+2024-11-27 05:04:53,133 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmp0pdbi8_7.pdf
+2024-11-27 05:04:53,136 - INFO - PDF saved to output/West_Bengal_State_Electricity_Distribution_Company_Limited/Tariff_chart_dated_06.03.2024_for_the_year_2024-25_12_03_1_27_03.pdf
+2024-11-27 05:04:53,170 - INFO - Processing page 1
+2024-11-27 05:04:54,450 - WARNING - No text found on page 1, attempting OCR...
+2024-11-27 05:04:54,842 - INFO - No tables found on page 1
+2024-11-27 05:04:54,842 - INFO - Processing page 2
+2024-11-27 05:04:54,913 - INFO - Processing page 3
+2024-11-27 05:04:55,087 - INFO - Processing page 4
+2024-11-27 05:04:55,153 - INFO - Processing page 5
+2024-11-27 05:04:55,228 - INFO - Processing page 6
+2024-11-27 05:04:55,325 - INFO - Processing page 7
+2024-11-27 05:04:55,386 - INFO - Processing page 8
+2024-11-27 05:04:55,460 - INFO - Processing page 9
+2024-11-27 05:04:55,523 - INFO - Processing page 10
+2024-11-27 05:04:55,578 - INFO - Processing page 11
+2024-11-27 05:04:55,635 - INFO - Processing page 12
+2024-11-27 05:04:55,663 - INFO - No tables found on page 12
+2024-11-27 05:04:55,663 - INFO - Processing page 13
+2024-11-27 05:04:55,729 - INFO - Processing page 14
+2024-11-27 05:04:55,799 - INFO - Processing page 15
+2024-11-27 05:04:55,837 - INFO - No tables found on page 15
+2024-11-27 05:04:55,837 - INFO - Processing page 16
+2024-11-27 05:04:55,851 - INFO - No tables found on page 16
+2024-11-27 05:04:55,851 - INFO - Processing page 17
+2024-11-27 05:04:56,048 - INFO - No tables found on page 17
+2024-11-27 05:04:56,048 - INFO - Processing page 18
+2024-11-27 05:04:56,192 - INFO - Processing page 19
+2024-11-27 05:04:56,240 - INFO - Processing page 20
+2024-11-27 05:04:56,306 - ERROR - Error processing West Bengal State Electricity Distribution Company Limited: 'type'
+2024-11-27 05:04:56,306 - INFO - Searching tariff documents for Durgapur Project Limited
+2024-11-27 05:04:56,306 - INFO - Trying search query: site:dpl.net.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:56,464 - INFO - Trying search query: site:dpl.net.in 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:04:56,606 - INFO - Searching tariff documents for Jharkhand Bijli Vitran Nigam Limited
+2024-11-27 05:04:56,607 - INFO - Trying search query: site:jbvnl.co.in 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:56,828 - INFO - Attempt 1: Downloading PDF with headers from https://jbvnl.co.in/notice/commercial/UH28NX.Tariff_Proposal_FY_24-25.pdf
+2024-11-27 05:04:57,535 - INFO - Successfully downloaded PDF: /var/folders/zb/qjjy78n13zgd_406tvc6jhb00000gn/T/tmpmp2wfoqr.pdf
+2024-11-27 05:04:57,537 - INFO - PDF saved to output/Jharkhand_Bijli_Vitran_Nigam_Limited/UH28NX.Tariff_Proposal_FY_24-25.pdf
+2024-11-27 05:04:57,571 - INFO - Processing page 1
+2024-11-27 05:04:57,641 - INFO - Processing page 2
+2024-11-27 05:04:57,695 - INFO - Processing page 3
+2024-11-27 05:04:57,750 - INFO - Processing page 4
+2024-11-27 05:04:57,792 - INFO - No tables found on page 4
+2024-11-27 05:04:57,792 - INFO - Processing page 5
+2024-11-27 05:04:58,018 - INFO - Processing page 6
+2024-11-27 05:04:58,068 - INFO - No tables found on page 6
+2024-11-27 05:04:58,068 - INFO - Processing page 7
+2024-11-27 05:04:58,116 - INFO - No tables found on page 7
+2024-11-27 05:04:58,116 - INFO - Processing page 8
+2024-11-27 05:04:58,169 - INFO - Processing page 9
+2024-11-27 05:04:58,219 - INFO - No tables found on page 9
+2024-11-27 05:04:58,219 - INFO - Processing page 10
+2024-11-27 05:04:58,275 - INFO - Processing page 11
+2024-11-27 05:04:58,313 - INFO - Processing page 12
+2024-11-27 05:04:58,359 - INFO - No tables found on page 12
+2024-11-27 05:04:58,359 - INFO - Processing page 13
+2024-11-27 05:04:58,396 - INFO - Processing page 14
+2024-11-27 05:04:58,440 - INFO - Processing page 15
+2024-11-27 05:04:58,478 - INFO - Processing page 16
+2024-11-27 05:04:58,511 - INFO - No tables found on page 16
+2024-11-27 05:04:58,511 - INFO - Processing page 17
+2024-11-27 05:04:58,552 - INFO - Processing page 18
+2024-11-27 05:04:58,637 - INFO - No tables found on page 18
+2024-11-27 05:04:58,637 - INFO - Processing page 19
+2024-11-27 05:04:58,689 - INFO - Processing page 20
+2024-11-27 05:04:58,733 - INFO - No tables found on page 20
+2024-11-27 05:04:58,734 - ERROR - Error processing Jharkhand Bijli Vitran Nigam Limited: 'type'
+2024-11-27 05:04:58,734 - INFO - Searching tariff documents for North Eastern Supply Company Limited
+2024-11-27 05:04:58,734 - INFO - Trying search query: site:nescoodisha.com 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:58,902 - INFO - Trying search query: site:nescoodisha.com 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:04:59,062 - INFO - Searching tariff documents for Southern Electricity Supply Company Limited
+2024-11-27 05:04:59,064 - INFO - Trying search query: site:southcoodisha.com 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:59,226 - INFO - Trying search query: site:southcoodisha.com 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:04:59,395 - INFO - Searching tariff documents for Central Electricity Supply Company Limited
+2024-11-27 05:04:59,396 - INFO - Trying search query: site:cesuodisha.com 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:59,569 - INFO - Trying search query: site:cesuodisha.com 2024 domestic consumer tariff pdf filetype:pdf
+2024-11-27 05:04:59,716 - INFO - Searching tariff documents for Western Electricity Supply Company of Odisha Limited
+2024-11-27 05:04:59,718 - INFO - Trying search query: site:wescoodisha.com 2024 residential electricity tariff rates schedule filetype:pdf
+2024-11-27 05:04:59,883 - INFO - Trying search query: site:wescoodisha.com 2024 domestic consumer tariff pdf filetype:pdf

@@ -1,0 +1,14 @@
+The electricity rates for residential customers, along with any available EV and Time of Day tariffs, are as follows:
+
+1. **Residential Electricity Rates**:
+   - **LT-II Domestic - A (above 0.5kW to 5kW)**:
+     - 0 to 120 units per month: The effective rate is ₹5.05 per kWh.
+     - 121 to 240 units per month: The rate is ₹7.10 per kWh.
+     - Balance units: The rate is ₹8.10 per kWh【4:1†Tariff_notification_Feb23.pdf】.
+   - **LT-III Domestic - B (above 5 kW to 25 kW)**: The effective rate is ₹7.65 per kWh【4:1†Tariff_notification_Feb23.pdf】.
+
+2. **Electric Vehicle (EV) Tariffs**:
+   - **LT-X LT Electric Vehicle Charging station**: The effective rate for EV charging is ₹6.00 per kWh【4:0†Tariff_notification_Feb23.pdf】.
+   - **HT-XII HT Electric Vehicle Charging station**: The rate for EV charging at high tension is ₹7.50 per kWh【4:0†Tariff_notification_Feb23.pdf】.
+
+The document does not explicitly mention any Time of Day tariffs in the provided sections.

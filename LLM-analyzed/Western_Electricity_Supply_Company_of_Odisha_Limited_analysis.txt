@@ -1,0 +1,10 @@
+The electricity rates for residential customers are as follows:
+
+- For consumption less than or equal to 50 units per month, the charge is 290 paise per unit.
+- For consumption greater than 50 units and up to 200 units per month, the charge is 470 paise per unit.
+- For consumption greater than 200 units and up to 400 units per month, the charge is 570 paise per unit.
+- For consumption greater than 400 units per month, the charge is 610 paise per unit【4:4†source】.
+
+Regarding Electric Vehicle (EV) tariffs, charging of EVs through public charging systems/stations falls under the General Purpose (GP) category with a single-part tariff of Rs.5.00 per unit【4:3†source】.
+
+The Time of Day (ToD) tariff details include a 10 paise/unit rebate in energy charges during Solar Hours (8.00 AM to 4.00 PM) and a 20 paise/unit surcharge during Peak Hours (after 6.00 PM up to 12.00 Midnight). These ToD provisions are applicable to commercial, industrial, and other consumers with smart meters having a maximum demand greater than 10KW【4:11†source】.

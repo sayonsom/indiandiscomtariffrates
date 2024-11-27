@@ -1,0 +1,16 @@
+For residential customers, the electricity rates are as follows for FY 2024-25:
+
+- For consumption between 0-100 units: Fixed charge of Rs. 90 per month and an energy charge of Rs. 3.15 per kWh.
+- For consumption between 101-300 units: Fixed charge of Rs. 135 per month and an energy charge of Rs. 5.40 per kWh.
+- For consumption between 301-500 units: Energy charge of Rs. 7.10 per kWh.
+- For consumption above 500 units: Fixed charge of Rs. 160 per month and an energy charge of Rs. 8.15 per kWh【4:0†AEML-Tariff-FY-2024-25.pdf】.
+
+There are also specific tariffs for Electric Vehicle (EV) charging stations:
+- A fixed charge of Rs. 80 per kVA per month and an energy charge of Rs. 5.15 per kWh【4:0†AEML-Tariff-FY-2024-25.pdf】.
+
+Time of Day (TOD) tariffs are applicable, which are in addition to the base tariffs. They are compulsory for some categories like LT II (B) and (C), LT III (B), and LT IV (A) and (B), and optional for others like LT II (A) and LT III (A). The TOD slots and rates per kWh are:
+- 0600 hours to 0900 hours: 0.00
+- 0900 hours to 1200 hours: 0.50
+- 1200 hours to 1800 hours: 0.00
+- 1800 hours to 2200 hours: 1.00
+- 2200 hours to 0600 hours: -0.75【4:1†AEML-Tariff-FY-2024-25.pdf】.

@@ -1,0 +1,28 @@
+The electricity rates for residential customers are detailed under different categories:
+
+1. **Domestic Light, Fan & Power (LMV-1)**:
+   - For lifeline consumers with a contracted load of 1 kW and energy consumption up to 100 kWh per month, the fixed charge is Rs. 50/kW/month, and the energy charge is Rs. 6.50/kWh【4:5†source】.
+   - For other metered consumers, the energy charges vary based on consumption:
+     - Up to 100 kWh/month: Rs. 6.65/kWh
+     - 101-150 kWh/month: Rs. 6.85/kWh
+     - 151-300 kWh/month: Rs. 6.85/kWh
+     - Above 300 kWh/month: Rs. 6.85/kWh【4:9†source】.
+
+2. **EV Tariffs**:
+   - Consumers with existing connections can use them to charge EVs. If additional load is needed, they can apply for an increase in sanctioned load【4:1†source】.
+   - For multi-storey buildings, energy charges are Rs. 6.20/kWh (LMV-1b) and Rs. 5.90/kWh (HV-1b)【4:1†source】.
+   - Public Charging Stations have an energy charge of Rs. 7.70/kWh【4:1†source】.
+
+3. **Time of Day (TOD) Tariffs**:
+   - For summer months (April to September):
+     - 05:00 - 10:00 hrs: -15%
+     - 10:00 - 19:00 hrs: 0%
+     - 19:00 - 03:00 hrs: +15%
+     - 03:00 - 05:00 hrs: 0%
+   - For winter months (October to March):
+     - 05:00 - 11:00 hrs: 0%
+     - 11:00 - 17:00 hrs: 0%
+     - 17:00 - 23:00 hrs: +15%
+     - 23:00 - 05:00 hrs: -15%【4:6†source】【4:8†source】.
+
+These rates provide a structure for billing residential electricity consumers, along with provisions for EV charging and TOD tariffs.

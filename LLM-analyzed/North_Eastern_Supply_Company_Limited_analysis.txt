@@ -1,0 +1,19 @@
+The electricity rates for residential customers, effective from April 1, 2024, include several categories based on consumption:
+
+1. For single-phase domestic consumers:
+   - Consumption up to 30 units per month: fixed monthly charge of Rs. 70.
+   - Consumption between 31-50 units per month: Rs. 290.00 per unit.
+   - Consumption between 51-200 units per month: Rs. 470.00 per unit.
+   - Consumption between 201-400 units per month: Rs. 570.00 per unit.
+   - Consumption above 400 units per month: Rs. 610.00 per unit【4:2†source】.
+
+2. Rebates for residential customers:
+   - A general rebate of 10 paise/unit if paid within the due date【4:5†source】.
+
+Regarding Electric Vehicle and Time of Day tariffs:
+1. Electric vehicle charging through public systems or established by group housing societies is categorized under General Purpose with a tariff of Rs. 5.00 per unit【4:5†source】.
+
+2. Time of Day (ToD) tariffs are applicable for commercial, industrial, and smart meter consumers (with MD >10KW) with a ToD rebate of 10 paise/unit during solar hours and a surcharge of 20 paise/unit during peak hours. The defined times are:
+   - Solar Hours: 8.00 AM to 4.00 PM
+   - Normal Hours: 4.00 PM to 6.00 PM and 12.00 Midnight to 8.00 AM
+   - Peak Hours: 6.00 PM to 12.00 Midnight【4:10†source】【4:11†source】.

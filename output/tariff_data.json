@@ -1,6 +1,505 @@
 [
   {
-    "discom": "BESCOM",
-    "error": "Content extraction failed"
+    "discom": "Himachal Pradesh State Electricity Board Limited",
+    "state": "Himachal Pradesh",
+    "error": "PDF download failed",
+    "explored_urls": [
+      "https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/currenttariffrates/SoT%20for%20FY2023-24.pdf"
+    ],
+    "best_url": "https://www.hpseb.in/irj/go/km/docs/internet/New_Website/Pages/tariff2.html"
+  },
+  {
+    "discom": "Tata Power Delhi Distribution Limited",
+    "state": "Delhi",
+    "error": "'type'",
+    "explored_urls": [
+      "https://www.tatapower-ddl.com/Editor_UploadedDocuments/Content/Tariff_Schedule_2020-21.pdf"
+    ]
+  },
+  {
+    "discom": "BSES Rajdhani Power Limited",
+    "state": "Delhi",
+    "error": "'type'",
+    "explored_urls": [
+      "https://www.bsesdelhi.com/documents/55701/91985/Tariff_Schedule_2020_21.pdf/3a1aed11-0179-1be4-d73b-5ee9a9a6870b?t=1598869358543",
+      "https://www.bsesdelhi.com/documents/55701/1198720035/Guidelines_and_Standards_for_EVCI_17092024.pdf"
+    ]
+  },
+  {
+    "discom": "BSES Yamuna Power Limited",
+    "state": "Delhi",
+    "error": "'type'",
+    "explored_urls": [
+      "https://www.bsesdelhi.com/documents/55701/91985/Tariff_Schedule_2020_21.pdf/3a1aed11-0179-1be4-d73b-5ee9a9a6870b?t=1598869358543",
+      "https://www.bsesdelhi.com/documents/55701/1198720035/Guidelines_and_Standards_for_EVCI_17092024.pdf"
+    ]
+  },
+  {
+    "discom": "New Delhi Municipal Corporation",
+    "state": "Delhi",
+    "error": "'type'",
+    "explored_urls": [
+      "https://ndmc.gov.in/departments/Departments/Commercial/ElectricitytariffscheduleforFY2020-21-BRPLBYPLTPDDL&NDMC.pdf"
+    ]
+  },
+  {
+    "discom": "Uttar Haryana Bijli Vitran Nigam",
+    "state": "Haryana",
+    "error": "'type'",
+    "explored_urls": [
+      "https://www.uhbvn.org.in/staticContent/documents/Tariff.pdf"
+    ]
+  },
+  {
+    "discom": "Dakshin Haryana Bijli Vitran Nigam",
+    "state": "Haryana",
+    "error": "'type'",
+    "explored_urls": [
+      "https://dhbvn.org.in/staticContent/saleregulation/salecircular/circular2024/09_D_2024.pdf"
+    ]
+  },
+  {
+    "discom": "Uttarakhand Power Corporation Limited",
+    "state": "Uttarakhand",
+    "error": "'type'",
+    "explored_urls": [
+      "https://www.upcl.org/wp-content/uploads/2024/04/Public-Notice-Tariff-and-Charges-01-04-2024.pdf"
+    ]
+  },
+  {
+    "discom": "Punjab State Power Corporation Limited",
+    "state": "Punjab",
+    "error": "'type'",
+    "explored_urls": [
+      "https://docs.pspcl.in/docs/cecommercial2420240614200653433.pdf"
+    ]
+  },
+  {
+    "discom": "Purvanchal Vidyut Vitran Nigam Ltd.",
+    "state": "Uttar Pradesh",
+    "error": "No document found",
+    "explored_urls": [
+      "https://pvvnl.org/uploads/tarifforder/Rate%20schedule.pdf",
+      "https://uppcl.org/site/writereaddata/siteContent/202410151953137730Press%20English_FY%202024-25.pdf"
+    ]
+  },
+  {
+    "discom": "Paschimanchal Vidyut Vitran Nigam Limited",
+    "state": "Uttar Pradesh",
+    "error": "No document found",
+    "explored_urls": [
+      "https://pvvnl.org/uploads/tarifforder/Rate%20schedule.pdf",
+      "https://uppcl.org/site/writereaddata/siteContent/202410151953137730Press%20English_FY%202024-25.pdf"
+    ]
+  },
+  {
+    "discom": "Madhyanchal Vidyut Vitran Nigam Limited",
+    "state": "Uttar Pradesh",
+    "error": "'type'",
+    "explored_urls": [
+      "https://mvvnl.in/site/writereaddata/siteContent/202410161749029070RATE-SCHEDULE%20English_FY_161024.pdf",
+      "https://uppcl.org/site/writereaddata/siteContent/202410151953137730Press%20English_FY%202024-25.pdf"
+    ]
+  },
+  {
+    "discom": "Dhakshinachal Vidyut Vitran Nigam Limited",
+    "state": "Uttar Pradesh",
+    "error": "'type'",
+    "explored_urls": [
+      "https://www.dvvnl.org/UploadFiles/tariffPlan/Public%20Notice%20English_FY2023-24.pdf",
+      "https://uppcl.org/site/writereaddata/siteContent/202410151953137730Press%20English_FY%202024-25.pdf"
+    ]
+  },
+  {
+    "discom": "Electricity Department, UT of Chandigarh",
+    "state": "Chandigarh",
+    "error": "'type'",
+    "explored_urls": [
+      "https://chdengineering.gov.in/electricity-dept/sites/electricity-dept/files/2024-05/2024-06/petition%20chandigarh_1077-.pdf"
+    ]
+  },
+  {
+    "discom": "Jammu & Kashmir Power Development Department",
+    "state": "Jammu & Kashmir",
+    "error": "No document found",
+    "explored_urls": [
+      "https://jercjkl.nic.in/pdf/JKPDCL%20for%20%20FY%202024-25%20Tariff%20Order.pdf"
+    ]
+  },
+  {
+    "discom": "Manipur State Power Distribution Company Ltd",
+    "state": "Manipur",
+    "error": "No document found",
+    "explored_urls": [
+      "https://mspdcl.info/uploads/notifications/notification-d4f41d39f60014abdc0cc01c81d150d9.pdf"
+    ]
+  },
+  {
+    "discom": "Department of Power, Arunachal Pradesh",
+    "state": "Arunachal Pradesh",
+    "error": "'type'",
+    "explored_urls": [
+      "https://power.arunachal.gov.in/wp-content/uploads/2018/06/12_sep.pdf"
+    ]
+  },
+  {
+    "discom": "Department of Power, Nagaland",
+    "state": "Nagaland",
+    "error": "No document found",
+    "explored_urls": [
+      "https://ipr.nagaland.gov.in/sites/default/files/2023-01/Public%20Notice%20Tariff%20Petition%20for%20FY%202023-24.pdf"
+    ]
+  },
+  {
+    "discom": "Sikkim Power Development Corporation Limited",
+    "state": "Sikkim",
+    "error": "No document found",
+    "explored_urls": [
+      "https://sikkim.gov.in/uploads/Gazette/333_20240704.pdf"
+    ]
+  },
+  {
+    "discom": "Meghalaya Energy Distribution Corporation Limited",
+    "state": "Meghalaya",
+    "error": "No document found",
+    "explored_urls": [
+      "https://meecl.nic.in/wp-content/uploads/2021/05/TariffOrder2021English-1.pdf?x98274",
+      "https://meecl.nic.in/wp-content/uploads/2021/05/MePGCL-Old-stations-n-Sonapani-MYT-Petition-FY-21-24.pdf?x98274",
+      "https://meecl.nic.in/wp-content/uploads/2023/04/Notice-forTariff-wef-1-4-2023.pdf?x98274",
+      "https://meecl.nic.in/wp-content/uploads/2024/01/MSERC_Electricity_Supply_Code_Regulations_2018.pdf?x98274",
+      "https://meecl.nic.in/wp-content/uploads/2021/01/TariffBooklet2018-19.pdf?x98274",
+      "https://meecl.nic.in/wp-content/uploads/2023/04/Notice-forTariff-wef-1-4-2023.pdf?x98274",
+      "https://meecl.nic.in/wp-content/uploads/2021/05/TariffOrder2021English-1.pdf?x98274",
+      "https://meecl.nic.in/wp-content/uploads/2021/12/Petition-for-revision-of-tariff-of-MePDCL-for-FY-2022-23.pdf?x98274",
+      "https://meecl.nic.in/wp-content/uploads/2024/01/MSERC_Electricity_Supply_Code_Regulations_2018.pdf?x98274",
+      "https://meecl.nic.in/wp-content/uploads/2021/05/MePGCL-Old-stations-n-Sonapani-MYT-Petition-FY-21-24.pdf?x98274"
+    ]
+  },
+  {
+    "discom": "Power & Electricity Department, Government of Mizoram",
+    "state": "Mizoram",
+    "error": "'type'",
+    "explored_urls": [
+      "https://power.mizoram.gov.in/uploads/attachments/2024/09/e1184ff93be7abc4b0dd54bd7fa0734d/electricity-rights-of-consumers-amendment-rules-2024.pdf"
+    ]
+  },
+  {
+    "discom": "North Bihar Power Distribution Company Limited",
+    "state": "Bihar",
+    "error": "No document found",
+    "explored_urls": []
+  },
+  {
+    "discom": "South Bihar Power Distribution Company Limited",
+    "state": "Bihar",
+    "error": "No document found",
+    "explored_urls": []
+  },
+  {
+    "discom": "Assam Power Distribution Company Limited",
+    "state": "Assam",
+    "error": "'type'",
+    "explored_urls": [
+      "https://www.apdcl.org/website/docs/acts_and_rules/Tariff_notification_Feb23.pdf"
+    ]
+  },
+  {
+    "discom": "Tripura State Electricity Corporation Limited",
+    "state": "Tripura",
+    "error": "PDF download failed",
+    "explored_urls": [
+      "https://www.tsecl.in/PDF/Tariff_Schedule_for_FY_2024-25.pdf"
+    ],
+    "best_url": "https://www.tsecl.in/PDF/Tariff_Schedule_for_FY_2024-25.pdf"
+  },
+  {
+    "discom": "Kerala State Electricity Board Limited",
+    "state": "Kerala",
+    "error": "'type'",
+    "explored_urls": [
+      "https://kseb.in/uploads/Downloadtemsuppy/Tariff%20Revision%20Circular%202023-24-1700134451843511849.pdf"
+    ]
+  },
+  {
+    "discom": "Chamundeshwari Electricity Supply Corporation Limited",
+    "state": "Karnataka",
+    "error": "'type'",
+    "explored_urls": [
+      "https://srtpv.cescmysore.org/CESCSRTPV/document/KERCSRTPVtariff2024.pdf"
+    ]
+  },
+  {
+    "discom": "Gulbarga Electricity Supply Company Limited",
+    "state": "Karnataka",
+    "error": "No document found",
+    "explored_urls": []
+  },
+  {
+    "discom": "Bangalore Electricity Supply Company Limited",
+    "state": "Karnataka",
+    "error": "'type'",
+    "explored_urls": [
+      "https://srtpv.bescom.org/SRTPV/document/2_BESCOM_SRTPV_tariff_OM.pdf"
+    ]
+  },
+  {
+    "discom": "Mangalore Electricity Supply Company Limited",
+    "state": "Karnataka",
+    "error": "No document found",
+    "explored_urls": []
+  },
+  {
+    "discom": "Hubli Electricity Supply Company Limited",
+    "state": "Karnataka",
+    "error": "'type'",
+    "explored_urls": [
+      "https://www.hescom.co.in/hescom/assets/pdfs/Schedule%20of%20charges%20for%20New%20Connection.pdf"
+    ]
+  },
+  {
+    "discom": "Telangana State Southern Power Distribution Company Ltd",
+    "state": "Telangana",
+    "error": "'type'",
+    "explored_urls": [
+      "http://www.tssouthernpower.com/resources/PDF/Tariffs/51tarifffile.pdf"
+    ]
+  },
+  {
+    "discom": "Telangana State Northern Power Distribution Company Ltd",
+    "state": "Telangana",
+    "error": "No document found",
+    "explored_urls": []
+  },
+  {
+    "discom": "Electricity Department, UT of Lakshadweep",
+    "state": "Lakshadweep",
+    "error": "No document found",
+    "explored_urls": []
+  },
+  {
+    "discom": "Electricity Department, UT of Puducherry",
+    "state": "Puducherry",
+    "error": "PDF download failed",
+    "explored_urls": [
+      "https://electricity.py.gov.in/sites/default/files/Tariff%20Petition%20for%20FY%2024-25.pdf"
+    ],
+    "best_url": "https://electricity.py.gov.in/sites/default/files/Tariff%20Petition%20for%20FY%2024-25.pdf"
+  },
+  {
+    "discom": "Electricity Department, UT of Andaman & Nicobar",
+    "state": "Andaman & Nicobar",
+    "error": "No document found",
+    "explored_urls": []
+  },
+  {
+    "discom": "Southern Power Distribution Company of A.P. Limited",
+    "state": "Andhra Pradesh",
+    "error": "'type'",
+    "explored_urls": [
+      "https://www.apspdcl.in/regulatory/Tariff%20Schedule%20for%20FY%202024-25.pdf"
+    ]
+  },
+  {
+    "discom": "Andhra Pradesh Eastern Power Distribution Company Ltd",
+    "state": "Andhra Pradesh",
+    "error": "No document found",
+    "explored_urls": []
+  },
+  {
+    "discom": "Tamil Nadu Generation & Distribution Corporation Limited",
+    "state": "Tamil Nadu",
+    "error": "No document found",
+    "explored_urls": [
+      "https://www.tangedco.org/static/tangedco/assets/files/tariff/2024/TO615072024.pdf"
+    ]
+  },
+  {
+    "discom": "Uttar Gujarat Vij Company Limited",
+    "state": "Gujarat",
+    "error": "No document found",
+    "explored_urls": [
+      "https://www.ugvcl.com/public/uploads/Tariff%20Order%2024-25.pdf"
+    ]
+  },
+  {
+    "discom": "Madhya Gujarat Vij Company Limited",
+    "state": "Gujarat",
+    "error": "PDF download failed",
+    "explored_urls": [
+      "https://mgvcl.com/Upload/REDRESSAL%20FORUM/Q1_2024-25/Shri%20Manubhai%20Katariya%20Vadodara%20040524.pdf"
+    ],
+    "best_url": "https://mgvcl.com/Upload/REDRESSAL%20FORUM/Q1_2024-25/Shri%20Manubhai%20Katariya%20Vadodara%20040524.pdf"
+  },
+  {
+    "discom": "Paschim Gujarat Vij Company Limited",
+    "state": "Gujarat",
+    "error": "No document found",
+    "explored_urls": []
+  },
+  {
+    "discom": "Dakshin Gujarat Vij Company Limited",
+    "state": "Gujarat",
+    "error": "No document found",
+    "explored_urls": []
+  },
+  {
+    "discom": "Electricity Department, Government of Goa",
+    "state": "Goa",
+    "error": "No document found",
+    "explored_urls": []
+  },
+  {
+    "discom": "Madhya Pradesh Madhya Kshetra Vidyut Vitran Company Limited",
+    "state": "Madhya Pradesh",
+    "error": "No document found",
+    "explored_urls": [
+      "https://portal.mpcz.in/upload_files/pdf/mperc_regulation/tariff_details/LT_tarrif/Tariff_LT_Year_24_25.pdf"
+    ]
+  },
+  {
+    "discom": "MP Paschim Kshetra Vidyut Vitran Company Limited",
+    "state": "Madhya Pradesh",
+    "error": "'type'",
+    "explored_urls": [
+      "https://www.mpwz.co.in/assets/img/pdf/Public_Notice_for_Tariif_Order_for_FY_2021-22_-English.pdf"
+    ]
+  },
+  {
+    "discom": "MP Poorv Kshetra Vidyut Vitran Company Limited",
+    "state": "Madhya Pradesh",
+    "error": "'type'",
+    "explored_urls": [
+      "https://mpez.co.in/media/mpercord/TariffOrder_2024-25.pdf"
+    ]
+  },
+  {
+    "discom": "Jaipur Vidyut Vitran Nigam Limited",
+    "state": "Rajasthan",
+    "error": "No document found",
+    "explored_urls": [
+      "https://cescrajasthan.co.in/kedl/pages/event/uploads/JVVNL_Tariff-24.pdf"
+    ]
+  },
+  {
+    "discom": "Ajmer Vidyut Vitran Nigam Limited",
+    "state": "Rajasthan",
+    "error": "No document found",
+    "explored_urls": []
+  },
+  {
+    "discom": "Adani Electricity Mumbai Limited",
+    "state": "Maharashtra",
+    "error": "No document found",
+    "explored_urls": [
+      "https://www.adanielectricity.com/-/media/ElectricityFeature/ElectricityNew/Tariff/AEML-Tariff-FY-2024-25.pdf"
+    ]
+  },
+  {
+    "discom": "Tata Power Company Limited Mumbai",
+    "state": "Maharashtra",
+    "error": "No document found",
+    "explored_urls": [
+      "https://www.tatapower.com/content/dam/tatapoweraemsitesprogram/tatapower/pdf-root/regulatory/licence-area-mumbai/consumer/tariff-booklet---tariff-sheet/Traffic%20Booklet%20as%20per%20Order%20237%20of%202023.pdf"
+    ]
+  },
+  {
+    "discom": "Jodhpur Vidyut vitran Nigam Limited",
+    "state": "Rajasthan",
+    "error": "No document found",
+    "explored_urls": [
+      "https://cescrajasthan.co.in/kedl/pages/event/uploads/JVVNL_Tariff-24.pdf"
+    ]
+  },
+  {
+    "discom": "Maharashtra State Electricity Distribution Co. Ltd.",
+    "state": "Maharashtra",
+    "error": "'type'",
+    "explored_urls": [
+      "https://www.mahadiscom.in/consumer/wp-content/uploads/2020/04/Commercial_Circular_for_MYT_Order-3.pdf"
+    ]
+  },
+  {
+    "discom": "Brihmanmumbai Electric Supply Company",
+    "state": "Maharashtra",
+    "error": "'type'",
+    "explored_urls": [
+      "https://www.bestundertaking.com/pdf/Retail%20Electricity%20Tariff%20Schedule%20(English).pdf"
+    ]
+  },
+  {
+    "discom": "Chhattisgarh State Power Distribution Company Ltd.",
+    "state": "Chhattisgarh",
+    "error": "'type'",
+    "explored_urls": [
+      "https://www.cspdcl.co.in/cseb/Files/Tariff%20Schedule%202024-25.pdf"
+    ]
+  },
+  {
+    "discom": "Dadra & Nagar Haveli Power Distribution Corporation Ltd",
+    "state": "Dadra & Nagar Haveli",
+    "error": "No document found",
+    "explored_urls": [
+      "https://www.eqmagpro.com/wp-content/uploads/2024/06/DNHDDPDCL-Tariff-Order_compressed-1-30.pdf"
+    ]
+  },
+  {
+    "discom": "Electricity Department, UT of Daman & Diu",
+    "state": "Daman & Diu",
+    "error": "No document found",
+    "explored_urls": []
+  },
+  {
+    "discom": "West Bengal State Electricity Distribution Company Limited",
+    "state": "West Bengal",
+    "error": "'type'",
+    "explored_urls": [
+      "https://www.wbsedcl.in/irj/go/km/docs/internet/new_website/pdf/Tariff_Volumn/Tariff_chart_dated_06.03.2024_for_the_year_2024-25_12_03_1_27_03.pdf"
+    ]
+  },
+  {
+    "discom": "Durgapur Project Limited",
+    "state": "West Bengal",
+    "error": "No document found",
+    "explored_urls": []
+  },
+  {
+    "discom": "Jharkhand Bijli Vitran Nigam Limited",
+    "state": "Jharkhand",
+    "error": "'type'",
+    "explored_urls": [
+      "https://jbvnl.co.in/notice/commercial/UH28NX.Tariff_Proposal_FY_24-25.pdf"
+    ]
+  },
+  {
+    "discom": "North Eastern Supply Company Limited",
+    "state": "Odisha",
+    "error": "No document found",
+    "explored_urls": [
+      "https://www.tpsouthernodisha.com/Editor_UploadedDocuments/Content/TPSODL-Retail_Tariff_Notification-2024-25.pdf"
+    ]
+  },
+  {
+    "discom": "Southern Electricity Supply Company Limited",
+    "state": "Odisha",
+    "error": "No document found",
+    "explored_urls": [
+      "https://www.tpsouthernodisha.com/Editor_UploadedDocuments/Content/TPSODL-Retail_Tariff_Notification-2024-25.pdf"
+    ]
+  },
+  {
+    "discom": "Central Electricity Supply Company Limited",
+    "state": "Odisha",
+    "error": "No document found",
+    "explored_urls": [
+      "https://www.tpsouthernodisha.com/Editor_UploadedDocuments/Content/TPSODL-Retail_Tariff_Notification-2024-25.pdf"
+    ]
+  },
+  {
+    "discom": "Western Electricity Supply Company of Odisha Limited",
+    "state": "Odisha",
+    "error": "No document found",
+    "explored_urls": [
+      "https://www.tpsouthernodisha.com/Editor_UploadedDocuments/Content/TPSODL-Retail_Tariff_Notification-2024-25.pdf"
+    ]
   }
 ]

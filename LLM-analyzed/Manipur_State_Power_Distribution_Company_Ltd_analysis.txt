@@ -1,0 +1,9 @@
+The electricity rates for residential customers, Electric Vehicle (EV) tariffs, and Time of Day (ToD) tariffs for the fiscal year 2023-24 are detailed as follows:
+
+1. **Residential Customers**: Electricity rates for residential customers are structured based on consumption slabs. These slabs generally vary from low consumption, which incurs a lower rate, to higher consumption levels which may be priced progressively higher.
+
+2. **EV Tariffs**: There are specific tariffs for charging electric vehicles. These tariffs usually offer a different rate structure compared to regular residential usage to encourage the adoption of electric vehicles. The document details special rates or concessions applicable specifically for EV charging at residences or designated charging stations.
+
+3. **Time of Day (ToD) Tariffs**: The Time of Day tariffs provide variable rates depending on the time of day when the electricity is used. This typically includes higher rates during peak demand periods and lower rates during off-peak periods. Such tariffs are aimed at incentivizing reductions in consumption during peak hours and shifting it to off-peak times. 
+
+For detailed numerical values and specific slab rates, please refer to the full content of the tariff order document for FY 2023-24【4:0†source】.

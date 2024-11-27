@@ -1,0 +1,27 @@
+The electricity rates for residential customers for the FY 2024-25 are as follows:
+
+For metered supply in urban areas:
+- **Fixed Charge**: ₹110 per kW per month
+- **Energy Charge**: 
+  - Upto 100 kWh/month: ₹6.85 per kWh
+  - 101-150 kWh/month: ₹6.85 per kWh
+  - 151-300 kWh/month: ₹6.85 per kWh
+  - Above 300 kWh/month: ₹6.85 per kWh【4:6†source】.
+
+Regarding Electric Vehicle (EV) and Time of Day (ToD) tariffs:
+1. **EV Charging Tariffs**:
+   - **Public Charging Stations and State Road Transport EV Charging Stations**:
+     - EV Charging Station LT: Energy charge of ₹7.70 per kWh
+     - EV Charging Station HT: Energy charge of ₹7.30 per kWh【4:1†source】.
+
+2. **Time of Day (ToD) Tariffs**: These are applicable in urban schedules for large and heavy power consumers:
+   - **Summer Months (April to September)**:
+     - 05:00 hrs–10:00 hrs: (-) 15%
+     - 10:00 hrs–19:00 hrs: No percentage
+     - 19:00 hrs–03:00 hrs: (+) 15%
+     - 03:00 hrs–05:00 hrs: No percentage
+   - **Winter Months (October to March)**:
+     - 05:00 hrs–11:00 hrs: No percentage
+     - 11:00 hrs–17:00 hrs: No percentage
+     - 17:00 hrs–23:00 hrs: (+) 15%
+     - 23:00 hrs–05:00 hrs: (-) 15%【4:10†source】.

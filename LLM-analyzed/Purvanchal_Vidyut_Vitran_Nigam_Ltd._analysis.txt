@@ -1,0 +1,39 @@
+The electricity rates for residential customers are structured as follows:
+
+1. **Lifeline Consumers**: 
+   - With a contracted load of 1 kW and energy consumption up to 100 kWh/month:
+     - Fixed Charge: Rs. 50 per kW per month
+     - Energy Charge: Rs. 6.50 per kWh【4:5†source】.
+
+2. **Other than Lifeline Consumers**:
+   - Metered Tariff:
+     - Up to 100 kWh/month: Energy Charge is Rs. 6.65 per kWh
+     - 101-150 kWh/month: Energy Charge is Rs. 6.85 per kWh
+     - 151-300 kWh/month: Energy Charge is Rs. 6.85 per kWh
+     - Above 300 kWh/month: Energy Charge is Rs. 6.85 per kWh【4:9†source】.
+
+3. **Bulk Loads**:
+   - Single Point Supply:
+     - Fixed Charge: Rs. 110 per kW per month
+     - Energy Charge: Rs. 7.00 per kWh【4:9†source】.
+
+Regarding EV and Time of Day (ToD) tariffs:
+
+1. **EV Charging**:
+   - Existing consumer categories such as LMV-1, LMV-2, LMV-4, etc., may use their current electricity connection for charging EVs.
+   - If the EV charging requires more power, consumers can apply for an increased sanctioned load【4:1†source】.
+
+2. **Time of Day (ToD) Tariffs**:
+   - For small and medium power consumers, different ToD tariffs apply in summer and winter months:
+     - **Summer (April to September)**: 
+       - 05:00-10:00 hrs: -15% 
+       - 10:00-19:00 hrs: 0%
+       - 19:00-03:00 hrs: +15%
+       - 03:00-05:00 hrs: 0%
+     - **Winter (October to March)**:
+       - 05:00-11:00 hrs: 0%
+       - 11:00-17:00 hrs: 0%
+       - 17:00-23:00 hrs: +15%
+       - 23:00-05:00 hrs: -15%【4:7†source】.
+
+These are the key residential and specialized tariff structures for the given fiscal year.

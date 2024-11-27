@@ -1,0 +1,30 @@
+The electricity rates for residential customers under different categories are as follows:
+
+1. **General Domestic Consumers**:
+   - Fixed Charge: Rs. 90/kW/month
+   - Energy Charges:
+     - Up to 100 kWh/Month: Rs. 6.65/kWh
+     - 101-150 kWh/Month: Rs. 6.85/kWh
+     - 151-300 kWh/Month: Rs. 6.85/kWh
+     - Above 300 kWh/Month: Rs. 6.85/kWh【4:9†source】.
+
+2. **EV Tariffs**:
+   - Consumers including LMV-1 can use their existing connection to charge EVs.
+   - Energy Charge for EV Charging Stations:
+     - LT (Low Tension): Rs. 7.70/kWh
+     - HT (High Tension): Rs. 7.30/kWh【4:1†source】.
+
+3. **Time of Day Tariffs (TOD)**: 
+   - For small and medium power consumers, the TOD structure varies seasonally:
+     - **Summer (April to September)**:
+       - 05:00 - 10:00 hrs: -15%
+       - 10:00 - 19:00 hrs: No change
+       - 19:00 - 03:00 hrs: +15%
+       - 03:00 - 05:00 hrs: No change
+     - **Winter (October to March)**:
+       - 05:00 - 11:00 hrs: No change
+       - 11:00 - 17:00 hrs: No change
+       - 17:00 - 23:00 hrs: +15%
+       - 23:00 - 05:00 hrs: -15%【4:5†source】【4:7†source】. 
+
+Overall, these tariffs and TOD adjustments allow for flexible billing depending on usage patterns and timing of electricity consumption.

@@ -1,0 +1,21 @@
+The electricity rates for residential customers are structured as follows:
+
+- For Residential (BPL):
+  - Fixed Charge: Rs. 10
+  - Energy Charges: Rs. 1.33 per kWh
+
+- For General Residential category:
+  - For 0 - 100 units: Fixed Charges vary, often Rs. 70 to 80, and Energy Charges are around Rs. 1.69 to 1.83 per kWh
+  - For 101 - 300 units: Fixed Charges around Rs. 115 to 130, and Energy Charges are roughly Rs. 4.32 to 4.46 per kWh
+  - For 301 - 500 units: Fixed Charges around Rs. 120 to 130, and Energy Charges approximately Rs. 7.16 to 7.34 per kWh
+  - For consumption above 500 units: Fixed Charges around Rs. 135 to 165, and Energy Charges approximately Rs. 8.72 to 8.91 per kWh【4:11†source】【4:13†source】【4:8†source】.
+
+There are specific tariffs for Electric Vehicle (EV) charging stations:
+- HT VI (High Tension for EV) category and LT VI (Low Tension for EV) category both have a fixed charge of Rs. 70 per KVA, with energy charges ranging around Rs. 4.04 to 5.04 per kWh【4:4†source】【4:0†source】【4:9†source】.
+
+Regarding Time of Day (ToD) tariffs, they are compulsory for several high-tension and low-tension categories with a sanctioned load above 20 kW, and optional for others below this threshold. The ToD tariffs add specific charges depending on the time slots for electricity usage:
+- From 1800 to 2200 hours: Rs. 1.00 per kWh (additional charge)
+- From 2200 to 0600 hours: Rs. -0.75 per kWh (discount)
+- From 0600 to 0900 hours: Rs. 0.00 per kWh 
+- From 0900 to 1200 hours: Rs. 0.50 per kWh
+- From 1200 to 1800 hours: Rs. 0.00 per kWh【4:1†source】【4:7†source】【4:10†source】.
